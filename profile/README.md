@@ -1,6 +1,8 @@
 # .github
 ePlus.DEV
 
+![](https://komarev.com/ghpvc/?username=hoangsvit&style=for-the-badge)
+
 ## Today's Weather Forecast in My Hometown
 
 
@@ -37,6 +39,6 @@ Moderate rain
 
 
 <div align="right">
-    Updated at: 2023-10-17T15:46:36Z - by <a target="_blank"
+    Updated at: 2023-10-17T15:47:47Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
