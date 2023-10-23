@@ -9,9 +9,9 @@ ePlus.DEV
 
 `Saigon, Vietnam - 24/10/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/308.png" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png" />
 
-Heavy rain
+Moderate rain
 
 
 <table>
@@ -39,6 +39,6 @@ Heavy rain
 
 
 <div align="right">
-    Updated at: 2023-10-23T17:35:03Z - by <a target="_blank"
+    Updated at: 2023-10-23T17:41:08Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
