@@ -7,7 +7,7 @@ ePlus.DEV
 
 
 
-`Saigon, Vietnam - 26/10/2023`
+`Ho Chi Minh City, Vietnam - 26/10/2023`
 
 <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" />
 
@@ -39,6 +39,6 @@ Patchy rain possible
 
 
 <div align="right">
-    Updated at: 2023-10-26T13:48:00Z - by <a target="_blank"
+    Updated at: 2023-10-26T13:49:01Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
