@@ -9,9 +9,9 @@ ePlus.DEV
 
 `Ho Chi Minh City, Vietnam - 30/10/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png" />
 
-Patchy rain possible
+Moderate rain
 
 
 <table>
@@ -39,6 +39,6 @@ Patchy rain possible
 
 
 <div align="right">
-    Updated at: 2023-10-29T23:04:53Z - by <a target="_blank"
+    Updated at: 2023-10-29T23:17:41Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
