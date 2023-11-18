@@ -29,7 +29,7 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>22.8 °C</td><td>22.5 °C</td><td>22.2 °C</td><td>21.8 °C</td><td>21.5 °C</td><td>21.4 °C</td><td>21.3 °C</td><td>22.5 °C</td><td>24.4 °C</td><td>26.3 °C</td><td>27.9 °C</td><td>30 °C</td><td>30.1 °C</td><td>30.7 °C</td><td>31 °C</td><td>30.8 °C</td><td>30 °C</td><td>28.3 °C</td><td>26.5 °C</td><td>25.6 °C</td><td>25.2 °C</td><td>24.7 °C</td><td>24.4 °C</td><td>24.1 °C</td>
+        <td>22.8 °C</td><td>22.5 °C</td><td>22.2 °C</td><td>21.8 °C</td><td>21.5 °C</td><td>21.4 °C</td><td>21.3 °C</td><td>22.5 °C</td><td>24.4 °C</td><td>26.3 °C</td><td>27.9 °C</td><td>29 °C</td><td>30.1 °C</td><td>30.7 °C</td><td>31 °C</td><td>30.8 °C</td><td>30 °C</td><td>28.3 °C</td><td>26.5 °C</td><td>25.6 °C</td><td>25.2 °C</td><td>24.7 °C</td><td>24.4 °C</td><td>24.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -39,6 +39,6 @@ Sunny
 
 
 <div align="right">
-    Updated at: 2023-11-18T04:10:57Z - by <a target="_blank"
+    Updated at: 2023-11-18T04:26:19Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
