@@ -9,9 +9,9 @@ ePlus.DEV
 
 `Ho Chi Minh City, Vietnam - 23/11/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/308.png" />
 
-Moderate rain
+Heavy rain
 
 
 <table>
@@ -39,6 +39,6 @@ Moderate rain
 
 
 <div align="right">
-    Updated at: 2023-11-22T23:25:40Z - by <a target="_blank"
+    Updated at: 2023-11-22T23:31:59Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
