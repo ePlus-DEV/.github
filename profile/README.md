@@ -9,9 +9,9 @@ ePlus.DEV
 
 `Ho Chi Minh City, Vietnam - 13/12/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" />
 
-Sunny
+Patchy rain possible
 
 
 <table>
@@ -39,6 +39,6 @@ Sunny
 
 
 <div align="right">
-    Updated at: 2023-12-12T17:25:00Z - by <a target="_blank"
+    Updated at: 2023-12-12T17:31:14Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
