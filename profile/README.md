@@ -33,12 +33,12 @@ Sunny
     </tr>
     <tr>
         <th>Wind</th>
-        <td>8.3 kph</td><td>7.2 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>7.6 kph</td><td>9.4 kph</td><td>11.5 kph</td><td>11.2 kph</td><td>10.8 kph</td><td>10.8 kph</td><td>10.8 kph</td><td>10.8 kph</td><td>6.8 kph</td><td>7.2 kph</td><td>12.6 kph</td><td>13.3 kph</td><td>15.1 kph</td><td>14 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>11.5 kph</td><td>9.4 kph</td>
+        <td>8.3 kph</td><td>7.2 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>7.6 kph</td><td>9.4 kph</td><td>11.5 kph</td><td>11.2 kph</td><td>10.8 kph</td><td>10.8 kph</td><td>10.8 kph</td><td>10.8 kph</td><td>6.8 kph</td><td>7.2 kph</td><td>12.6 kph</td><td>13.3 kph</td><td>11.2 kph</td><td>14 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>11.5 kph</td><td>9.4 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-    Updated at: 2023-12-16T11:05:53Z - by <a target="_blank"
+    Updated at: 2023-12-16T11:16:01Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
