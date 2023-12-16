@@ -9,9 +9,9 @@ ePlus.DEV
 
 `Ho Chi Minh City, Vietnam - 17/12/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" />
 
-Partly cloudy
+Patchy rain possible
 
 
 <table>
@@ -33,12 +33,12 @@ Partly cloudy
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.9 kph</td><td>9 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>9.7 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>10.1 kph</td><td>9.7 kph</td><td>6.5 kph</td><td>4 kph</td><td>4 kph</td><td>5.8 kph</td><td>6.5 kph</td><td>7.9 kph</td><td>11.5 kph</td><td>13.3 kph</td><td>13.7 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>9 kph</td><td>7.6 kph</td><td>3.6 kph</td><td>5 kph</td>
+        <td>7.9 kph</td><td>6.8 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>9.7 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>10.1 kph</td><td>9.7 kph</td><td>6.5 kph</td><td>4 kph</td><td>4 kph</td><td>5.8 kph</td><td>6.5 kph</td><td>7.9 kph</td><td>11.5 kph</td><td>13.3 kph</td><td>13.7 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>9 kph</td><td>7.6 kph</td><td>3.6 kph</td><td>5 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-    Updated at: 2023-12-16T17:11:39Z - by <a target="_blank"
+    Updated at: 2023-12-16T17:23:31Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
