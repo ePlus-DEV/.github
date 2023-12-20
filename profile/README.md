@@ -29,7 +29,7 @@ Partly cloudy
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.9 °C</td><td>25.7 °C</td><td>25.3 °C</td><td>24.8 °C</td><td>24.2 °C</td><td>23.7 °C</td><td>23.5 °C</td><td>24.4 °C</td><td>26.5 °C</td><td>28.8 °C</td><td>30 °C</td><td>32.3 °C</td><td>33.4 °C</td><td>33.9 °C</td><td>33.3 °C</td><td>32.6 °C</td><td>29.5 °C</td><td>27.2 °C</td><td>27.3 °C</td><td>27 °C</td><td>26.9 °C</td><td>26.5 °C</td><td>26.2 °C</td><td>25.7 °C</td>
+        <td>25.9 °C</td><td>25.7 °C</td><td>25.3 °C</td><td>24.8 °C</td><td>24.2 °C</td><td>23.7 °C</td><td>23.5 °C</td><td>24.4 °C</td><td>26.5 °C</td><td>28.8 °C</td><td>31 °C</td><td>32.3 °C</td><td>33.4 °C</td><td>33.9 °C</td><td>33.3 °C</td><td>32.6 °C</td><td>29.5 °C</td><td>27.2 °C</td><td>27.3 °C</td><td>27 °C</td><td>26.9 °C</td><td>26.5 °C</td><td>26.2 °C</td><td>25.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -39,6 +39,6 @@ Partly cloudy
 
 
 <div align="right">
-    Updated at: 2023-12-20T03:06:46Z - by <a target="_blank"
+    Updated at: 2023-12-20T03:17:16Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
