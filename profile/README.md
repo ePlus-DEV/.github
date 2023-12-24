@@ -9,9 +9,9 @@ ePlus.DEV
 
 `Ho Chi Minh City, Vietnam - 24/12/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" />
 
-Partly cloudy
+Cloudy
 
 
 <table>
@@ -39,6 +39,6 @@ Partly cloudy
 
 
 <div align="right">
-    Updated at: 2023-12-24T05:31:37Z - by <a target="_blank"
+    Updated at: 2023-12-24T05:37:50Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
