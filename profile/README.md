@@ -33,12 +33,12 @@ Patchy rain possible
     </tr>
     <tr>
         <th>Wind</th>
-        <td>3.6 kph</td><td>4.3 kph</td><td>4 kph</td><td>2.9 kph</td><td>4 kph</td><td>3.2 kph</td><td>2.9 kph</td><td>3.6 kph</td><td>4 kph</td><td>1.1 kph</td><td>0.7 kph</td><td>1.1 kph</td><td>2.9 kph</td><td>4.7 kph</td><td>6.5 kph</td><td>5.8 kph</td><td>5 kph</td><td>13.7 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>13 kph</td><td>10.4 kph</td><td>7.2 kph</td>
+        <td>3.6 kph</td><td>4.3 kph</td><td>4 kph</td><td>2.9 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>2.9 kph</td><td>3.6 kph</td><td>4 kph</td><td>1.1 kph</td><td>0.7 kph</td><td>1.1 kph</td><td>2.9 kph</td><td>4.7 kph</td><td>6.5 kph</td><td>5.8 kph</td><td>5 kph</td><td>13.7 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>13 kph</td><td>10.4 kph</td><td>7.2 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-    Updated at: 2023-12-28T21:11:12Z - by <a target="_blank"
+    Updated at: 2023-12-28T21:19:43Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
