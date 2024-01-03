@@ -9,9 +9,9 @@ ePlus.DEV
 
 `Ho Chi Minh City, Vietnam - 04/01/2024`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" />
 
-Sunny
+Partly cloudy
 
 
 <table>
@@ -39,6 +39,6 @@ Sunny
 
 
 <div align="right">
-    Updated at: 2024-01-03T23:49:48Z - by <a target="_blank"
+    Updated at: 2024-01-03T23:56:06Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
