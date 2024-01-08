@@ -33,12 +33,12 @@ Partly cloudy
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.8 kph</td><td>4.3 kph</td><td>3.2 kph</td><td>2.2 kph</td><td>0 kph</td><td>1.8 kph</td><td>3.2 kph</td><td>5 kph</td><td>5 kph</td><td>6.5 kph</td><td>6.8 kph</td><td>6.8 kph</td><td>5 kph</td><td>5.4 kph</td><td>2.2 kph</td><td>6.5 kph</td><td>17.6 kph</td><td>19.1 kph</td><td>16.2 kph</td><td>14.4 kph</td><td>14.8 kph</td><td>14.4 kph</td><td>12.6 kph</td><td>4 kph</td>
+        <td>6.8 kph</td><td>4.3 kph</td><td>3.2 kph</td><td>2.2 kph</td><td>0 kph</td><td>1.8 kph</td><td>3.2 kph</td><td>5 kph</td><td>5 kph</td><td>6.5 kph</td><td>6.8 kph</td><td>6.8 kph</td><td>5 kph</td><td>5.4 kph</td><td>2.2 kph</td><td>6.5 kph</td><td>17.6 kph</td><td>19.1 kph</td><td>16.2 kph</td><td>14.4 kph</td><td>14.8 kph</td><td>14.4 kph</td><td>12.6 kph</td><td>3.6 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-    Updated at: 2024-01-08T16:08:59Z - by <a target="_blank"
+    Updated at: 2024-01-08T16:28:31Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
