@@ -1,6 +1,6 @@
 # ePlus.DEV
 
-![](https://komarev.com/ghpvc/?username=ePlus-DEV&style=for-the-badge)
+Hello World!!!
 
 ### #Blog posts
 
@@ -60,8 +60,12 @@
 
 
     <div align="right">
-        Updated at: 2024-01-18T10:08:50Z - by <a target="_blank"
+        Updated at: 2024-01-18T10:11:13Z - by <a target="_blank"
             href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
     </div>
 </details>
 
+
+### #Stats
+
+![](https://komarev.com/ghpvc/?username=ePlus-DEV&style=for-the-badge)
