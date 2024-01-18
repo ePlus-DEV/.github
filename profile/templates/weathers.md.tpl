@@ -1,16 +1,16 @@
 {{ with $todayWeather := index .Weathers 0 }}
 
-`{{ $todayWeather.City }}, {{$todayWeather.Country }} - {{ formatDate $todayWeather.StartTime $todayWeather.Timezone }}`
+<details>
+    <summary><b>{{ $todayWeather.City }}, {{$todayWeather.Country }} - {{ formatDate $todayWeather.StartTime
+            $todayWeather.Timezone }} (<img src="{{ $todayWeather.Icon}}" /> {{ $todayWeather.Condition }})</b>
+    </summary>
 
-<img src="{{ $todayWeather.Icon}}" />
+    {{template "hourly-table" $todayWeather.HourlyWeathers}}
 
-{{ $todayWeather.Condition }}
+    {{- end }}
 
-{{template "hourly-table" $todayWeather.HourlyWeathers}}
-
-{{- end }}
-
-<div align="right">
-    Updated at: {{formatTime .UpdatedAt}} - by <a target="_blank"
-        href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
-</div>
+    <div align="right">
+        Updated at: {{formatTime .UpdatedAt}} - by <a target="_blank"
+            href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
+    </div>
+</details>
