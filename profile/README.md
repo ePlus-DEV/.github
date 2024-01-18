@@ -1,5 +1,4 @@
-# .github
-ePlus.DEV
+# ePlus.DEV
 
 ![](https://komarev.com/ghpvc/?username=ePlus-DEV&style=for-the-badge)
 
@@ -61,7 +60,7 @@ ePlus.DEV
 
 
     <div align="right">
-        Updated at: 2024-01-18T10:05:17Z - by <a target="_blank"
+        Updated at: 2024-01-18T10:06:18Z - by <a target="_blank"
             href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
     </div>
 </details>
