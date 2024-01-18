@@ -9,8 +9,8 @@
 
     {{- end }}
 
-    <div align="right">
-        Updated at: {{formatTime .UpdatedAt}} - by <a target="_blank"
-            href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
-    </div>
+<div align="right">
+    Updated at: {{formatTime .UpdatedAt}} - by <a target="_blank"
+        href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
+</div>
 </details>
