@@ -31,13 +31,11 @@ ePlus.DEV
 
 
 
-`Ho Chi Minh City, Vietnam - 18/01/2024`
+<details>
+    <summary><b>Ho Chi Minh City, Vietnam - 18/01/2024 (<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" /> Sunny)</b>
+    </summary>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" />
-
-Sunny
-
-
+    
 <table>
     <tr>
         <th>Hour</th>
@@ -62,7 +60,8 @@ Sunny
 </table>
 
 
-<div align="right">
-    Updated at: 2024-01-18T10:02:33Z - by <a target="_blank"
-        href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
-</div>
+    <div align="right">
+        Updated at: 2024-01-18T10:05:17Z - by <a target="_blank"
+            href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
+    </div>
+</details>
