@@ -6,6 +6,25 @@ on:
     branches:
       - 'main'
 jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in eplus.dev posts
+        uses: ePlus-DEV/blog-post-workflow@v1.0.0
+        with:
+          retry_count: 2
+          feed_list: "https://eplus.dev/rss.xml"
+          committer_email: "h250694@gmail.com"
+          commit_message: Get blog posts
+          readme_path: ./profile/templates/README.md.tpl
+          rand_seed: "hoangsvit"
+          date_format: 'UTC: yyyy-mm-dd'
+          template: "- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉) [$title]($url) -$date $newline"
+          max_post_count: 15
+
   update-weather:
     permissions: write-all
     runs-on: ubuntu-latest
@@ -24,6 +43,7 @@ jobs:
           weather-forecast update-weather --days=3 --city="Ho Chi Minh City" --weather-api-key="${{ secrets.WEATHER_API_KEY }}" --template-file='profile/templates/weathers.md.tpl' --out-file='profile/.tmp/weathers.md.tpl'
       - name: Merge templates
         run: |
+          git pull
           go install github.com/ePlus-DEV/merge-templates@v1.0.1
           merge-templates profile/README.md 'profile/templates/README.md.tpl' 'profile/.tmp/weathers.md.tpl'
       - name: Commit
