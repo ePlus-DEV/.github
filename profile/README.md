@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2024-01-29T12:35:50Z - by <a target="_blank"
+    Updated at: 2024-01-29T12:44:10Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
@@ -68,6 +68,6 @@ Hello World!!!
 
 ### #Stats
 
-[![Image of counter](https://github.com/ePlus-DEV/view-counter/blob/main/svg/685088620/badge.svg)](https://github.com/ePlus-DEV/view-counter/blob/main/readme/685088620/year.md)
+[![Image of counter](https://github.com/ePlus-DEV/counter/blob/main/svg/685088620/badge.svg)](https://github.com/ePlus-DEV/counter/blob/main/readme/685088620/year.md)
 
 ![](https://komarev.com/ghpvc/?username=ePlus-DEV&style=for-the-badge)
