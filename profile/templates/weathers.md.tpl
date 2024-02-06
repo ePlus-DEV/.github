@@ -2,7 +2,7 @@
 
 <details>
     <summary><b>{{ $todayWeather.City }}, {{$todayWeather.Country }} - {{ formatDate $todayWeather.StartTime
-            $todayWeather.Timezone }} (<img src="{{ $todayWeather.Icon}}" /> {{ $todayWeather.Condition }})</b>
+            $todayWeather.Timezone }} (<img src="{{ $todayWeather.Icon}}" width="25" /> {{ $todayWeather.Condition }})</b>
     </summary>
 
     {{template "hourly-table" $todayWeather.HourlyWeathers}}
