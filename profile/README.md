@@ -54,13 +54,13 @@ Hello World!!!
     </tr>
     <tr>
         <th>Wind</th>
-        <td>20.2 kph</td><td>24.1 kph</td><td>18.7 kph</td><td>19.4 kph</td><td>19.1 kph</td><td>18 kph</td><td>17.6 kph</td><td>18 kph</td><td>21.6 kph</td><td>20.9 kph</td><td>18.7 kph</td><td>16.2 kph</td><td>15.1 kph</td><td>16.6 kph</td><td>18 kph</td><td>23 kph</td><td>28.8 kph</td><td>28.1 kph</td><td>24.5 kph</td><td>23 kph</td><td>23.8 kph</td><td>24.1 kph</td><td>24.8 kph</td><td>24.5 kph</td>
+        <td>20.2 kph</td><td>22 kph</td><td>18.7 kph</td><td>19.4 kph</td><td>19.1 kph</td><td>18 kph</td><td>17.6 kph</td><td>18 kph</td><td>21.6 kph</td><td>20.9 kph</td><td>18.7 kph</td><td>16.2 kph</td><td>15.1 kph</td><td>16.6 kph</td><td>18 kph</td><td>23 kph</td><td>28.8 kph</td><td>28.1 kph</td><td>24.5 kph</td><td>23 kph</td><td>23.8 kph</td><td>24.1 kph</td><td>24.8 kph</td><td>24.5 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-    Updated at: 2024-03-07T17:41:34Z - by <a target="_blank"
+    Updated at: 2024-03-07T17:47:43Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
