@@ -31,7 +31,7 @@ Hello World!!!
 
 
 <details>
-    <summary><b>Ho Chi Minh City, Vietnam - 01/04/2024 (<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" width="25" /> Patchy rain nearby)</b>
+    <summary><b>Ho Chi Minh City, Vietnam - 01/04/2024 (<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" width="25" /> Partly Cloudy )</b>
     </summary>
 
     
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2024-03-31T17:38:17Z - by <a target="_blank"
+    Updated at: 2024-03-31T17:44:22Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
