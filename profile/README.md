@@ -31,7 +31,7 @@ Hello World!!!
 
 
 <details>
-    <summary><b>Ho Chi Minh City, Vietnam - 13/04/2024 (<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" width="25" /> Partly Cloudy )</b>
+    <summary><b>Ho Chi Minh City, Vietnam - 13/04/2024 (<img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" width="25" /> Cloudy )</b>
     </summary>
 
     
@@ -54,13 +54,13 @@ Hello World!!!
     </tr>
     <tr>
         <th>Wind</th>
-        <td>23 kph</td><td>16.9 kph</td><td>18.7 kph</td><td>17.3 kph</td><td>16.9 kph</td><td>16.6 kph</td><td>15.8 kph</td><td>17.6 kph</td><td>18 kph</td><td>16.2 kph</td><td>14.4 kph</td><td>13 kph</td><td>16.6 kph</td><td>25.2 kph</td><td>23.8 kph</td><td>26.6 kph</td><td>24.1 kph</td><td>24.1 kph</td><td>20.5 kph</td><td>17.6 kph</td><td>15.8 kph</td><td>18 kph</td><td>19.4 kph</td><td>19.1 kph</td>
+        <td>23 kph</td><td>19.1 kph</td><td>18.7 kph</td><td>17.3 kph</td><td>16.9 kph</td><td>16.6 kph</td><td>15.8 kph</td><td>17.6 kph</td><td>18 kph</td><td>16.2 kph</td><td>14.4 kph</td><td>13 kph</td><td>16.6 kph</td><td>25.2 kph</td><td>23.8 kph</td><td>26.6 kph</td><td>24.1 kph</td><td>24.1 kph</td><td>20.5 kph</td><td>17.6 kph</td><td>15.8 kph</td><td>18 kph</td><td>19.4 kph</td><td>19.1 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-    Updated at: 2024-04-12T17:10:34Z - by <a target="_blank"
+    Updated at: 2024-04-12T17:25:05Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
