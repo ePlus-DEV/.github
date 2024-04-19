@@ -31,7 +31,7 @@ Hello World!!!
 
 
 <details>
-    <summary><b>Ho Chi Minh City, Vietnam - 20/04/2024 (<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" width="25" /> Sunny)</b>
+    <summary><b>Ho Chi Minh City, Vietnam - 20/04/2024 (<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" width="25" /> Partly Cloudy )</b>
     </summary>
 
     
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2024-04-19T23:17:25Z - by <a target="_blank"
+    Updated at: 2024-04-19T23:26:05Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
