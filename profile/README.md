@@ -31,7 +31,7 @@ Hello World!!!
 
 
 <details>
-    <summary><b>Ho Chi Minh City, Vietnam - 17/05/2024 (<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" width="25" /> Patchy rain nearby)</b>
+    <summary><b>Ho Chi Minh City, Vietnam - 17/05/2024 (<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png" width="25" /> Moderate rain)</b>
     </summary>
 
     
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2024-05-16T17:43:06Z - by <a target="_blank"
+    Updated at: 2024-05-16T17:49:11Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
