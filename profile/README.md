@@ -50,7 +50,7 @@ Hello World!!!
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>28.6 °C</td><td>28.5 °C</td><td>28.2 °C</td><td>27.9 °C</td><td>27.6 °C</td><td>27.6 °C</td><td>27.7 °C</td><td>28.7 °C</td><td>30 °C</td><td>31.8 °C</td><td>33.8 °C</td><td>35.3 °C</td><td>36.2 °C</td><td>36.7 °C</td><td>35.8 °C</td><td>33.8 °C</td><td>32.4 °C</td><td>31 °C</td><td>31.3 °C</td><td>30.8 °C</td><td>30.5 °C</td><td>30 °C</td><td>29.8 °C</td><td>29.4 °C</td>
+        <td>28.6 °C</td><td>28.5 °C</td><td>28.2 °C</td><td>27.9 °C</td><td>27.6 °C</td><td>27.6 °C</td><td>27.7 °C</td><td>28.7 °C</td><td>30 °C</td><td>31.8 °C</td><td>33.8 °C</td><td>35.3 °C</td><td>36.2 °C</td><td>36.7 °C</td><td>35.8 °C</td><td>33.8 °C</td><td>32.4 °C</td><td>30 °C</td><td>31.3 °C</td><td>30.8 °C</td><td>30.5 °C</td><td>30 °C</td><td>29.8 °C</td><td>29.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2024-05-22T10:42:37Z - by <a target="_blank"
+    Updated at: 2024-05-22T10:49:01Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
