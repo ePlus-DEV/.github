@@ -31,7 +31,7 @@ Hello World!!!
 
 
 <details>
-    <summary><b>Ho Chi Minh City, Vietnam - 12/06/2024 (<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" width="25" /> Partly Cloudy )</b>
+    <summary><b>Ho Chi Minh City, Vietnam - 12/06/2024 (<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" width="25" /> Patchy rain nearby)</b>
     </summary>
 
     
@@ -50,7 +50,7 @@ Hello World!!!
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.5 °C</td><td>27.4 °C</td><td>27.2 °C</td><td>27 °C</td><td>26.9 °C</td><td>26.8 °C</td><td>28.2 °C</td><td>28.2 °C</td><td>29.7 °C</td><td>31.5 °C</td><td>33 °C</td><td>34.3 °C</td><td>35.2 °C</td><td>35.7 °C</td><td>34.7 °C</td><td>34 °C</td><td>33.3 °C</td><td>32.7 °C</td><td>32.1 °C</td><td>31.3 °C</td><td>30.4 °C</td><td>29.9 °C</td><td>29.3 °C</td><td>28.7 °C</td>
+        <td>27.5 °C</td><td>27.4 °C</td><td>27.2 °C</td><td>27 °C</td><td>26.9 °C</td><td>26.8 °C</td><td>28.1 °C</td><td>28.2 °C</td><td>29.7 °C</td><td>31.5 °C</td><td>33 °C</td><td>34.3 °C</td><td>35.2 °C</td><td>35.7 °C</td><td>34.7 °C</td><td>34 °C</td><td>33.3 °C</td><td>32.7 °C</td><td>32.1 °C</td><td>31.3 °C</td><td>30.4 °C</td><td>29.9 °C</td><td>29.3 °C</td><td>28.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2024-06-11T23:27:40Z - by <a target="_blank"
+    Updated at: 2024-06-11T23:34:59Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
