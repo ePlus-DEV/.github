@@ -50,17 +50,17 @@ Hello World!!!
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.7 °C</td><td>25.9 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>26 °C</td><td>26.2 °C</td><td>26.6 °C</td><td>27.8 °C</td><td>28.8 °C</td><td>29.6 °C</td><td>29.9 °C</td><td>30 °C</td><td>30.2 °C</td><td>30.8 °C</td><td>30.5 °C</td><td>29.5 °C</td><td>28.6 °C</td><td>27.9 °C</td><td>27.5 °C</td><td>27.2 °C</td><td>26.9 °C</td><td>26.6 °C</td><td>26.3 °C</td>
+        <td>25.7 °C</td><td>25.9 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>26 °C</td><td>26.2 °C</td><td>26.6 °C</td><td>27.8 °C</td><td>28.8 °C</td><td>29.6 °C</td><td>29.9 °C</td><td>30 °C</td><td>30.1 °C</td><td>30.8 °C</td><td>30.5 °C</td><td>29.5 °C</td><td>28.6 °C</td><td>27.9 °C</td><td>27.5 °C</td><td>27.2 °C</td><td>26.9 °C</td><td>26.6 °C</td><td>26.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>11.5 kph</td><td>9.7 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>6.5 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>5 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>9 kph</td><td>11.2 kph</td><td>9 kph</td><td>11.2 kph</td><td>11.2 kph</td><td>10.1 kph</td><td>8.3 kph</td><td>6.5 kph</td><td>4.7 kph</td><td>6.8 kph</td><td>9.4 kph</td><td>10.1 kph</td><td>10.4 kph</td>
+        <td>11.5 kph</td><td>9.7 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>6.5 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>5 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>9 kph</td><td>11.2 kph</td><td>13 kph</td><td>11.2 kph</td><td>11.2 kph</td><td>10.1 kph</td><td>8.3 kph</td><td>6.5 kph</td><td>4.7 kph</td><td>6.8 kph</td><td>9.4 kph</td><td>10.1 kph</td><td>10.4 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-    Updated at: 2024-06-21T06:08:47Z - by <a target="_blank"
+    Updated at: 2024-06-21T06:30:55Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
