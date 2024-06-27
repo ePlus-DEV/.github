@@ -4,21 +4,21 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [Review bộ phát Wifi ROOSEE M600](https://eplus.dev/review-bo-phat-wifi-roosee-m600) - 2024-06-26 
-- 😺 [[Knowledge check] Describe monitoring tools in Azure](https://eplus.dev/knowledge-check-describe-monitoring-tools-in-azure) - 2024-06-21 
-- 🗽 [[Knowledge check] Describe features and tools for managing and deploying Azure resources](https://eplus.dev/knowledge-check-describe-features-and-tools-for-managing-and-deploying-azure-resources) - 2024-06-21 
-- 🌜 [[Knowledge check] Describe features and tools in Azure for governance and compliance](https://eplus.dev/knowledge-check-describe-features-and-tools-in-azure-for-governance-and-compliance) - 2024-06-21 
-- 📝 [[Knowledge check] Describe cost management in Azure](https://eplus.dev/knowledge-check-describe-cost-management-in-azure) - 2024-06-21 
-- 🚀 [[Knowledge check] Describe Azure identity, access, and security](https://eplus.dev/knowledge-check-describe-azure-identity-access-and-security) - 2024-06-21 
-- 💼 [[Knowledge check] Describe Azure storage services](https://eplus.dev/knowledge-check-describe-azure-storage-services) - 2024-06-21 
-- 🦣 [[Knowledge check] Describe Azure compute and networking services](https://eplus.dev/knowledge-check-describe-azure-compute-and-networking-services) - 2024-06-21 
-- 👨‍🏫 [[Knowledge check] Describe the core architectural components of Azure](https://eplus.dev/knowledge-check-describe-the-core-architectural-components-of-azure) - 2024-06-21 
-- 🔭 [[Knowledge check] Describe cloud service types](https://eplus.dev/knowledge-check-describe-cloud-service-types) - 2024-06-21 
-- 🤡 [[Knowledge check] Describe the benefits of using cloud services](https://eplus.dev/knowledge-check-describe-the-benefits-of-using-cloud-services) - 2024-06-21 
-- 💡 [[Knowledge check] Describe cloud computing](https://eplus.dev/knowledge-check-describe-cloud-computing) - 2024-06-21 
-- 🦣 [Get Free Salesforce Swags - #BuiltWithEinstein](https://eplus.dev/get-free-salesforce-swags-builtwitheinstein) - 2024-06-21 
-- 💪 [Eloquent JoinWith Package for Laravel](https://eplus.dev/eloquent-joinwith-package-for-laravel) - 2024-06-04 
-- 🤡 [Thông báo từ Moca về việc ngừng dịch vụ ví điện tử Moca / Update from Moca about discontinuing Moca e-wallet](https://eplus.dev/thong-bao-tu-moca-ve-viec-ngung-dich-vu-vi-dien-tu-moca-update-from-moca-about-discontinuing-moca-e-wallet) - 2024-05-31 
+- 🧰 [Review quá trình phỏng vấn tại Gonose International](https://eplus.dev/review-qua-trinh-phong-van-tai-gonose-international) - 2024-06-27 
+- 😺 [Review bộ phát Wifi ROOSEE M600](https://eplus.dev/review-bo-phat-wifi-roosee-m600) - 2024-06-26 
+- 🗽 [[Knowledge check] Describe monitoring tools in Azure](https://eplus.dev/knowledge-check-describe-monitoring-tools-in-azure) - 2024-06-21 
+- 🌜 [[Knowledge check] Describe features and tools for managing and deploying Azure resources](https://eplus.dev/knowledge-check-describe-features-and-tools-for-managing-and-deploying-azure-resources) - 2024-06-21 
+- 📝 [[Knowledge check] Describe features and tools in Azure for governance and compliance](https://eplus.dev/knowledge-check-describe-features-and-tools-in-azure-for-governance-and-compliance) - 2024-06-21 
+- 🚀 [[Knowledge check] Describe cost management in Azure](https://eplus.dev/knowledge-check-describe-cost-management-in-azure) - 2024-06-21 
+- 💼 [[Knowledge check] Describe Azure identity, access, and security](https://eplus.dev/knowledge-check-describe-azure-identity-access-and-security) - 2024-06-21 
+- 🦣 [[Knowledge check] Describe Azure storage services](https://eplus.dev/knowledge-check-describe-azure-storage-services) - 2024-06-21 
+- 👨‍🏫 [[Knowledge check] Describe Azure compute and networking services](https://eplus.dev/knowledge-check-describe-azure-compute-and-networking-services) - 2024-06-21 
+- 🔭 [[Knowledge check] Describe the core architectural components of Azure](https://eplus.dev/knowledge-check-describe-the-core-architectural-components-of-azure) - 2024-06-21 
+- 🤡 [[Knowledge check] Describe cloud service types](https://eplus.dev/knowledge-check-describe-cloud-service-types) - 2024-06-21 
+- 💡 [[Knowledge check] Describe the benefits of using cloud services](https://eplus.dev/knowledge-check-describe-the-benefits-of-using-cloud-services) - 2024-06-21 
+- 🦣 [[Knowledge check] Describe cloud computing](https://eplus.dev/knowledge-check-describe-cloud-computing) - 2024-06-21 
+- 💪 [Get Free Salesforce Swags - #BuiltWithEinstein](https://eplus.dev/get-free-salesforce-swags-builtwitheinstein) - 2024-06-21 
+- 🤡 [Eloquent JoinWith Package for Laravel](https://eplus.dev/eloquent-joinwith-package-for-laravel) - 2024-06-04 
 
 
 <div align="right">
@@ -42,25 +42,25 @@ Hello World!!!
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/293.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/356.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/356.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/293.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/356.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/356.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Light rain shower</td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Patchy light rain</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Moderate or heavy rain shower</td><td width="200px">Moderate or heavy rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td>
+        <td width="200px">Light rain shower</td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Sunny</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Patchy light rain</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Moderate or heavy rain shower</td><td width="200px">Moderate or heavy rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.7 °C</td><td>26.5 °C</td><td>26.4 °C</td><td>25.9 °C</td><td>25.8 °C</td><td>25.6 °C</td><td>25.7 °C</td><td>26.4 °C</td><td>29.3 °C</td><td>29.8 °C</td><td>31.5 °C</td><td>33 °C</td><td>33.4 °C</td><td>33.2 °C</td><td>32.5 °C</td><td>31.9 °C</td><td>30.1 °C</td><td>28.8 °C</td><td>28 °C</td><td>27.1 °C</td><td>26.9 °C</td><td>26.4 °C</td><td>26.4 °C</td><td>26.2 °C</td>
+        <td>26.7 °C</td><td>26.5 °C</td><td>26.4 °C</td><td>25.9 °C</td><td>25.8 °C</td><td>25.6 °C</td><td>25.7 °C</td><td>26.4 °C</td><td>28 °C</td><td>30.3 °C</td><td>31.5 °C</td><td>33 °C</td><td>33.4 °C</td><td>33.2 °C</td><td>32.5 °C</td><td>31.9 °C</td><td>30.1 °C</td><td>28.8 °C</td><td>28 °C</td><td>27.1 °C</td><td>26.9 °C</td><td>26.4 °C</td><td>26.4 °C</td><td>26.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>5.8 kph</td><td>4.7 kph</td><td>3.2 kph</td><td>4 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>5 kph</td><td>3.6 kph</td><td>6.1 kph</td><td>0.4 kph</td><td>1.4 kph</td><td>2.9 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>5.8 kph</td><td>3.2 kph</td><td>7.9 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>10.1 kph</td><td>10.1 kph</td><td>10.8 kph</td><td>9.7 kph</td><td>7.6 kph</td>
+        <td>5.8 kph</td><td>4.7 kph</td><td>3.2 kph</td><td>4 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>5 kph</td><td>3.6 kph</td><td>2.2 kph</td><td>3.6 kph</td><td>1.4 kph</td><td>2.9 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>5.8 kph</td><td>3.2 kph</td><td>7.9 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>10.1 kph</td><td>10.1 kph</td><td>10.8 kph</td><td>9.7 kph</td><td>7.6 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-    Updated at: 2024-06-27T01:52:56Z - by <a target="_blank"
+    Updated at: 2024-06-27T02:24:33Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
