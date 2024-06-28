@@ -4,7 +4,7 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [Review quá trình phỏng vấn tại Gonosen International](https://eplus.dev/review-qua-trinh-phong-van-tai-gonosen-international) - 2024-06-27 
+- 🧰 [Review quá trình phỏng vấn tại Gonose International](https://eplus.dev/review-qua-trinh-phong-van-tai-gonose-international) - 2024-06-27 
 - 😺 [Review bộ phát Wifi ROOSEE M600](https://eplus.dev/review-bo-phat-wifi-roosee-m600) - 2024-06-26 
 - 🗽 [[Knowledge check] Describe monitoring tools in Azure](https://eplus.dev/knowledge-check-describe-monitoring-tools-in-azure) - 2024-06-21 
 - 🌜 [[Knowledge check] Describe features and tools for managing and deploying Azure resources](https://eplus.dev/knowledge-check-describe-features-and-tools-for-managing-and-deploying-azure-resources) - 2024-06-21 
@@ -50,17 +50,17 @@ Hello World!!!
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.9 °C</td><td>29.1 °C</td><td>26.1 °C</td><td>25.9 °C</td><td>25.9 °C</td><td>25.8 °C</td><td>26 °C</td><td>27.4 °C</td><td>29 °C</td><td>30.1 °C</td><td>30.9 °C</td><td>32 °C</td><td>32.4 °C</td><td>32.7 °C</td><td>32.9 °C</td><td>32.5 °C</td><td>31.5 °C</td><td>30.5 °C</td><td>29.1 °C</td><td>28.2 °C</td><td>27.5 °C</td><td>26.7 °C</td><td>26.7 °C</td><td>26.6 °C</td>
+        <td>26.9 °C</td><td>29.3 °C</td><td>26.1 °C</td><td>25.9 °C</td><td>25.9 °C</td><td>25.8 °C</td><td>26 °C</td><td>27.4 °C</td><td>29 °C</td><td>30.1 °C</td><td>30.9 °C</td><td>32 °C</td><td>32.4 °C</td><td>32.7 °C</td><td>32.9 °C</td><td>32.5 °C</td><td>31.5 °C</td><td>30.5 °C</td><td>29.1 °C</td><td>28.2 °C</td><td>27.5 °C</td><td>26.7 °C</td><td>26.7 °C</td><td>26.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.6 kph</td><td>9 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>7.2 kph</td><td>7.9 kph</td><td>10.4 kph</td><td>11.9 kph</td><td>12.2 kph</td><td>15.1 kph</td><td>17.3 kph</td><td>17.3 kph</td><td>18 kph</td><td>17.3 kph</td><td>16.9 kph</td><td>15.5 kph</td><td>12.6 kph</td><td>10.4 kph</td><td>9.7 kph</td><td>8.6 kph</td><td>8.6 kph</td>
+        <td>7.6 kph</td><td>6.8 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>7.2 kph</td><td>7.9 kph</td><td>10.4 kph</td><td>11.9 kph</td><td>12.2 kph</td><td>15.1 kph</td><td>17.3 kph</td><td>17.3 kph</td><td>18 kph</td><td>17.3 kph</td><td>16.9 kph</td><td>15.5 kph</td><td>12.6 kph</td><td>10.4 kph</td><td>9.7 kph</td><td>8.6 kph</td><td>8.6 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-    Updated at: 2024-06-28T17:46:04Z - by <a target="_blank"
+    Updated at: 2024-06-28T17:52:26Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
