@@ -4,7 +4,7 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [Google tặng 5,000 suất học bổng từ chương trình Nhân Tài Số](https://eplus.dev/google-tang-5000-suat-hoc-bong-tu-chuong-trinh-nhan-tai-so) - 2024-07-12 
+- 🧰 [Google Tặng 5,000 Coursera Suất Học Bổng Từ Chương Trình Nhân Tài Số](https://eplus.dev/google-tang-5000-coursera-suat-hoc-bong-tu-chuong-trinh-nhan-tai-so) - 2024-07-12 
 - 😺 [Module Quiz: Introduction to HTML and CSS](https://eplus.dev/module-quiz-introduction-to-html-and-css) - 2024-07-10 
 - 🗽 [Programming Assignment: Create and style a webpage](https://eplus.dev/programming-assignment-create-and-style-a-webpage) - 2024-07-10 
 - 🌜 [Programming Assignment: Styling a page](https://eplus.dev/programming-assignment-styling-a-page) - 2024-07-09 
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2024-07-12T14:51:55Z - by <a target="_blank"
+    Updated at: 2024-07-12T14:57:45Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
