@@ -4,21 +4,21 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [Caching and Datagroups with LookML - GSP893](https://eplus.dev/caching-and-datagroups-with-lookml-gsp893) - 2024-08-17 
-- 😺 [Employing Best Practices for Improving the Usability of LookML Projects - GSP1020](https://eplus.dev/employing-best-practices-for-improving-the-usability-of-lookml-projects-gsp1020) - 2024-08-16 
-- 🗽 [Troubleshooting Data Models in Looker - GSP1019](https://eplus.dev/troubleshooting-data-models-in-looker-gsp1019) - 2024-08-16 
-- 🌜 [Modularizing LookML Code with Extends - GSP936](https://eplus.dev/modularizing-lookml-code-with-extends-gsp936) - 2024-08-16 
-- 📝 [Create ML Models with BigQuery ML: Challenge Lab - GSP341](https://eplus.dev/create-ml-models-with-bigquery-ml-challenge-lab-gsp341) - 2024-08-16 
-- 🚀 [Bracketology with Google Machine Learning - GSP461](https://eplus.dev/bracketology-with-google-machine-learning-gsp461) - 2024-08-16 
-- 💼 [Knowledge check: Navigation - React Basic](https://eplus.dev/knowledge-check-navigation-react-basic) - 2024-08-15 
-- 🦣 [Predict Taxi Fare with a BigQuery ML Forecasting Model - GSP246](https://eplus.dev/predict-taxi-fare-with-a-bigquery-ml-forecasting-model-gsp246) - 2024-08-15 
-- 👨‍🏫 [Predict Visitor Purchases with a Classification Model in BigQuery ML - GSP229](https://eplus.dev/predict-visitor-purchases-with-a-classification-model-in-bigquery-ml-gsp229) - 2024-08-15 
-- 🔭 [Getting Started with BigQuery ML - GSP247](https://eplus.dev/getting-started-with-bigquery-ml-gsp247) - 2024-08-15 
-- 🤡 [Managing Terraform State - GSP752](https://eplus.dev/managing-terraform-state-gsp752) - 2024-08-15 
-- 💡 [Build Infrastructure with Terraform on Google Cloud: Challenge Lab - GSP345](https://eplus.dev/build-infrastructure-with-terraform-on-google-cloud-challenge-lab-gsp345) - 2024-08-15 
-- 🦣 [Implementing Least Privilege IAM Policy Bindings in Cloud Run [APPRUN]](https://eplus.dev/implementing-least-privilege-iam-policy-bindings-in-cloud-run-apprun) - 2024-08-15 
-- 💪 [Creating a Containerized Application with Buildpacks](https://eplus.dev/creating-a-containerized-application-with-buildpacks) - 2024-08-15 
-- 🤡 [Apply RFM method to segment customer data](https://eplus.dev/apply-rfm-method-to-segment-customer-data) - 2024-08-15 
+- 🧰 [Optimizing Performance of LookML Queries - GSP985](https://eplus.dev/optimizing-performance-of-lookml-queries-gsp985) - 2024-08-17 
+- 😺 [Caching and Datagroups with LookML - GSP893](https://eplus.dev/caching-and-datagroups-with-lookml-gsp893) - 2024-08-17 
+- 🗽 [Employing Best Practices for Improving the Usability of LookML Projects - GSP1020](https://eplus.dev/employing-best-practices-for-improving-the-usability-of-lookml-projects-gsp1020) - 2024-08-16 
+- 🌜 [Troubleshooting Data Models in Looker - GSP1019](https://eplus.dev/troubleshooting-data-models-in-looker-gsp1019) - 2024-08-16 
+- 📝 [Modularizing LookML Code with Extends - GSP936](https://eplus.dev/modularizing-lookml-code-with-extends-gsp936) - 2024-08-16 
+- 🚀 [Create ML Models with BigQuery ML: Challenge Lab - GSP341](https://eplus.dev/create-ml-models-with-bigquery-ml-challenge-lab-gsp341) - 2024-08-16 
+- 💼 [Bracketology with Google Machine Learning - GSP461](https://eplus.dev/bracketology-with-google-machine-learning-gsp461) - 2024-08-16 
+- 🦣 [Knowledge check: Navigation - React Basic](https://eplus.dev/knowledge-check-navigation-react-basic) - 2024-08-15 
+- 👨‍🏫 [Predict Taxi Fare with a BigQuery ML Forecasting Model - GSP246](https://eplus.dev/predict-taxi-fare-with-a-bigquery-ml-forecasting-model-gsp246) - 2024-08-15 
+- 🔭 [Predict Visitor Purchases with a Classification Model in BigQuery ML - GSP229](https://eplus.dev/predict-visitor-purchases-with-a-classification-model-in-bigquery-ml-gsp229) - 2024-08-15 
+- 🤡 [Getting Started with BigQuery ML - GSP247](https://eplus.dev/getting-started-with-bigquery-ml-gsp247) - 2024-08-15 
+- 💡 [Managing Terraform State - GSP752](https://eplus.dev/managing-terraform-state-gsp752) - 2024-08-15 
+- 🦣 [Build Infrastructure with Terraform on Google Cloud: Challenge Lab - GSP345](https://eplus.dev/build-infrastructure-with-terraform-on-google-cloud-challenge-lab-gsp345) - 2024-08-15 
+- 💪 [Implementing Least Privilege IAM Policy Bindings in Cloud Run [APPRUN]](https://eplus.dev/implementing-least-privilege-iam-policy-bindings-in-cloud-run-apprun) - 2024-08-15 
+- 🤡 [Creating a Containerized Application with Buildpacks](https://eplus.dev/creating-a-containerized-application-with-buildpacks) - 2024-08-15 
 
 
 <div align="right">
@@ -50,7 +50,7 @@ Hello World!!!
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.9 °C</td><td>26.8 °C</td><td>26.5 °C</td><td>26.4 °C</td><td>26.2 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>27.1 °C</td><td>28.5 °C</td><td>30.2 °C</td><td>32.2 °C</td><td>32.8 °C</td><td>33.6 °C</td><td>34.7 °C</td><td>34.6 °C</td><td>32.3 °C</td><td>30.4 °C</td><td>29.7 °C</td><td>28.9 °C</td><td>28.3 °C</td><td>27.9 °C</td><td>27.6 °C</td><td>27.2 °C</td><td>26.9 °C</td>
+        <td>26.9 °C</td><td>26.8 °C</td><td>26.5 °C</td><td>26.4 °C</td><td>26.2 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>27.1 °C</td><td>28.5 °C</td><td>30.2 °C</td><td>33.1 °C</td><td>32.8 °C</td><td>33.6 °C</td><td>34.7 °C</td><td>34.6 °C</td><td>32.3 °C</td><td>30.4 °C</td><td>29.7 °C</td><td>28.9 °C</td><td>28.3 °C</td><td>27.9 °C</td><td>27.6 °C</td><td>27.2 °C</td><td>26.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2024-08-17T03:42:27Z - by <a target="_blank"
+    Updated at: 2024-08-17T03:48:31Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
