@@ -54,13 +54,13 @@ Hello World!!!
     </tr>
     <tr>
         <th>Wind</th>
-        <td>8.3 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>5 kph</td><td>4.7 kph</td><td>6.1 kph</td><td>7.9 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>10.1 kph</td><td>10.1 kph</td><td>9 kph</td><td>11.2 kph</td><td>13.3 kph</td><td>12.2 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>9.4 kph</td><td>6.1 kph</td><td>9.4 kph</td><td>9 kph</td>
+        <td>8.3 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>5 kph</td><td>4.7 kph</td><td>6.1 kph</td><td>7.9 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>10.1 kph</td><td>10.1 kph</td><td>9 kph</td><td>11.2 kph</td><td>13.3 kph</td><td>12.2 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>9.4 kph</td><td>9 kph</td><td>9.4 kph</td><td>9 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-    Updated at: 2024-08-17T14:43:45Z - by <a target="_blank"
+    Updated at: 2024-08-17T14:49:59Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
