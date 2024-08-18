@@ -4,21 +4,21 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [Cloud IAM: Qwik Start - GSP064](https://eplus.dev/cloud-iam-qwik-start-gsp064) - 2024-08-18 
-- 😺 [Deploy Kubernetes Applications on Google Cloud: Challenge Lab - GSP318](https://eplus.dev/deploy-kubernetes-applications-on-google-cloud-challenge-lab-gsp318) - 2024-08-18 
-- 🗽 [Orchestrating the Cloud with Kubernetes - GSP021](https://eplus.dev/orchestrating-the-cloud-with-kubernetes-gsp021) - 2024-08-18 
-- 🌜 [Introduction to Docker - GSP055](https://eplus.dev/introduction-to-docker-gsp055) - 2024-08-17 
-- 📝 [Use Machine Learning APIs on Google Cloud: Challenge Lab - GSP329](https://eplus.dev/use-machine-learning-apis-on-google-cloud-challenge-lab-gsp329) - 2024-08-17 
-- 🚀 [Awwvision: Cloud Vision API from a Kubernetes Cluster - GSP066](https://eplus.dev/awwvision-cloud-vision-api-from-a-kubernetes-cluster-gsp066) - 2024-08-17 
-- 💼 [Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API - GSP037](https://eplus.dev/detect-labels-faces-and-landmarks-in-images-with-the-cloud-vision-api-gsp037) - 2024-08-17 
-- 🦣 [Classify Text into Categories with the Natural Language API - GSP063](https://eplus.dev/classify-text-into-categories-with-the-natural-language-api-gsp063) - 2024-08-17 
-- 👨‍🏫 [Introduction to APIs in Google Cloud - GSP294](https://eplus.dev/introduction-to-apis-in-google-cloud-gsp294) - 2024-08-17 
-- 🔭 [Classify Images with TensorFlow on Google Cloud: Challenge Lab - GSP398](https://eplus.dev/classify-images-with-tensorflow-on-google-cloud-challenge-lab-gsp398) - 2024-08-17 
-- 🤡 [TensorFlow: Qwik Start - GSP637](https://eplus.dev/tensorflow-qwik-start-gsp637) - 2024-08-17 
-- 💡 [Manage Data Models in Looker: Challenge Lab - GSP365](https://eplus.dev/manage-data-models-in-looker-challenge-lab-gsp365) - 2024-08-17 
-- 🦣 [Optimizing Performance of LookML Queries - GSP985](https://eplus.dev/optimizing-performance-of-lookml-queries-gsp985) - 2024-08-17 
-- 💪 [Caching and Datagroups with LookML - GSP893](https://eplus.dev/caching-and-datagroups-with-lookml-gsp893) - 2024-08-17 
-- 🤡 [Employing Best Practices for Improving the Usability of LookML Projects - GSP1020](https://eplus.dev/employing-best-practices-for-improving-the-usability-of-lookml-projects-gsp1020) - 2024-08-16 
+- 🧰 [Deploy Kubernetes Applications on Google Cloud: Challenge Lab - GSP318](https://eplus.dev/deploy-kubernetes-applications-on-google-cloud-challenge-lab-gsp318) - 2024-08-18 
+- 😺 [Orchestrating the Cloud with Kubernetes - GSP021](https://eplus.dev/orchestrating-the-cloud-with-kubernetes-gsp021) - 2024-08-18 
+- 🗽 [Introduction to Docker - GSP055](https://eplus.dev/introduction-to-docker-gsp055) - 2024-08-17 
+- 🌜 [Use Machine Learning APIs on Google Cloud: Challenge Lab - GSP329](https://eplus.dev/use-machine-learning-apis-on-google-cloud-challenge-lab-gsp329) - 2024-08-17 
+- 📝 [Awwvision: Cloud Vision API from a Kubernetes Cluster - GSP066](https://eplus.dev/awwvision-cloud-vision-api-from-a-kubernetes-cluster-gsp066) - 2024-08-17 
+- 🚀 [Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API - GSP037](https://eplus.dev/detect-labels-faces-and-landmarks-in-images-with-the-cloud-vision-api-gsp037) - 2024-08-17 
+- 💼 [Classify Text into Categories with the Natural Language API - GSP063](https://eplus.dev/classify-text-into-categories-with-the-natural-language-api-gsp063) - 2024-08-17 
+- 🦣 [Introduction to APIs in Google Cloud - GSP294](https://eplus.dev/introduction-to-apis-in-google-cloud-gsp294) - 2024-08-17 
+- 👨‍🏫 [Classify Images with TensorFlow on Google Cloud: Challenge Lab - GSP398](https://eplus.dev/classify-images-with-tensorflow-on-google-cloud-challenge-lab-gsp398) - 2024-08-17 
+- 🔭 [TensorFlow: Qwik Start - GSP637](https://eplus.dev/tensorflow-qwik-start-gsp637) - 2024-08-17 
+- 🤡 [Manage Data Models in Looker: Challenge Lab - GSP365](https://eplus.dev/manage-data-models-in-looker-challenge-lab-gsp365) - 2024-08-17 
+- 💡 [Optimizing Performance of LookML Queries - GSP985](https://eplus.dev/optimizing-performance-of-lookml-queries-gsp985) - 2024-08-17 
+- 🦣 [Caching and Datagroups with LookML - GSP893](https://eplus.dev/caching-and-datagroups-with-lookml-gsp893) - 2024-08-17 
+- 💪 [Employing Best Practices for Improving the Usability of LookML Projects - GSP1020](https://eplus.dev/employing-best-practices-for-improving-the-usability-of-lookml-projects-gsp1020) - 2024-08-16 
+- 🤡 [Troubleshooting Data Models in Looker - GSP1019](https://eplus.dev/troubleshooting-data-models-in-looker-gsp1019) - 2024-08-16 
 
 
 <div align="right">
@@ -50,7 +50,7 @@ Hello World!!!
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.7 °C</td><td>26.5 °C</td><td>26.3 °C</td><td>26.2 °C</td><td>26 °C</td><td>25.9 °C</td><td>25.9 °C</td><td>27.2 °C</td><td>29 °C</td><td>30.5 °C</td><td>31.9 °C</td><td>33 °C</td><td>34.1 °C</td><td>34.6 °C</td><td>34.3 °C</td><td>33.5 °C</td><td>32 °C</td><td>30.8 °C</td><td>29.7 °C</td><td>28.8 °C</td><td>28.2 °C</td><td>27.7 °C</td><td>27.3 °C</td><td>27.1 °C</td>
+        <td>26.7 °C</td><td>26.5 °C</td><td>26.3 °C</td><td>26.2 °C</td><td>26 °C</td><td>25.9 °C</td><td>25.9 °C</td><td>27.2 °C</td><td>29 °C</td><td>30.5 °C</td><td>31.9 °C</td><td>33.1 °C</td><td>34.1 °C</td><td>34.6 °C</td><td>34.3 °C</td><td>33.5 °C</td><td>32 °C</td><td>30.8 °C</td><td>29.7 °C</td><td>28.8 °C</td><td>28.2 °C</td><td>27.7 °C</td><td>27.3 °C</td><td>27.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2024-08-18T04:28:59Z - by <a target="_blank"
+    Updated at: 2024-08-18T04:38:15Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
