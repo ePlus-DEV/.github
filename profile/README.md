@@ -4,21 +4,21 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [Setting up a Private Kubernetes Cluster - GSP178](https://eplus.dev/setting-up-a-private-kubernetes-cluster-gsp178) - 2024-08-18 
-- 😺 [Getting Started with Cloud KMS - GSP079](https://eplus.dev/getting-started-with-cloud-kms-gsp079) - 2024-08-18 
-- 🗽 [User Authentication: Identity-Aware Proxy - GSP499](https://eplus.dev/user-authentication-identity-aware-proxy-gsp499) - 2024-08-18 
-- 🌜 [VPC Network Peering - GSP193](https://eplus.dev/vpc-network-peering-gsp193) - 2024-08-18 
-- 📝 [Service Accounts and Roles: Fundamentals - GSP199](https://eplus.dev/service-accounts-and-roles-fundamentals-gsp199) - 2024-08-18 
-- 🚀 [IAM Custom Roles - GSP190](https://eplus.dev/iam-custom-roles-gsp190) - 2024-08-18 
-- 💼 [Cloud IAM: Qwik Start - GSP064](https://eplus.dev/cloud-iam-qwik-start-gsp064) - 2024-08-18 
-- 🦣 [Deploy Kubernetes Applications on Google Cloud: Challenge Lab - GSP318](https://eplus.dev/deploy-kubernetes-applications-on-google-cloud-challenge-lab-gsp318) - 2024-08-18 
-- 👨‍🏫 [Orchestrating the Cloud with Kubernetes - GSP021](https://eplus.dev/orchestrating-the-cloud-with-kubernetes-gsp021) - 2024-08-18 
-- 🔭 [Introduction to Docker - GSP055](https://eplus.dev/introduction-to-docker-gsp055) - 2024-08-17 
-- 🤡 [Use Machine Learning APIs on Google Cloud: Challenge Lab - GSP329](https://eplus.dev/use-machine-learning-apis-on-google-cloud-challenge-lab-gsp329) - 2024-08-17 
-- 💡 [Awwvision: Cloud Vision API from a Kubernetes Cluster - GSP066](https://eplus.dev/awwvision-cloud-vision-api-from-a-kubernetes-cluster-gsp066) - 2024-08-17 
-- 🦣 [Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API - GSP037](https://eplus.dev/detect-labels-faces-and-landmarks-in-images-with-the-cloud-vision-api-gsp037) - 2024-08-17 
-- 💪 [Classify Text into Categories with the Natural Language API - GSP063](https://eplus.dev/classify-text-into-categories-with-the-natural-language-api-gsp063) - 2024-08-17 
-- 🤡 [Introduction to APIs in Google Cloud - GSP294](https://eplus.dev/introduction-to-apis-in-google-cloud-gsp294) - 2024-08-17 
+- 🧰 [Implement Cloud Security Fundamentals on Google Cloud: Challenge Lab - GSP342](https://eplus.dev/implement-cloud-security-fundamentals-on-google-cloud-challenge-lab-gsp342) - 2024-08-18 
+- 😺 [Setting up a Private Kubernetes Cluster - GSP178](https://eplus.dev/setting-up-a-private-kubernetes-cluster-gsp178) - 2024-08-18 
+- 🗽 [Getting Started with Cloud KMS - GSP079](https://eplus.dev/getting-started-with-cloud-kms-gsp079) - 2024-08-18 
+- 🌜 [User Authentication: Identity-Aware Proxy - GSP499](https://eplus.dev/user-authentication-identity-aware-proxy-gsp499) - 2024-08-18 
+- 📝 [VPC Network Peering - GSP193](https://eplus.dev/vpc-network-peering-gsp193) - 2024-08-18 
+- 🚀 [Service Accounts and Roles: Fundamentals - GSP199](https://eplus.dev/service-accounts-and-roles-fundamentals-gsp199) - 2024-08-18 
+- 💼 [IAM Custom Roles - GSP190](https://eplus.dev/iam-custom-roles-gsp190) - 2024-08-18 
+- 🦣 [Cloud IAM: Qwik Start - GSP064](https://eplus.dev/cloud-iam-qwik-start-gsp064) - 2024-08-18 
+- 👨‍🏫 [Deploy Kubernetes Applications on Google Cloud: Challenge Lab - GSP318](https://eplus.dev/deploy-kubernetes-applications-on-google-cloud-challenge-lab-gsp318) - 2024-08-18 
+- 🔭 [Orchestrating the Cloud with Kubernetes - GSP021](https://eplus.dev/orchestrating-the-cloud-with-kubernetes-gsp021) - 2024-08-18 
+- 🤡 [Introduction to Docker - GSP055](https://eplus.dev/introduction-to-docker-gsp055) - 2024-08-17 
+- 💡 [Use Machine Learning APIs on Google Cloud: Challenge Lab - GSP329](https://eplus.dev/use-machine-learning-apis-on-google-cloud-challenge-lab-gsp329) - 2024-08-17 
+- 🦣 [Awwvision: Cloud Vision API from a Kubernetes Cluster - GSP066](https://eplus.dev/awwvision-cloud-vision-api-from-a-kubernetes-cluster-gsp066) - 2024-08-17 
+- 💪 [Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API - GSP037](https://eplus.dev/detect-labels-faces-and-landmarks-in-images-with-the-cloud-vision-api-gsp037) - 2024-08-17 
+- 🤡 [Classify Text into Categories with the Natural Language API - GSP063](https://eplus.dev/classify-text-into-categories-with-the-natural-language-api-gsp063) - 2024-08-17 
 
 
 <div align="right">
@@ -50,17 +50,17 @@ Hello World!!!
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.7 °C</td><td>26.5 °C</td><td>26.3 °C</td><td>26.2 °C</td><td>25.9 °C</td><td>25.9 °C</td><td>25.8 °C</td><td>27.2 °C</td><td>28.9 °C</td><td>30.4 °C</td><td>32 °C</td><td>33.4 °C</td><td>34.2 °C</td><td>34.4 °C</td><td>34.6 °C</td><td>34.6 °C</td><td>33.5 °C</td><td>31.8 °C</td><td>30.6 °C</td><td>33.3 °C</td><td>28.9 °C</td><td>28.6 °C</td><td>28.1 °C</td><td>27.7 °C</td>
+        <td>26.7 °C</td><td>26.5 °C</td><td>26.3 °C</td><td>26.2 °C</td><td>25.9 °C</td><td>25.9 °C</td><td>25.8 °C</td><td>27.2 °C</td><td>28.9 °C</td><td>30.4 °C</td><td>32 °C</td><td>33.4 °C</td><td>34.2 °C</td><td>34.4 °C</td><td>34.6 °C</td><td>34.6 °C</td><td>33.5 °C</td><td>31.8 °C</td><td>30.6 °C</td><td>31.4 °C</td><td>28.9 °C</td><td>28.6 °C</td><td>28.1 °C</td><td>27.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>8.3 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>5.4 kph</td><td>5 kph</td><td>4.7 kph</td><td>5 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>6.8 kph</td><td>7.2 kph</td><td>7.6 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>10.1 kph</td><td>11.5 kph</td><td>19.1 kph</td><td>12.6 kph</td><td>11.9 kph</td><td>11.2 kph</td><td>10.4 kph</td>
+        <td>8.3 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>5.4 kph</td><td>5 kph</td><td>4.7 kph</td><td>5 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>6.8 kph</td><td>7.2 kph</td><td>7.6 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>10.1 kph</td><td>11.5 kph</td><td>22 kph</td><td>12.6 kph</td><td>11.9 kph</td><td>11.2 kph</td><td>10.4 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-    Updated at: 2024-08-18T12:15:46Z - by <a target="_blank"
+    Updated at: 2024-08-18T12:45:55Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
