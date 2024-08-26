@@ -4,8 +4,8 @@ Hello World!!!
 
 ### #Blog posts
 
-<!-- BLOG-POST-LIST:START -->- 🧰 [Data Catalog: Qwik Start - GSP729](https://eplus.dev/data-catalog-qwik-start-gsp729) - 2024-08-26 
-- 😺 [BigQuery Soccer Data Ingestion - GSP848](https://eplus.dev/bigquery-soccer-data-ingestion-gsp848-1) - 2024-08-26 
+<!-- BLOG-POST-LIST:START -->- 🧰 [The Arcade Special Edition - Arcade Athon &lpar;Solution&rpar;](https://eplus.dev/the-arcade-special-edition-arcade-athon-solution) - 2024-08-26 
+- 😺 [Data Catalog: Qwik Start - GSP729](https://eplus.dev/data-catalog-qwik-start-gsp729) - 2024-08-26 
 - 🗽 [Validate Data in Google Sheets - GSP1062](https://eplus.dev/validate-data-in-google-sheets-gsp1062) - 2024-08-22 
 - 🌜 [[2024] Use Charts in Google Sheets - GSP1061](https://eplus.dev/2024-use-charts-in-google-sheets-gsp1061) - 2024-08-22 
 - 📝 [Develop GenAI Apps with Gemini and Streamlit: Challenge Lab - GSP517](https://eplus.dev/develop-genai-apps-with-gemini-and-streamlit-challenge-lab-gsp517) - 2024-08-22 
