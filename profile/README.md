@@ -4,7 +4,7 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [Creating a Looker Modeled Query and Working with Quick Start - GSP984](https://eplus.dev/creating-a-looker-modeled-query-and-working-with-quick-start-gsp984) - 2024-09-04 
+- 🧰 [Creating a Looker Modeled Query and Working with Quick Start -](https://eplus.dev/creating-a-looker-modeled-query-and-working-with-quick-start) - 2024-09-04 
 - 😺 [The Arcade Base Camp September 2024 &lpar;Solution&rpar;](https://eplus.dev/the-arcade-base-camp-september-2024-solution) - 2024-09-04 
 - 🗽 [Build a BI Dashboard Using Looker Studio and BigQuery - GSP403](https://eplus.dev/build-a-bi-dashboard-using-looker-studio-and-bigquery-gsp403) - 2024-09-04 
 - 🌜 [Loading Data into Cloud SQL - GSP196](https://eplus.dev/loading-data-into-cloud-sql-gsp196) - 2024-09-04 
@@ -50,7 +50,7 @@ Hello World!!!
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.1 °C</td><td>26 °C</td><td>25.8 °C</td><td>26.3 °C</td><td>25.7 °C</td><td>25.4 °C</td><td>25.5 °C</td><td>26 °C</td><td>27.2 °C</td><td>28.8 °C</td><td>29.1 °C</td><td>30.1 °C</td><td>30 °C</td><td>29.3 °C</td><td>29.3 °C</td><td>28.4 °C</td><td>27.6 °C</td><td>26.6 °C</td><td>25.9 °C</td><td>25.8 °C</td><td>25.9 °C</td><td>26.1 °C</td><td>26.2 °C</td><td>26.1 °C</td>
+        <td>26.1 °C</td><td>26 °C</td><td>25.8 °C</td><td>26 °C</td><td>25.7 °C</td><td>25.4 °C</td><td>25.5 °C</td><td>26 °C</td><td>27.2 °C</td><td>28.8 °C</td><td>29.1 °C</td><td>30.1 °C</td><td>30 °C</td><td>29.3 °C</td><td>29.3 °C</td><td>28.4 °C</td><td>27.6 °C</td><td>26.6 °C</td><td>25.9 °C</td><td>25.8 °C</td><td>25.9 °C</td><td>26.1 °C</td><td>26.2 °C</td><td>26.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2024-09-05T20:41:09Z - by <a target="_blank"
+    Updated at: 2024-09-05T20:47:08Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
