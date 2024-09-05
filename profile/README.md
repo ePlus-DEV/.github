@@ -4,7 +4,7 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [Creating a Looker Modeled Query and Working with Quick Start -](https://eplus.dev/creating-a-looker-modeled-query-and-working-with-quick-start) - 2024-09-04 
+- 🧰 [Creating a Looker Modeled Query and Working with Quick Start - GSP984](https://eplus.dev/creating-a-looker-modeled-query-and-working-with-quick-start-gsp984) - 2024-09-04 
 - 😺 [The Arcade Base Camp September 2024 &lpar;Solution&rpar;](https://eplus.dev/the-arcade-base-camp-september-2024-solution) - 2024-09-04 
 - 🗽 [Build a BI Dashboard Using Looker Studio and BigQuery - GSP403](https://eplus.dev/build-a-bi-dashboard-using-looker-studio-and-bigquery-gsp403) - 2024-09-04 
 - 🌜 [Loading Data into Cloud SQL - GSP196](https://eplus.dev/loading-data-into-cloud-sql-gsp196) - 2024-09-04 
@@ -50,17 +50,17 @@ Hello World!!!
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.5 °C</td><td>25.3 °C</td><td>25.2 °C</td><td>25.2 °C</td><td>24.9 °C</td><td>24.8 °C</td><td>24.7 °C</td><td>25.6 °C</td><td>26.7 °C</td><td>28.3 °C</td><td>27.4 °C</td><td>29.8 °C</td><td>29.6 °C</td><td>32.4 °C</td><td>30 °C</td><td>29.9 °C</td><td>29.9 °C</td><td>28.5 °C</td><td>26.8 °C</td><td>26.4 °C</td><td>26.3 °C</td><td>26 °C</td><td>25.7 °C</td><td>25.5 °C</td>
+        <td>25.5 °C</td><td>25.3 °C</td><td>25.2 °C</td><td>25.2 °C</td><td>24.9 °C</td><td>24.8 °C</td><td>24.7 °C</td><td>25.6 °C</td><td>26.7 °C</td><td>28.3 °C</td><td>27.4 °C</td><td>29.8 °C</td><td>29.6 °C</td><td>33 °C</td><td>30 °C</td><td>29.9 °C</td><td>29.9 °C</td><td>28.5 °C</td><td>26.8 °C</td><td>26.4 °C</td><td>26.3 °C</td><td>26 °C</td><td>25.7 °C</td><td>25.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>11.2 kph</td><td>10.1 kph</td><td>10.8 kph</td><td>13.3 kph</td><td>11.2 kph</td><td>10.4 kph</td><td>9.4 kph</td><td>11.2 kph</td><td>14.4 kph</td><td>17.6 kph</td><td>16.9 kph</td><td>24.1 kph</td><td>23.8 kph</td><td>25.9 kph</td><td>20.9 kph</td><td>21.6 kph</td><td>22.7 kph</td><td>21.2 kph</td><td>18.7 kph</td><td>16.9 kph</td><td>14.8 kph</td><td>13.7 kph</td><td>13.3 kph</td><td>11.2 kph</td>
+        <td>11.2 kph</td><td>10.1 kph</td><td>10.8 kph</td><td>13.3 kph</td><td>11.2 kph</td><td>10.4 kph</td><td>9.4 kph</td><td>11.2 kph</td><td>14.4 kph</td><td>17.6 kph</td><td>16.9 kph</td><td>24.1 kph</td><td>23.8 kph</td><td>24.1 kph</td><td>20.9 kph</td><td>21.6 kph</td><td>22.7 kph</td><td>21.2 kph</td><td>18.7 kph</td><td>16.9 kph</td><td>14.8 kph</td><td>13.7 kph</td><td>13.3 kph</td><td>11.2 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-    Updated at: 2024-09-05T06:45:03Z - by <a target="_blank"
+    Updated at: 2024-09-05T06:50:59Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
