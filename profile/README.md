@@ -4,7 +4,7 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [Creating a Looker Modeled Query and Working with Quick Start -](https://eplus.dev/creating-a-looker-modeled-query-and-working-with-quick-start) - 2024-09-04 
+- 🧰 [Creating a Looker Modeled Query and Working with Quick Start - GSP984](https://eplus.dev/creating-a-looker-modeled-query-and-working-with-quick-start-gsp984) - 2024-09-04 
 - 😺 [The Arcade Base Camp September 2024 &lpar;Solution&rpar;](https://eplus.dev/the-arcade-base-camp-september-2024-solution) - 2024-09-04 
 - 🗽 [Build a BI Dashboard Using Looker Studio and BigQuery - GSP403](https://eplus.dev/build-a-bi-dashboard-using-looker-studio-and-bigquery-gsp403) - 2024-09-04 
 - 🌜 [Loading Data into Cloud SQL - GSP196](https://eplus.dev/loading-data-into-cloud-sql-gsp196) - 2024-09-04 
@@ -54,13 +54,13 @@ Hello World!!!
     </tr>
     <tr>
         <th>Wind</th>
-        <td>13 kph</td><td>12.2 kph</td><td>11.5 kph</td><td>10.1 kph</td><td>10.8 kph</td><td>10.4 kph</td><td>12.6 kph</td><td>11.9 kph</td><td>14.4 kph</td><td>29.9 kph</td><td>19.8 kph</td><td>22.3 kph</td><td>23 kph</td><td>23.8 kph</td><td>23 kph</td><td>24.1 kph</td><td>19.8 kph</td><td>17.6 kph</td><td>18.4 kph</td><td>17.6 kph</td><td>16.6 kph</td><td>15.5 kph</td><td>17.3 kph</td><td>16.6 kph</td>
+        <td>13 kph</td><td>12.2 kph</td><td>11.5 kph</td><td>10.1 kph</td><td>10.8 kph</td><td>10.4 kph</td><td>12.6 kph</td><td>11.9 kph</td><td>14.4 kph</td><td>25.9 kph</td><td>19.8 kph</td><td>22.3 kph</td><td>23 kph</td><td>23.8 kph</td><td>23 kph</td><td>24.1 kph</td><td>19.8 kph</td><td>17.6 kph</td><td>18.4 kph</td><td>17.6 kph</td><td>16.6 kph</td><td>15.5 kph</td><td>17.3 kph</td><td>16.6 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-    Updated at: 2024-09-06T02:41:27Z - by <a target="_blank"
+    Updated at: 2024-09-06T02:59:44Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
