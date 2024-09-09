@@ -4,21 +4,21 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [Implement Cloud Security Fundamentals on Google Cloud: Challenge Lab - GSP342](https://eplus.dev/implement-cloud-security-fundamentals-on-google-cloud-challenge-lab-gsp342-1) - 2024-09-09 
-- 😺 [Creating Dynamic Secrets for Google Cloud with Vault - GSP1007](https://eplus.dev/creating-dynamic-secrets-for-google-cloud-with-vault-gsp1007) - 2024-09-09 
-- 🗽 [Authentication, Authorization, and Identity with Vault - GSP1005](https://eplus.dev/authentication-authorization-and-identity-with-vault-gsp1005) - 2024-09-09 
-- 🌜 [Implement CI/CD Pipelines on Google Cloud: Challenge Lab - GSP393](https://eplus.dev/implement-cicd-pipelines-on-google-cloud-challenge-lab-gsp393) - 2024-09-09 
-- 📝 [Continuous Delivery with Google Cloud Deploy - GSP1079](https://eplus.dev/continuous-delivery-with-google-cloud-deploy-gsp1079) - 2024-09-09 
-- 🚀 [Working with Artifact Registry - GSP1076](https://eplus.dev/working-with-artifact-registry-gsp1076) - 2024-09-09 
-- 💼 [Use Functions, Formulas, and Charts in Google Sheets: Challenge Lab - GSP379](https://eplus.dev/use-functions-formulas-and-charts-in-google-sheets-challenge-lab-gsp379) - 2024-09-08 
-- 🦣 [Pivot Tables in Google Sheets - GSP1065](https://eplus.dev/pivot-tables-in-google-sheets-gsp1065) - 2024-09-08 
-- 👨‍🏫 [Use Google Forms with Google Sheets - GSP1064](https://eplus.dev/use-google-forms-with-google-sheets-gsp1064) - 2024-09-08 
-- 🔭 [The Arcade Trivia September 2024 Week 1](https://eplus.dev/the-arcade-trivia-september-2024-week-1) - 2024-09-08 
-- 🤡 [Prepare Data for Looker Dashboards and Reports: Challenge Lab - GSP346](https://eplus.dev/prepare-data-for-looker-dashboards-and-reports-challenge-lab-gsp346) - 2024-09-06 
-- 💡 [Looker Functions and Operators - GSP857](https://eplus.dev/looker-functions-and-operators-gsp857) - 2024-09-06 
-- 🦣 [Creating a Looker Modeled Query and Working with Quick Start - GSP984](https://eplus.dev/creating-a-looker-modeled-query-and-working-with-quick-start-gsp984) - 2024-09-04 
-- 💪 [The Arcade Base Camp September 2024 &lpar;Solution&rpar;](https://eplus.dev/the-arcade-base-camp-september-2024-solution) - 2024-09-04 
-- 🤡 [Build a BI Dashboard Using Looker Studio and BigQuery - GSP403](https://eplus.dev/build-a-bi-dashboard-using-looker-studio-and-bigquery-gsp403) - 2024-09-04 
+- 🧰 [Deploying a Fault-Tolerant Microsoft Active Directory Environment - ARC119](https://eplus.dev/deploying-a-fault-tolerant-microsoft-active-directory-environment-arc119) - 2024-09-09 
+- 😺 [Implement Cloud Security Fundamentals on Google Cloud: Challenge Lab - GSP342](https://eplus.dev/implement-cloud-security-fundamentals-on-google-cloud-challenge-lab-gsp342-1) - 2024-09-09 
+- 🗽 [Creating Dynamic Secrets for Google Cloud with Vault - GSP1007](https://eplus.dev/creating-dynamic-secrets-for-google-cloud-with-vault-gsp1007) - 2024-09-09 
+- 🌜 [Authentication, Authorization, and Identity with Vault - GSP1005](https://eplus.dev/authentication-authorization-and-identity-with-vault-gsp1005) - 2024-09-09 
+- 📝 [Implement CI/CD Pipelines on Google Cloud: Challenge Lab - GSP393](https://eplus.dev/implement-cicd-pipelines-on-google-cloud-challenge-lab-gsp393) - 2024-09-09 
+- 🚀 [Continuous Delivery with Google Cloud Deploy - GSP1079](https://eplus.dev/continuous-delivery-with-google-cloud-deploy-gsp1079) - 2024-09-09 
+- 💼 [Working with Artifact Registry - GSP1076](https://eplus.dev/working-with-artifact-registry-gsp1076) - 2024-09-09 
+- 🦣 [Use Functions, Formulas, and Charts in Google Sheets: Challenge Lab - GSP379](https://eplus.dev/use-functions-formulas-and-charts-in-google-sheets-challenge-lab-gsp379) - 2024-09-08 
+- 👨‍🏫 [Pivot Tables in Google Sheets - GSP1065](https://eplus.dev/pivot-tables-in-google-sheets-gsp1065) - 2024-09-08 
+- 🔭 [Use Google Forms with Google Sheets - GSP1064](https://eplus.dev/use-google-forms-with-google-sheets-gsp1064) - 2024-09-08 
+- 🤡 [The Arcade Trivia September 2024 Week 1](https://eplus.dev/the-arcade-trivia-september-2024-week-1) - 2024-09-08 
+- 💡 [Prepare Data for Looker Dashboards and Reports: Challenge Lab - GSP346](https://eplus.dev/prepare-data-for-looker-dashboards-and-reports-challenge-lab-gsp346) - 2024-09-06 
+- 🦣 [Looker Functions and Operators - GSP857](https://eplus.dev/looker-functions-and-operators-gsp857) - 2024-09-06 
+- 💪 [Creating a Looker Modeled Query and Working with Quick Start - GSP984](https://eplus.dev/creating-a-looker-modeled-query-and-working-with-quick-start-gsp984) - 2024-09-04 
+- 🤡 [The Arcade Base Camp September 2024 &lpar;Solution&rpar;](https://eplus.dev/the-arcade-base-camp-september-2024-solution) - 2024-09-04 
 
 
 <div align="right">
@@ -50,17 +50,17 @@ Hello World!!!
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.2 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>25.9 °C</td><td>25.6 °C</td><td>25.5 °C</td><td>25.3 °C</td><td>26.5 °C</td><td>28.3 °C</td><td>30 °C</td><td>31.4 °C</td><td>32.6 °C</td><td>33.4 °C</td><td>32.6 °C</td><td>31.8 °C</td><td>34.1 °C</td><td>30.5 °C</td><td>30 °C</td><td>29.1 °C</td><td>28.6 °C</td><td>28 °C</td><td>27.5 °C</td><td>27 °C</td><td>26.6 °C</td>
+        <td>26.2 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>25.9 °C</td><td>25.6 °C</td><td>25.5 °C</td><td>25.3 °C</td><td>26.5 °C</td><td>28.3 °C</td><td>30 °C</td><td>31.4 °C</td><td>32.6 °C</td><td>33.4 °C</td><td>32.6 °C</td><td>31.8 °C</td><td>32.3 °C</td><td>30.5 °C</td><td>30 °C</td><td>29.1 °C</td><td>28.6 °C</td><td>28 °C</td><td>27.5 °C</td><td>27 °C</td><td>26.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>13.3 kph</td><td>13.7 kph</td><td>14 kph</td><td>14 kph</td><td>10.4 kph</td><td>9.7 kph</td><td>7.6 kph</td><td>9 kph</td><td>14.8 kph</td><td>17.6 kph</td><td>19.1 kph</td><td>19.1 kph</td><td>19.4 kph</td><td>16.2 kph</td><td>11.5 kph</td><td>20.2 kph</td><td>10.8 kph</td><td>13.7 kph</td><td>11.9 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>11.2 kph</td><td>12.6 kph</td><td>11.9 kph</td>
+        <td>13.3 kph</td><td>13.7 kph</td><td>14 kph</td><td>14 kph</td><td>10.4 kph</td><td>9.7 kph</td><td>7.6 kph</td><td>9 kph</td><td>14.8 kph</td><td>17.6 kph</td><td>19.1 kph</td><td>19.1 kph</td><td>19.4 kph</td><td>16.2 kph</td><td>11.5 kph</td><td>19.1 kph</td><td>10.8 kph</td><td>13.7 kph</td><td>11.9 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>11.2 kph</td><td>12.6 kph</td><td>11.9 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-    Updated at: 2024-09-09T08:45:45Z - by <a target="_blank"
+    Updated at: 2024-09-09T08:51:56Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
