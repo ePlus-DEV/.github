@@ -4,21 +4,21 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [LocalXpose: Securely Access Your Localhost from Anywhere](https://eplus.dev/localxpose-securely-access-your-localhost-from-anywhere) - 2024-09-11 
-- 😺 [Create a Secure Data Lake on Cloud Storage: Challenge Lab - ARC119](https://eplus.dev/create-a-secure-data-lake-on-cloud-storage-challenge-lab-arc119) - 2024-09-09 
-- 🗽 [Deploying a Fault-Tolerant Microsoft Active Directory Environment - ARC118](https://eplus.dev/deploying-a-fault-tolerant-microsoft-active-directory-environment-arc118) - 2024-09-09 
-- 🌜 [Implement Cloud Security Fundamentals on Google Cloud: Challenge Lab - GSP342](https://eplus.dev/implement-cloud-security-fundamentals-on-google-cloud-challenge-lab-gsp342-1) - 2024-09-09 
-- 📝 [Creating Dynamic Secrets for Google Cloud with Vault - GSP1007](https://eplus.dev/creating-dynamic-secrets-for-google-cloud-with-vault-gsp1007) - 2024-09-09 
-- 🚀 [Authentication, Authorization, and Identity with Vault - GSP1005](https://eplus.dev/authentication-authorization-and-identity-with-vault-gsp1005) - 2024-09-09 
-- 💼 [Implement CI/CD Pipelines on Google Cloud: Challenge Lab - GSP393](https://eplus.dev/implement-cicd-pipelines-on-google-cloud-challenge-lab-gsp393) - 2024-09-09 
-- 🦣 [Continuous Delivery with Google Cloud Deploy - GSP1079](https://eplus.dev/continuous-delivery-with-google-cloud-deploy-gsp1079) - 2024-09-09 
-- 👨‍🏫 [Working with Artifact Registry - GSP1076](https://eplus.dev/working-with-artifact-registry-gsp1076) - 2024-09-09 
-- 🔭 [Use Functions, Formulas, and Charts in Google Sheets: Challenge Lab - GSP379](https://eplus.dev/use-functions-formulas-and-charts-in-google-sheets-challenge-lab-gsp379) - 2024-09-08 
-- 🤡 [Pivot Tables in Google Sheets - GSP1065](https://eplus.dev/pivot-tables-in-google-sheets-gsp1065) - 2024-09-08 
-- 💡 [Use Google Forms with Google Sheets - GSP1064](https://eplus.dev/use-google-forms-with-google-sheets-gsp1064) - 2024-09-08 
-- 🦣 [The Arcade Trivia September 2024 Week 1](https://eplus.dev/the-arcade-trivia-september-2024-week-1) - 2024-09-08 
-- 💪 [Prepare Data for Looker Dashboards and Reports: Challenge Lab - GSP346](https://eplus.dev/prepare-data-for-looker-dashboards-and-reports-challenge-lab-gsp346) - 2024-09-06 
-- 🤡 [Looker Functions and Operators - GSP857](https://eplus.dev/looker-functions-and-operators-gsp857) - 2024-09-06 
+- 🧰 [Google Sheets: Getting Started - GSP469](https://eplus.dev/google-sheets-getting-started-gsp469) - 2024-09-11 
+- 😺 [LocalXpose: Securely Access Your Localhost from Anywhere](https://eplus.dev/localxpose-securely-access-your-localhost-from-anywhere) - 2024-09-11 
+- 🗽 [Create a Secure Data Lake on Cloud Storage: Challenge Lab - ARC119](https://eplus.dev/create-a-secure-data-lake-on-cloud-storage-challenge-lab-arc119) - 2024-09-09 
+- 🌜 [Deploying a Fault-Tolerant Microsoft Active Directory Environment - ARC118](https://eplus.dev/deploying-a-fault-tolerant-microsoft-active-directory-environment-arc118) - 2024-09-09 
+- 📝 [Implement Cloud Security Fundamentals on Google Cloud: Challenge Lab - GSP342](https://eplus.dev/implement-cloud-security-fundamentals-on-google-cloud-challenge-lab-gsp342-1) - 2024-09-09 
+- 🚀 [Creating Dynamic Secrets for Google Cloud with Vault - GSP1007](https://eplus.dev/creating-dynamic-secrets-for-google-cloud-with-vault-gsp1007) - 2024-09-09 
+- 💼 [Authentication, Authorization, and Identity with Vault - GSP1005](https://eplus.dev/authentication-authorization-and-identity-with-vault-gsp1005) - 2024-09-09 
+- 🦣 [Implement CI/CD Pipelines on Google Cloud: Challenge Lab - GSP393](https://eplus.dev/implement-cicd-pipelines-on-google-cloud-challenge-lab-gsp393) - 2024-09-09 
+- 👨‍🏫 [Continuous Delivery with Google Cloud Deploy - GSP1079](https://eplus.dev/continuous-delivery-with-google-cloud-deploy-gsp1079) - 2024-09-09 
+- 🔭 [Working with Artifact Registry - GSP1076](https://eplus.dev/working-with-artifact-registry-gsp1076) - 2024-09-09 
+- 🤡 [Use Functions, Formulas, and Charts in Google Sheets: Challenge Lab - GSP379](https://eplus.dev/use-functions-formulas-and-charts-in-google-sheets-challenge-lab-gsp379) - 2024-09-08 
+- 💡 [Pivot Tables in Google Sheets - GSP1065](https://eplus.dev/pivot-tables-in-google-sheets-gsp1065) - 2024-09-08 
+- 🦣 [Use Google Forms with Google Sheets - GSP1064](https://eplus.dev/use-google-forms-with-google-sheets-gsp1064) - 2024-09-08 
+- 💪 [The Arcade Trivia September 2024 Week 1](https://eplus.dev/the-arcade-trivia-september-2024-week-1) - 2024-09-08 
+- 🤡 [Prepare Data for Looker Dashboards and Reports: Challenge Lab - GSP346](https://eplus.dev/prepare-data-for-looker-dashboards-and-reports-challenge-lab-gsp346) - 2024-09-06 
 
 
 <div align="right">
@@ -50,7 +50,7 @@ Hello World!!!
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.9 °C</td><td>26 °C</td><td>25.8 °C</td><td>25.7 °C</td><td>25.6 °C</td><td>25.6 °C</td><td>25.8 °C</td><td>26.7 °C</td><td>28 °C</td><td>29.2 °C</td><td>30.9 °C</td><td>32.5 °C</td><td>32.9 °C</td><td>32.3 °C</td><td>31.9 °C</td><td>31.4 °C</td><td>30.1 °C</td><td>28.9 °C</td><td>27.8 °C</td><td>27.5 °C</td><td>26.1 °C</td><td>26.5 °C</td><td>26.3 °C</td><td>26.1 °C</td>
+        <td>25.9 °C</td><td>26 °C</td><td>25.8 °C</td><td>25.7 °C</td><td>25.6 °C</td><td>25.6 °C</td><td>25.8 °C</td><td>26.7 °C</td><td>28 °C</td><td>29.2 °C</td><td>30.9 °C</td><td>32.5 °C</td><td>32.9 °C</td><td>32.3 °C</td><td>31.9 °C</td><td>31.4 °C</td><td>30.1 °C</td><td>28.9 °C</td><td>27.8 °C</td><td>27.5 °C</td><td>26.2 °C</td><td>26.5 °C</td><td>26.3 °C</td><td>26.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2024-09-11T13:30:05Z - by <a target="_blank"
+    Updated at: 2024-09-11T13:39:17Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
