@@ -4,21 +4,21 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [Self-review: Create a light-dark theme switcher - Advanced React](https://eplus.dev/self-review-create-a-light-dark-theme-switcher-advanced-react) - 2024-09-12 
-- 😺 [Knowledge check: Forms in React - Advanced React](https://eplus.dev/knowledge-check-forms-in-react-advanced-react) - 2024-09-12 
-- 🗽 [Self-review: Create a registration form - Advanced React](https://eplus.dev/self-review-create-a-registration-form-advanced-react) - 2024-09-12 
-- 🌜 [The Arcade Trivia September 2024 Week 3](https://eplus.dev/the-arcade-trivia-september-2024-week-3) - 2024-09-12 
-- 📝 [Analyze BigQuery data in Connected Sheets: Challenge Lab - ARC103](https://eplus.dev/analyze-bigquery-data-in-connected-sheets-challenge-lab-arc103) - 2024-09-12 
-- 🚀 [The Arcade Trivia September 2024 Week 2](https://eplus.dev/the-arcade-trivia-september-2024-week-2) - 2024-09-11 
-- 💼 [Connected Sheets: Qwik Start - GSP870](https://eplus.dev/connected-sheets-qwik-start-gsp870) - 2024-09-11 
-- 🦣 [BigQuery: Qwik Start - Console - GSP072](https://eplus.dev/bigquery-qwik-start-console-gsp072) - 2024-09-11 
-- 👨‍🏫 [Google Sheets: Getting Started - GSP469](https://eplus.dev/google-sheets-getting-started-gsp469) - 2024-09-11 
-- 🔭 [LocalXpose: Securely Access Your Localhost from Anywhere](https://eplus.dev/localxpose-securely-access-your-localhost-from-anywhere) - 2024-09-11 
-- 🤡 [Create a Secure Data Lake on Cloud Storage: Challenge Lab - ARC119](https://eplus.dev/create-a-secure-data-lake-on-cloud-storage-challenge-lab-arc119) - 2024-09-09 
-- 💡 [Deploying a Fault-Tolerant Microsoft Active Directory Environment - ARC118](https://eplus.dev/deploying-a-fault-tolerant-microsoft-active-directory-environment-arc118) - 2024-09-09 
-- 🦣 [Implement Cloud Security Fundamentals on Google Cloud: Challenge Lab - GSP342](https://eplus.dev/implement-cloud-security-fundamentals-on-google-cloud-challenge-lab-gsp342-1) - 2024-09-09 
-- 💪 [Creating Dynamic Secrets for Google Cloud with Vault - GSP1007](https://eplus.dev/creating-dynamic-secrets-for-google-cloud-with-vault-gsp1007) - 2024-09-09 
-- 🤡 [Authentication, Authorization, and Identity with Vault - GSP1005](https://eplus.dev/authentication-authorization-and-identity-with-vault-gsp1005) - 2024-09-09 
+- 🧰 [Knowledge check: React Context - Advanced React](https://eplus.dev/knowledge-check-react-context-advanced-react) - 2024-09-12 
+- 😺 [Self-review: Create a light-dark theme switcher - Advanced React](https://eplus.dev/self-review-create-a-light-dark-theme-switcher-advanced-react) - 2024-09-12 
+- 🗽 [Knowledge check: Forms in React - Advanced React](https://eplus.dev/knowledge-check-forms-in-react-advanced-react) - 2024-09-12 
+- 🌜 [Self-review: Create a registration form - Advanced React](https://eplus.dev/self-review-create-a-registration-form-advanced-react) - 2024-09-12 
+- 📝 [The Arcade Trivia September 2024 Week 3](https://eplus.dev/the-arcade-trivia-september-2024-week-3) - 2024-09-12 
+- 🚀 [Analyze BigQuery data in Connected Sheets: Challenge Lab - ARC103](https://eplus.dev/analyze-bigquery-data-in-connected-sheets-challenge-lab-arc103) - 2024-09-12 
+- 💼 [The Arcade Trivia September 2024 Week 2](https://eplus.dev/the-arcade-trivia-september-2024-week-2) - 2024-09-11 
+- 🦣 [Connected Sheets: Qwik Start - GSP870](https://eplus.dev/connected-sheets-qwik-start-gsp870) - 2024-09-11 
+- 👨‍🏫 [BigQuery: Qwik Start - Console - GSP072](https://eplus.dev/bigquery-qwik-start-console-gsp072) - 2024-09-11 
+- 🔭 [Google Sheets: Getting Started - GSP469](https://eplus.dev/google-sheets-getting-started-gsp469) - 2024-09-11 
+- 🤡 [LocalXpose: Securely Access Your Localhost from Anywhere](https://eplus.dev/localxpose-securely-access-your-localhost-from-anywhere) - 2024-09-11 
+- 💡 [Create a Secure Data Lake on Cloud Storage: Challenge Lab - ARC119](https://eplus.dev/create-a-secure-data-lake-on-cloud-storage-challenge-lab-arc119) - 2024-09-09 
+- 🦣 [Deploying a Fault-Tolerant Microsoft Active Directory Environment - ARC118](https://eplus.dev/deploying-a-fault-tolerant-microsoft-active-directory-environment-arc118) - 2024-09-09 
+- 💪 [Implement Cloud Security Fundamentals on Google Cloud: Challenge Lab - GSP342](https://eplus.dev/implement-cloud-security-fundamentals-on-google-cloud-challenge-lab-gsp342-1) - 2024-09-09 
+- 🤡 [Creating Dynamic Secrets for Google Cloud with Vault - GSP1007](https://eplus.dev/creating-dynamic-secrets-for-google-cloud-with-vault-gsp1007) - 2024-09-09 
 
 
 <div align="right">
@@ -42,25 +42,25 @@ Hello World!!!
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/293.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/356.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/389.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/293.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/356.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/386.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Patchy light rain</td><td width="200px">Moderate or heavy rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Moderate or heavy rain with thunder</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Patchy light rain</td><td width="200px">Moderate or heavy rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Patchy light rain with thunder</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.3 °C</td><td>26.1 °C</td><td>25.5 °C</td><td>25 °C</td><td>25.2 °C</td><td>25 °C</td><td>25.3 °C</td><td>26.1 °C</td><td>27.4 °C</td><td>29.3 °C</td><td>31.1 °C</td><td>32.3 °C</td><td>31.9 °C</td><td>31 °C</td><td>30.9 °C</td><td>30.3 °C</td><td>30.2 °C</td><td>28.7 °C</td><td>28 °C</td><td>27.5 °C</td><td>27.3 °C</td><td>26.8 °C</td><td>26.4 °C</td><td>26.1 °C</td>
+        <td>26.3 °C</td><td>26.1 °C</td><td>25.5 °C</td><td>25 °C</td><td>25.2 °C</td><td>25 °C</td><td>25.3 °C</td><td>26.1 °C</td><td>27.4 °C</td><td>29.3 °C</td><td>31.1 °C</td><td>32.3 °C</td><td>31.9 °C</td><td>31 °C</td><td>30.9 °C</td><td>30.3 °C</td><td>29.6 °C</td><td>28.1 °C</td><td>28 °C</td><td>27.5 °C</td><td>27.3 °C</td><td>26.8 °C</td><td>26.4 °C</td><td>26.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.6 kph</td><td>5.8 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>6.8 kph</td><td>5.4 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>7.2 kph</td><td>11.2 kph</td><td>13.3 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>9.7 kph</td><td>7.6 kph</td><td>28.1 kph</td><td>10.4 kph</td><td>9.4 kph</td><td>10.1 kph</td><td>10.4 kph</td><td>11.5 kph</td><td>12.2 kph</td><td>11.9 kph</td>
+        <td>7.6 kph</td><td>5.8 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>6.8 kph</td><td>5.4 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>7.2 kph</td><td>11.2 kph</td><td>13.3 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>9.7 kph</td><td>7.6 kph</td><td>10.1 kph</td><td>19.1 kph</td><td>9.4 kph</td><td>10.1 kph</td><td>10.4 kph</td><td>11.5 kph</td><td>12.2 kph</td><td>11.9 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-    Updated at: 2024-09-12T09:59:29Z - by <a target="_blank"
+    Updated at: 2024-09-12T10:17:37Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
