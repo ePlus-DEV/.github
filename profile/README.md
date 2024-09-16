@@ -4,21 +4,21 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [Self-review: Implementing scroller position with render props - Advanced React](https://eplus.dev/self-review-implementing-scroller-position-with-render-props-advanced-react) - 2024-09-16 
-- 😺 [Knowledge check: JSX - Advanced React](https://eplus.dev/knowledge-check-jsx-advanced-react) - 2024-09-16 
-- 🗽 [Self-review: Build a Radio Group Component - Advanced React](https://eplus.dev/self-review-build-a-radio-group-component-advanced-react) - 2024-09-16 
-- 🌜 [Module quiz: React Hooks and Custom Hooks - Advanced React](https://eplus.dev/module-quiz-react-hooks-and-custom-hooks-advanced-react) - 2024-09-16 
-- 📝 [Knowledge check: Advanced Hooks - Advanced React](https://eplus.dev/knowledge-check-advanced-hooks-advanced-react) - 2024-09-16 
-- 🚀 [Self-review: Create your own custom hook, usePrevious - Advanced React](https://eplus.dev/self-review-create-your-own-custom-hook-useprevious-advanced-react) - 2024-09-16 
-- 💼 [Knowledge check: Rules of Hooks and Fetching Data with Hooks - Advanced React](https://eplus.dev/knowledge-check-rules-of-hooks-and-fetching-data-with-hooks-advanced-react) - 2024-09-16 
-- 🦣 [Self-review: Can you fetch data? - Advanced React](https://eplus.dev/self-review-can-you-fetch-data-advanced-react) - 2024-09-16 
-- 👨‍🏫 [Knowledge check: Getting started with hooks - Advanced React](https://eplus.dev/knowledge-check-getting-started-with-hooks-advanced-react) - 2024-09-16 
-- 🔭 [Self-review: Managing state within a component - Advanced React](https://eplus.dev/self-review-managing-state-within-a-component-advanced-react) - 2024-09-16 
-- 🤡 [Module quiz: Components - Advanced React](https://eplus.dev/module-quiz-components-advanced-react) - 2024-09-16 
-- 💡 [Check Point: Next-Gen Data Center Security CloudGuard for Google Cloud - GSP818](https://eplus.dev/check-point-next-gen-data-center-security-cloudguard-for-google-cloud-gsp818) - 2024-09-15 
-- 🦣 [Chronicle SIEM: Outcomes &amp; Functions - GSP1100](https://eplus.dev/chronicle-siem-outcomes-functions-gsp1100) - 2024-09-15 
-- 💪 [Chronicle SIEM: Multi Event Rules - GSP1099](https://eplus.dev/chronicle-siem-multi-event-rules-gsp1099) - 2024-09-15 
-- 🤡 [Cách mình kiếm Dollar đầu tiên bằng Lemon Squeezy](https://eplus.dev/cach-minh-kiem-dollar-dau-tien-bang-lemon-squeezy) - 2024-09-14 
+- 🧰 [Self-review: Writing more test scenarios - Advanced React](https://eplus.dev/self-review-writing-more-test-scenarios-advanced-react) - 2024-09-16 
+- 😺 [Knowledge check: Reusing behavior - Advanced React](https://eplus.dev/knowledge-check-reusing-behavior-advanced-react) - 2024-09-16 
+- 🗽 [Self-review: Implementing scroller position with render props - Advanced React](https://eplus.dev/self-review-implementing-scroller-position-with-render-props-advanced-react) - 2024-09-16 
+- 🌜 [Knowledge check: JSX - Advanced React](https://eplus.dev/knowledge-check-jsx-advanced-react) - 2024-09-16 
+- 📝 [Self-review: Build a Radio Group Component - Advanced React](https://eplus.dev/self-review-build-a-radio-group-component-advanced-react) - 2024-09-16 
+- 🚀 [Module quiz: React Hooks and Custom Hooks - Advanced React](https://eplus.dev/module-quiz-react-hooks-and-custom-hooks-advanced-react) - 2024-09-16 
+- 💼 [Knowledge check: Advanced Hooks - Advanced React](https://eplus.dev/knowledge-check-advanced-hooks-advanced-react) - 2024-09-16 
+- 🦣 [Self-review: Create your own custom hook, usePrevious - Advanced React](https://eplus.dev/self-review-create-your-own-custom-hook-useprevious-advanced-react) - 2024-09-16 
+- 👨‍🏫 [Knowledge check: Rules of Hooks and Fetching Data with Hooks - Advanced React](https://eplus.dev/knowledge-check-rules-of-hooks-and-fetching-data-with-hooks-advanced-react) - 2024-09-16 
+- 🔭 [Self-review: Can you fetch data? - Advanced React](https://eplus.dev/self-review-can-you-fetch-data-advanced-react) - 2024-09-16 
+- 🤡 [Knowledge check: Getting started with hooks - Advanced React](https://eplus.dev/knowledge-check-getting-started-with-hooks-advanced-react) - 2024-09-16 
+- 💡 [Self-review: Managing state within a component - Advanced React](https://eplus.dev/self-review-managing-state-within-a-component-advanced-react) - 2024-09-16 
+- 🦣 [Module quiz: Components - Advanced React](https://eplus.dev/module-quiz-components-advanced-react) - 2024-09-16 
+- 💪 [Check Point: Next-Gen Data Center Security CloudGuard for Google Cloud - GSP818](https://eplus.dev/check-point-next-gen-data-center-security-cloudguard-for-google-cloud-gsp818) - 2024-09-15 
+- 🤡 [Chronicle SIEM: Outcomes &amp; Functions - GSP1100](https://eplus.dev/chronicle-siem-outcomes-functions-gsp1100) - 2024-09-15 
 
 
 <div align="right">
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2024-09-16T08:33:58Z - by <a target="_blank"
+    Updated at: 2024-09-16T08:46:20Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
