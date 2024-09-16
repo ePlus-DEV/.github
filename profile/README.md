@@ -31,7 +31,7 @@ Hello World!!!
 
 
 <details>
-    <summary><b>Ho Chi Minh City, Vietnam - 16/09/2024 (<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png" width="25" /> Moderate rain)</b>
+    <summary><b>Ho Chi Minh City, Vietnam - 16/09/2024 (<img src="https://cdn.weatherapi.com/weather/64x64/day/308.png" width="25" /> Heavy rain)</b>
     </summary>
 
     
@@ -50,7 +50,7 @@ Hello World!!!
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.2 °C</td><td>25 °C</td><td>24.7 °C</td><td>24.6 °C</td><td>24.6 °C</td><td>24.5 °C</td><td>24.6 °C</td><td>25.8 °C</td><td>27.3 °C</td><td>28.4 °C</td><td>28.9 °C</td><td>29.3 °C</td><td>29.3 °C</td><td>29.5 °C</td><td>29.4 °C</td><td>28.9 °C</td><td>27 °C</td><td>29.3 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>26 °C</td><td>25.7 °C</td><td>25.4 °C</td><td>25.3 °C</td>
+        <td>25.2 °C</td><td>25 °C</td><td>24.7 °C</td><td>24.6 °C</td><td>24.6 °C</td><td>24.5 °C</td><td>24.6 °C</td><td>25.8 °C</td><td>27.3 °C</td><td>28.4 °C</td><td>28.9 °C</td><td>29.3 °C</td><td>29.3 °C</td><td>29.5 °C</td><td>29.4 °C</td><td>28.9 °C</td><td>27 °C</td><td>29.1 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>26 °C</td><td>25.7 °C</td><td>25.4 °C</td><td>25.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2024-09-16T10:43:42Z - by <a target="_blank"
+    Updated at: 2024-09-16T10:49:08Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
