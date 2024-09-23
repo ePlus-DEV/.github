@@ -31,7 +31,7 @@ Hello World!!!
 
 
 <details>
-    <summary><b>Ho Chi Minh City, Vietnam - 23/09/2024 (<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" width="25" /> Patchy rain nearby)</b>
+    <summary><b>Ho Chi Minh City, Vietnam - 23/09/2024 (<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png" width="25" /> Moderate rain)</b>
     </summary>
 
     
@@ -42,7 +42,7 @@ Hello World!!!
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/263.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/263.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
@@ -50,7 +50,7 @@ Hello World!!!
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.2 °C</td><td>24 °C</td><td>23.9 °C</td><td>23.8 °C</td><td>23.7 °C</td><td>23.6 °C</td><td>23.9 °C</td><td>25 °C</td><td>26.7 °C</td><td>28.3 °C</td><td>29.9 °C</td><td>31 °C</td><td>31.5 °C</td><td>31.7 °C</td><td>31.5 °C</td><td>31.3 °C</td><td>30.7 °C</td><td>28.3 °C</td><td>27.1 °C</td><td>26.8 °C</td><td>26.5 °C</td><td>26.1 °C</td><td>25.9 °C</td><td>25.7 °C</td>
+        <td>24.2 °C</td><td>24 °C</td><td>23.9 °C</td><td>23.8 °C</td><td>23.7 °C</td><td>23.6 °C</td><td>23.9 °C</td><td>25 °C</td><td>26.7 °C</td><td>28.3 °C</td><td>29.9 °C</td><td>31 °C</td><td>31.5 °C</td><td>31.7 °C</td><td>31.5 °C</td><td>31.3 °C</td><td>30.7 °C</td><td>28.1 °C</td><td>27.1 °C</td><td>26.8 °C</td><td>26.5 °C</td><td>26.1 °C</td><td>25.9 °C</td><td>25.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2024-09-23T10:44:49Z - by <a target="_blank"
+    Updated at: 2024-09-23T10:50:42Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
