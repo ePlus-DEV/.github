@@ -4,21 +4,21 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [Test your knowledge: Acquiring the core skills of a successful project manager](https://eplus.dev/test-your-knowledge-acquiring-the-core-skills-of-a-successful-project-manager) - 2024-10-17 
-- 😺 [Reflection: Identify the essential skills of a project manager](https://eplus.dev/reflection-identify-the-essential-skills-of-a-project-manager) - 2024-10-17 
-- 🗽 [Test your knowledge: Learning more about project manager roles and responsibilities](https://eplus.dev/test-your-knowledge-learning-more-about-project-manager-roles-and-responsibilities) - 2024-10-17 
-- 🌜 [Serverless Architectures on AWS - Final Assessment](https://eplus.dev/serverless-architectures-on-aws-final-assessment) - 2024-10-17 
-- 📝 [Serverless Architectures on AWS - Week 2 Quiz](https://eplus.dev/serverless-architectures-on-aws-week-2-quiz) - 2024-10-17 
-- 🚀 [Serverless Architectures on AWS - Week 1 Quiz](https://eplus.dev/serverless-architectures-on-aws-week-1-quiz) - 2024-10-17 
-- 💼 [Guide: How to Restore a Suspended Hashnode Account](https://eplus.dev/guide-how-to-restore-a-suspended-hashnode-account) - 2024-10-16 
-- 🦣 [Trang web đã hoạt động trở lại / Website is Now Back Online](https://eplus.dev/trang-web-da-hoat-dong-tro-lai-website-is-now-back-online) - 2024-10-16 
-- 👨‍🏫 [Danh sách tỉnh thành phủ sóng 5G Viettel](https://eplus.dev/danh-sach-tinh-thanh-phu-song-5g-viettel) - 2024-10-15 
-- 🔭 [Foundations of Project Management - Module 1 Challenge](https://eplus.dev/foundations-of-project-management-module-1-challenge) - 2024-10-12 
-- 🤡 [Laravel Package - Laravel Process Approval](https://eplus.dev/laravel-package-laravel-process-approval) - 2024-10-10 
-- 💡 [Module quiz: Introduction to algorithms](https://eplus.dev/module-quiz-introduction-to-algorithms) - 2024-10-06 
-- 🦣 [Module quiz: Introduction to data structures](https://eplus.dev/module-quiz-introduction-to-data-structures) - 2024-10-06 
-- 💪 [Coding Interview Preparation - Final graded assessment](https://eplus.dev/coding-interview-preparation-final-graded-assessment) - 2024-10-06 
-- 🤡 [Module quiz: Introduction to the coding interview](https://eplus.dev/module-quiz-introduction-to-the-coding-interview) - 2024-10-06 
+- 🧰 [Foundations of Project Management - Module 2 Challenge](https://eplus.dev/foundations-of-project-management-module-2-challenge) - 2024-10-17 
+- 😺 [Reflection: Influence without authority](https://eplus.dev/reflection-influence-without-authority) - 2024-10-17 
+- 🗽 [Test your knowledge: Acquiring the core skills of a successful project manager](https://eplus.dev/test-your-knowledge-acquiring-the-core-skills-of-a-successful-project-manager) - 2024-10-17 
+- 🌜 [Reflection: Identify the essential skills of a project manager](https://eplus.dev/reflection-identify-the-essential-skills-of-a-project-manager) - 2024-10-17 
+- 📝 [Test your knowledge: Learning more about project manager roles and responsibilities](https://eplus.dev/test-your-knowledge-learning-more-about-project-manager-roles-and-responsibilities) - 2024-10-17 
+- 🚀 [Serverless Architectures on AWS - Final Assessment](https://eplus.dev/serverless-architectures-on-aws-final-assessment) - 2024-10-17 
+- 💼 [Serverless Architectures on AWS - Week 2 Quiz](https://eplus.dev/serverless-architectures-on-aws-week-2-quiz) - 2024-10-17 
+- 🦣 [Serverless Architectures on AWS - Week 1 Quiz](https://eplus.dev/serverless-architectures-on-aws-week-1-quiz) - 2024-10-17 
+- 👨‍🏫 [Guide: How to Restore a Suspended Hashnode Account](https://eplus.dev/guide-how-to-restore-a-suspended-hashnode-account) - 2024-10-16 
+- 🔭 [Trang web đã hoạt động trở lại / Website is Now Back Online](https://eplus.dev/trang-web-da-hoat-dong-tro-lai-website-is-now-back-online) - 2024-10-16 
+- 🤡 [Danh sách tỉnh thành phủ sóng 5G Viettel](https://eplus.dev/danh-sach-tinh-thanh-phu-song-5g-viettel) - 2024-10-15 
+- 💡 [Foundations of Project Management - Module 1 Challenge](https://eplus.dev/foundations-of-project-management-module-1-challenge) - 2024-10-12 
+- 🦣 [Laravel Package - Laravel Process Approval](https://eplus.dev/laravel-package-laravel-process-approval) - 2024-10-10 
+- 💪 [Module quiz: Introduction to algorithms](https://eplus.dev/module-quiz-introduction-to-algorithms) - 2024-10-06 
+- 🤡 [Module quiz: Introduction to data structures](https://eplus.dev/module-quiz-introduction-to-data-structures) - 2024-10-06 
 
 
 <div align="right">
@@ -42,11 +42,11 @@ Hello World!!!
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/389.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/386.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Moderate or heavy rain with thunder</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td>
+        <td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy light rain with thunder</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td>
     </tr>
     <tr>
         <th>Temperature</th>
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2024-10-17T09:15:51Z - by <a target="_blank"
+    Updated at: 2024-10-17T09:30:02Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
