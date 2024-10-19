@@ -4,21 +4,21 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [Test your knowledge: Analyzing the different project phases](https://eplus.dev/test-your-knowledge-analyzing-the-different-project-phases) - 2024-10-17 
-- 😺 [Test your knowledge: Understanding the project life cycle](https://eplus.dev/test-your-knowledge-understanding-the-project-life-cycle) - 2024-10-17 
-- 🗽 [Foundations of Project Management - Module 2 Challenge](https://eplus.dev/foundations-of-project-management-module-2-challenge) - 2024-10-17 
-- 🌜 [Reflection: Influence without authority](https://eplus.dev/reflection-influence-without-authority) - 2024-10-17 
-- 📝 [Test your knowledge: Acquiring the core skills of a successful project manager](https://eplus.dev/test-your-knowledge-acquiring-the-core-skills-of-a-successful-project-manager) - 2024-10-17 
-- 🚀 [Reflection: Identify the essential skills of a project manager](https://eplus.dev/reflection-identify-the-essential-skills-of-a-project-manager) - 2024-10-17 
-- 💼 [Test your knowledge: Learning more about project manager roles and responsibilities](https://eplus.dev/test-your-knowledge-learning-more-about-project-manager-roles-and-responsibilities) - 2024-10-17 
-- 🦣 [Serverless Architectures on AWS - Final Assessment](https://eplus.dev/serverless-architectures-on-aws-final-assessment) - 2024-10-17 
-- 👨‍🏫 [Serverless Architectures on AWS - Week 2 Quiz](https://eplus.dev/serverless-architectures-on-aws-week-2-quiz) - 2024-10-17 
-- 🔭 [Serverless Architectures on AWS - Week 1 Quiz](https://eplus.dev/serverless-architectures-on-aws-week-1-quiz) - 2024-10-17 
-- 🤡 [Guide: How to Restore a Suspended Hashnode Account](https://eplus.dev/guide-how-to-restore-a-suspended-hashnode-account) - 2024-10-16 
-- 💡 [Trang web đã hoạt động trở lại / Website is Now Back Online](https://eplus.dev/trang-web-da-hoat-dong-tro-lai-website-is-now-back-online) - 2024-10-16 
-- 🦣 [Danh sách tỉnh thành phủ sóng 5G Viettel](https://eplus.dev/danh-sach-tinh-thanh-phu-song-5g-viettel) - 2024-10-15 
-- 💪 [Foundations of Project Management - Module 1 Challenge](https://eplus.dev/foundations-of-project-management-module-1-challenge) - 2024-10-12 
-- 🤡 [Laravel Package - Laravel Process Approval](https://eplus.dev/laravel-package-laravel-process-approval) - 2024-10-10 
+- 🧰 [Foundations of Project Management - Module 3 Challenge](https://eplus.dev/foundations-of-project-management-module-3-challenge) - 2024-10-19 
+- 😺 [Test your knowledge: Analyzing the different project phases](https://eplus.dev/test-your-knowledge-analyzing-the-different-project-phases) - 2024-10-17 
+- 🗽 [Test your knowledge: Understanding the project life cycle](https://eplus.dev/test-your-knowledge-understanding-the-project-life-cycle) - 2024-10-17 
+- 🌜 [Foundations of Project Management - Module 2 Challenge](https://eplus.dev/foundations-of-project-management-module-2-challenge) - 2024-10-17 
+- 📝 [Reflection: Influence without authority](https://eplus.dev/reflection-influence-without-authority) - 2024-10-17 
+- 🚀 [Test your knowledge: Acquiring the core skills of a successful project manager](https://eplus.dev/test-your-knowledge-acquiring-the-core-skills-of-a-successful-project-manager) - 2024-10-17 
+- 💼 [Reflection: Identify the essential skills of a project manager](https://eplus.dev/reflection-identify-the-essential-skills-of-a-project-manager) - 2024-10-17 
+- 🦣 [Test your knowledge: Learning more about project manager roles and responsibilities](https://eplus.dev/test-your-knowledge-learning-more-about-project-manager-roles-and-responsibilities) - 2024-10-17 
+- 👨‍🏫 [Serverless Architectures on AWS - Final Assessment](https://eplus.dev/serverless-architectures-on-aws-final-assessment) - 2024-10-17 
+- 🔭 [Serverless Architectures on AWS - Week 2 Quiz](https://eplus.dev/serverless-architectures-on-aws-week-2-quiz) - 2024-10-17 
+- 🤡 [Serverless Architectures on AWS - Week 1 Quiz](https://eplus.dev/serverless-architectures-on-aws-week-1-quiz) - 2024-10-17 
+- 💡 [Guide: How to Restore a Suspended Hashnode Account](https://eplus.dev/guide-how-to-restore-a-suspended-hashnode-account) - 2024-10-16 
+- 🦣 [Trang web đã hoạt động trở lại / Website is Now Back Online](https://eplus.dev/trang-web-da-hoat-dong-tro-lai-website-is-now-back-online) - 2024-10-16 
+- 💪 [Danh sách tỉnh thành phủ sóng 5G Viettel](https://eplus.dev/danh-sach-tinh-thanh-phu-song-5g-viettel) - 2024-10-15 
+- 🤡 [Foundations of Project Management - Module 1 Challenge](https://eplus.dev/foundations-of-project-management-module-1-challenge) - 2024-10-12 
 
 
 <div align="right">
@@ -42,25 +42,25 @@ Hello World!!!
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/293.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/299.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/263.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/293.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/263.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/299.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy light rain</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Partly cloudy</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Moderate rain at times</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Mist</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy light drizzle</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Partly cloudy</td><td width="200px">Light rain shower</td><td width="200px">Patchy light rain</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy light drizzle</td><td width="200px">Moderate rain at times</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.5 °C</td><td>24.4 °C</td><td>24.4 °C</td><td>24.3 °C</td><td>24.1 °C</td><td>24.1 °C</td><td>24.2 °C</td><td>25.4 °C</td><td>27 °C</td><td>28.5 °C</td><td>29.6 °C</td><td>29.8 °C</td><td>31.1 °C</td><td>31.1 °C</td><td>30.8 °C</td><td>29.9 °C</td><td>28.8 °C</td><td>27.5 °C</td><td>26.3 °C</td><td>25.9 °C</td><td>25.3 °C</td><td>24.9 °C</td><td>24.6 °C</td><td>24.3 °C</td>
+        <td>24.5 °C</td><td>24.4 °C</td><td>24.4 °C</td><td>24.3 °C</td><td>23.9 °C</td><td>23.8 °C</td><td>24.1 °C</td><td>25.3 °C</td><td>26.9 °C</td><td>28.6 °C</td><td>29.9 °C</td><td>29.7 °C</td><td>29.9 °C</td><td>31.1 °C</td><td>30.1 °C</td><td>29.6 °C</td><td>28.7 °C</td><td>27.2 °C</td><td>26 °C</td><td>25.7 °C</td><td>25.5 °C</td><td>24.6 °C</td><td>24.4 °C</td><td>24.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>3.2 kph</td><td>3.6 kph</td><td>4 kph</td><td>2.9 kph</td><td>2.2 kph</td><td>3.6 kph</td><td>5 kph</td><td>4.7 kph</td><td>3.6 kph</td><td>5.8 kph</td><td>6.5 kph</td><td>8.3 kph</td><td>9 kph</td><td>9 kph</td><td>12.2 kph</td><td>14.8 kph</td><td>14.4 kph</td><td>13.7 kph</td><td>11.2 kph</td><td>10.1 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>7.6 kph</td>
+        <td>3.2 kph</td><td>3.6 kph</td><td>4 kph</td><td>2.9 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>4 kph</td><td>4.7 kph</td><td>6.5 kph</td><td>7.2 kph</td><td>7.6 kph</td><td>6.8 kph</td><td>9 kph</td><td>9 kph</td><td>12.2 kph</td><td>11.5 kph</td><td>12.2 kph</td><td>11.9 kph</td><td>10.4 kph</td><td>8.3 kph</td><td>7.9 kph</td><td>8.6 kph</td><td>7.9 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-    Updated at: 2024-10-19T05:58:28Z - by <a target="_blank"
+    Updated at: 2024-10-19T06:18:57Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
