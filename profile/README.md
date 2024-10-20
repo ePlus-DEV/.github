@@ -4,21 +4,21 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [Reflection: Applying the Triple Constraint](https://eplus.dev/reflection-applying-the-triple-constraint) - 2024-10-20 
-- 😺 [Test your knowledge: Identifying project goals](https://eplus.dev/test-your-knowledge-identifying-project-goals) - 2024-10-20 
-- 🗽 [Project Initiation: Starting a Successful Project - Module 1 Challenge](https://eplus.dev/project-initiation-starting-a-successful-project-module-1-challenge) - 2024-10-20 
-- 🌜 [Foundations of Project Management - Module 4 Challenge](https://eplus.dev/foundations-of-project-management-module-4-challenge) - 2024-10-20 
-- 📝 [Test your knowledge: Understanding change management](https://eplus.dev/test-your-knowledge-understanding-change-management) - 2024-10-20 
-- 🚀 [Test your knowledge: Understanding the impact of organizational culture](https://eplus.dev/test-your-knowledge-understanding-the-impact-of-organizational-culture) - 2024-10-20 
-- 💼 [Test your knowledge: Understanding organizational structure](https://eplus.dev/test-your-knowledge-understanding-organizational-structure) - 2024-10-20 
-- 🦣 [Foundations of Project Management - Module 3 Challenge](https://eplus.dev/foundations-of-project-management-module-3-challenge) - 2024-10-19 
-- 👨‍🏫 [Test your knowledge: Analyzing the different project phases](https://eplus.dev/test-your-knowledge-analyzing-the-different-project-phases) - 2024-10-17 
-- 🔭 [Test your knowledge: Understanding the project life cycle](https://eplus.dev/test-your-knowledge-understanding-the-project-life-cycle) - 2024-10-17 
-- 🤡 [Foundations of Project Management - Module 2 Challenge](https://eplus.dev/foundations-of-project-management-module-2-challenge) - 2024-10-17 
-- 💡 [Reflection: Influence without authority](https://eplus.dev/reflection-influence-without-authority) - 2024-10-17 
-- 🦣 [Test your knowledge: Acquiring the core skills of a successful project manager](https://eplus.dev/test-your-knowledge-acquiring-the-core-skills-of-a-successful-project-manager) - 2024-10-17 
-- 💪 [Reflection: Identify the essential skills of a project manager](https://eplus.dev/reflection-identify-the-essential-skills-of-a-project-manager) - 2024-10-17 
-- 🤡 [Test your knowledge: Learning more about project manager roles and responsibilities](https://eplus.dev/test-your-knowledge-learning-more-about-project-manager-roles-and-responsibilities) - 2024-10-17 
+- 🧰 [Project Initiation: Starting a Successful Project - Module 2 Challenge](https://eplus.dev/project-initiation-starting-a-successful-project-module-2-challenge) - 2024-10-20 
+- 😺 [Reflection: Applying the Triple Constraint](https://eplus.dev/reflection-applying-the-triple-constraint) - 2024-10-20 
+- 🗽 [Test your knowledge: Identifying project goals](https://eplus.dev/test-your-knowledge-identifying-project-goals) - 2024-10-20 
+- 🌜 [Project Initiation: Starting a Successful Project - Module 1 Challenge](https://eplus.dev/project-initiation-starting-a-successful-project-module-1-challenge) - 2024-10-20 
+- 📝 [Foundations of Project Management - Module 4 Challenge](https://eplus.dev/foundations-of-project-management-module-4-challenge) - 2024-10-20 
+- 🚀 [Test your knowledge: Understanding change management](https://eplus.dev/test-your-knowledge-understanding-change-management) - 2024-10-20 
+- 💼 [Test your knowledge: Understanding the impact of organizational culture](https://eplus.dev/test-your-knowledge-understanding-the-impact-of-organizational-culture) - 2024-10-20 
+- 🦣 [Test your knowledge: Understanding organizational structure](https://eplus.dev/test-your-knowledge-understanding-organizational-structure) - 2024-10-20 
+- 👨‍🏫 [Foundations of Project Management - Module 3 Challenge](https://eplus.dev/foundations-of-project-management-module-3-challenge) - 2024-10-19 
+- 🔭 [Test your knowledge: Analyzing the different project phases](https://eplus.dev/test-your-knowledge-analyzing-the-different-project-phases) - 2024-10-17 
+- 🤡 [Test your knowledge: Understanding the project life cycle](https://eplus.dev/test-your-knowledge-understanding-the-project-life-cycle) - 2024-10-17 
+- 💡 [Foundations of Project Management - Module 2 Challenge](https://eplus.dev/foundations-of-project-management-module-2-challenge) - 2024-10-17 
+- 🦣 [Reflection: Influence without authority](https://eplus.dev/reflection-influence-without-authority) - 2024-10-17 
+- 💪 [Test your knowledge: Acquiring the core skills of a successful project manager](https://eplus.dev/test-your-knowledge-acquiring-the-core-skills-of-a-successful-project-manager) - 2024-10-17 
+- 🤡 [Reflection: Identify the essential skills of a project manager](https://eplus.dev/reflection-identify-the-essential-skills-of-a-project-manager) - 2024-10-17 
 
 
 <div align="right">
@@ -50,7 +50,7 @@ Hello World!!!
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.5 °C</td><td>24.4 °C</td><td>24.2 °C</td><td>24.1 °C</td><td>24.1 °C</td><td>24 °C</td><td>24.1 °C</td><td>25.5 °C</td><td>27.2 °C</td><td>28.8 °C</td><td>30.5 °C</td><td>31.6 °C</td><td>31.2 °C</td><td>29.8 °C</td><td>28.5 °C</td><td>28.5 °C</td><td>27.5 °C</td><td>26.6 °C</td><td>25.9 °C</td><td>25.9 °C</td><td>25.6 °C</td><td>25.2 °C</td><td>24.9 °C</td><td>24.8 °C</td>
+        <td>24.5 °C</td><td>24.4 °C</td><td>24.2 °C</td><td>24.1 °C</td><td>24.1 °C</td><td>24 °C</td><td>24.1 °C</td><td>25.5 °C</td><td>27.2 °C</td><td>28.8 °C</td><td>30.5 °C</td><td>31.6 °C</td><td>31 °C</td><td>29.8 °C</td><td>28.5 °C</td><td>28.5 °C</td><td>27.5 °C</td><td>26.6 °C</td><td>25.9 °C</td><td>25.9 °C</td><td>25.6 °C</td><td>25.2 °C</td><td>24.9 °C</td><td>24.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2024-10-20T05:26:21Z - by <a target="_blank"
+    Updated at: 2024-10-20T05:36:28Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
