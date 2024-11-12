@@ -4,21 +4,21 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [Django Web Framework - Module quiz: Django REST framework](https://eplus.dev/django-web-framework-module-quiz-django-rest-framework) - 2024-11-11 
-- 😺 [Django Web Framework - Module quiz: REST APIs](https://eplus.dev/django-web-framework-module-quiz-rest-apis) - 2024-11-11 
-- 🗽 [Classify Images of Clouds in the Cloud with AutoML Images - GSP223](https://eplus.dev/classify-images-of-clouds-in-the-cloud-with-automl-images-gsp223) - 2024-11-11 
-- 🌜 [Final graded quiz: Django Web Framework](https://eplus.dev/final-graded-quiz-django-web-framework) - 2024-11-10 
-- 📝 [Django Web Framework - Module Quiz: Templates](https://eplus.dev/django-web-framework-module-quiz-templates) - 2024-11-10 
-- 🚀 [Django Web Framework - Module Quiz: Models](https://eplus.dev/django-web-framework-module-quiz-models) - 2024-11-10 
-- 💼 [Django Web Framework - Module Quiz: Views](https://eplus.dev/django-web-framework-module-quiz-views) - 2024-11-10 
-- 🦣 [Django Web Framework - Module Quiz: Introduction to Django](https://eplus.dev/django-web-framework-module-quiz-introduction-to-django) - 2024-11-10 
-- 👨‍🏫 [Final graded quiz: Intro to databases](https://eplus.dev/final-graded-quiz-intro-to-databases) - 2024-11-09 
-- 🔭 [Module quiz: Database design](https://eplus.dev/module-quiz-database-design) - 2024-11-09 
-- 🤡 [Module quiz: SQL operators and sorting and filtering data](https://eplus.dev/module-quiz-sql-operators-and-sorting-and-filtering-data) - 2024-11-09 
-- 💡 [Module quiz: Create, Read, Update and Delete &lpar;CRUD&rpar; Operations](https://eplus.dev/module-quiz-create-read-update-and-delete-crud-operations) - 2024-11-09 
-- 🦣 [Module quiz: Introduction to Databases](https://eplus.dev/module-quiz-introduction-to-databases) - 2024-11-09 
-- 💪 [Enhancing User Interactivity in Looker with Liquid - GSP934](https://eplus.dev/enhancing-user-interactivity-in-looker-with-liquid-gsp934) - 2024-11-09 
-- 🤡 [End-of-Course Graded Assessment: Using Python](https://eplus.dev/end-of-course-graded-assessment-using-python) - 2024-11-08 
+- 🧰 [Securing Google Cloud with CFT Scorecard - GSP698](https://eplus.dev/securing-google-cloud-with-cft-scorecard-gsp698) - 2024-11-12 
+- 😺 [Extract, Analyze, and Translate Text from Images with the Cloud ML APIs - GSP075](https://eplus.dev/extract-analyze-and-translate-text-from-images-with-the-cloud-ml-apis-gsp075) - 2024-11-12 
+- 🗽 [Django Web Framework - Module quiz: Django REST framework](https://eplus.dev/django-web-framework-module-quiz-django-rest-framework) - 2024-11-11 
+- 🌜 [Django Web Framework - Module quiz: REST APIs](https://eplus.dev/django-web-framework-module-quiz-rest-apis) - 2024-11-11 
+- 📝 [Classify Images of Clouds in the Cloud with AutoML Images - GSP223](https://eplus.dev/classify-images-of-clouds-in-the-cloud-with-automl-images-gsp223) - 2024-11-11 
+- 🚀 [Final graded quiz: Django Web Framework](https://eplus.dev/final-graded-quiz-django-web-framework) - 2024-11-10 
+- 💼 [Django Web Framework - Module Quiz: Templates](https://eplus.dev/django-web-framework-module-quiz-templates) - 2024-11-10 
+- 🦣 [Django Web Framework - Module Quiz: Models](https://eplus.dev/django-web-framework-module-quiz-models) - 2024-11-10 
+- 👨‍🏫 [Django Web Framework - Module Quiz: Views](https://eplus.dev/django-web-framework-module-quiz-views) - 2024-11-10 
+- 🔭 [Django Web Framework - Module Quiz: Introduction to Django](https://eplus.dev/django-web-framework-module-quiz-introduction-to-django) - 2024-11-10 
+- 🤡 [Final graded quiz: Intro to databases](https://eplus.dev/final-graded-quiz-intro-to-databases) - 2024-11-09 
+- 💡 [Module quiz: Database design](https://eplus.dev/module-quiz-database-design) - 2024-11-09 
+- 🦣 [Module quiz: SQL operators and sorting and filtering data](https://eplus.dev/module-quiz-sql-operators-and-sorting-and-filtering-data) - 2024-11-09 
+- 💪 [Module quiz: Create, Read, Update and Delete &lpar;CRUD&rpar; Operations](https://eplus.dev/module-quiz-create-read-update-and-delete-crud-operations) - 2024-11-09 
+- 🤡 [Module quiz: Introduction to Databases](https://eplus.dev/module-quiz-introduction-to-databases) - 2024-11-09 
 
 
 <div align="right">
@@ -42,15 +42,15 @@ Hello World!!!
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Mist</td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Mist</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Clear </td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Mist</td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Partly cloudy</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Clear </td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.5 °C</td><td>24.4 °C</td><td>24.3 °C</td><td>24.2 °C</td><td>24.1 °C</td><td>24 °C</td><td>24 °C</td><td>25.2 °C</td><td>26.8 °C</td><td>29.2 °C</td><td>29.9 °C</td><td>31 °C</td><td>32 °C</td><td>32.6 °C</td><td>32.6 °C</td><td>32.2 °C</td><td>31.3 °C</td><td>29.6 °C</td><td>28.7 °C</td><td>27.9 °C</td><td>26.9 °C</td><td>26.3 °C</td><td>25.9 °C</td><td>25.4 °C</td>
+        <td>24.5 °C</td><td>24.4 °C</td><td>24.3 °C</td><td>24.2 °C</td><td>24.1 °C</td><td>24 °C</td><td>24 °C</td><td>25.2 °C</td><td>26.8 °C</td><td>29.3 °C</td><td>29.9 °C</td><td>31 °C</td><td>32 °C</td><td>32.6 °C</td><td>32.6 °C</td><td>32.2 °C</td><td>31.3 °C</td><td>29.6 °C</td><td>28.7 °C</td><td>27.9 °C</td><td>26.9 °C</td><td>26.3 °C</td><td>25.9 °C</td><td>25.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2024-11-12T02:02:57Z - by <a target="_blank"
+    Updated at: 2024-11-12T02:49:37Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
