@@ -4,21 +4,21 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [Django Web Framework - Final graded quiz: APIs](https://eplus.dev/django-web-framework-final-graded-quiz-apis) - 2024-11-12 
-- 😺 [Module quiz: Securing an API in Django REST framework](https://eplus.dev/module-quiz-securing-an-api-in-django-rest-framework) - 2024-11-12 
-- 🗽 [Looker Data Explorer - Qwik Start - GSP718](https://eplus.dev/looker-data-explorer-qwik-start-gsp718) - 2024-11-12 
-- 🌜 [Securing Google Cloud with CFT Scorecard - GSP698](https://eplus.dev/securing-google-cloud-with-cft-scorecard-gsp698) - 2024-11-12 
-- 📝 [Extract, Analyze, and Translate Text from Images with the Cloud ML APIs - GSP075](https://eplus.dev/extract-analyze-and-translate-text-from-images-with-the-cloud-ml-apis-gsp075) - 2024-11-12 
-- 🚀 [Django Web Framework - Module quiz: Django REST framework](https://eplus.dev/django-web-framework-module-quiz-django-rest-framework) - 2024-11-11 
-- 💼 [Django Web Framework - Module quiz: REST APIs](https://eplus.dev/django-web-framework-module-quiz-rest-apis) - 2024-11-11 
-- 🦣 [Classify Images of Clouds in the Cloud with AutoML Images - GSP223](https://eplus.dev/classify-images-of-clouds-in-the-cloud-with-automl-images-gsp223) - 2024-11-11 
-- 👨‍🏫 [Final graded quiz: Django Web Framework](https://eplus.dev/final-graded-quiz-django-web-framework) - 2024-11-10 
-- 🔭 [Django Web Framework - Module Quiz: Templates](https://eplus.dev/django-web-framework-module-quiz-templates) - 2024-11-10 
-- 🤡 [Django Web Framework - Module Quiz: Models](https://eplus.dev/django-web-framework-module-quiz-models) - 2024-11-10 
-- 💡 [Django Web Framework - Module Quiz: Views](https://eplus.dev/django-web-framework-module-quiz-views) - 2024-11-10 
-- 🦣 [Django Web Framework - Module Quiz: Introduction to Django](https://eplus.dev/django-web-framework-module-quiz-introduction-to-django) - 2024-11-10 
-- 💪 [Final graded quiz: Intro to databases](https://eplus.dev/final-graded-quiz-intro-to-databases) - 2024-11-09 
-- 🤡 [Module quiz: Database design](https://eplus.dev/module-quiz-database-design) - 2024-11-09 
+- 🧰 [Module quiz: Securing an API in Django REST framework](https://eplus.dev/module-quiz-securing-an-api-in-django-rest-framework) - 2024-11-12 
+- 😺 [Looker Data Explorer - Qwik Start - GSP718](https://eplus.dev/looker-data-explorer-qwik-start-gsp718) - 2024-11-12 
+- 🗽 [Securing Google Cloud with CFT Scorecard - GSP698](https://eplus.dev/securing-google-cloud-with-cft-scorecard-gsp698) - 2024-11-12 
+- 🌜 [Extract, Analyze, and Translate Text from Images with the Cloud ML APIs - GSP075](https://eplus.dev/extract-analyze-and-translate-text-from-images-with-the-cloud-ml-apis-gsp075) - 2024-11-12 
+- 📝 [Django Web Framework - Module quiz: Django REST framework](https://eplus.dev/django-web-framework-module-quiz-django-rest-framework) - 2024-11-11 
+- 🚀 [Django Web Framework - Module quiz: REST APIs](https://eplus.dev/django-web-framework-module-quiz-rest-apis) - 2024-11-11 
+- 💼 [Classify Images of Clouds in the Cloud with AutoML Images - GSP223](https://eplus.dev/classify-images-of-clouds-in-the-cloud-with-automl-images-gsp223) - 2024-11-11 
+- 🦣 [Final graded quiz: Django Web Framework](https://eplus.dev/final-graded-quiz-django-web-framework) - 2024-11-10 
+- 👨‍🏫 [Django Web Framework - Module Quiz: Templates](https://eplus.dev/django-web-framework-module-quiz-templates) - 2024-11-10 
+- 🔭 [Django Web Framework - Module Quiz: Models](https://eplus.dev/django-web-framework-module-quiz-models) - 2024-11-10 
+- 🤡 [Django Web Framework - Module Quiz: Views](https://eplus.dev/django-web-framework-module-quiz-views) - 2024-11-10 
+- 💡 [Django Web Framework - Module Quiz: Introduction to Django](https://eplus.dev/django-web-framework-module-quiz-introduction-to-django) - 2024-11-10 
+- 🦣 [Final graded quiz: Intro to databases](https://eplus.dev/final-graded-quiz-intro-to-databases) - 2024-11-09 
+- 💪 [Module quiz: Database design](https://eplus.dev/module-quiz-database-design) - 2024-11-09 
+- 🤡 [Module quiz: SQL operators and sorting and filtering data](https://eplus.dev/module-quiz-sql-operators-and-sorting-and-filtering-data) - 2024-11-09 
 
 
 <div align="right">
@@ -50,7 +50,7 @@ Hello World!!!
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.5 °C</td><td>24.4 °C</td><td>24.3 °C</td><td>24.2 °C</td><td>24.1 °C</td><td>23.9 °C</td><td>23.9 °C</td><td>25.1 °C</td><td>26.7 °C</td><td>28.2 °C</td><td>29.8 °C</td><td>31 °C</td><td>31.9 °C</td><td>32.4 °C</td><td>32.4 °C</td><td>32 °C</td><td>32 °C</td><td>29.4 °C</td><td>28.4 °C</td><td>27.9 °C</td><td>27.4 °C</td><td>27 °C</td><td>26.7 °C</td><td>26.3 °C</td>
+        <td>24.5 °C</td><td>24.4 °C</td><td>24.3 °C</td><td>24.2 °C</td><td>24.1 °C</td><td>23.9 °C</td><td>23.9 °C</td><td>25.1 °C</td><td>26.7 °C</td><td>28.2 °C</td><td>29.8 °C</td><td>31 °C</td><td>31.9 °C</td><td>32.4 °C</td><td>32.4 °C</td><td>32 °C</td><td>32.1 °C</td><td>29.4 °C</td><td>28.4 °C</td><td>27.9 °C</td><td>27.4 °C</td><td>27 °C</td><td>26.7 °C</td><td>26.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2024-11-12T09:28:23Z - by <a target="_blank"
+    Updated at: 2024-11-12T09:37:33Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
