@@ -46,7 +46,7 @@ Hello World!!!
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
+        <td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Partly cloudy</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
     </tr>
     <tr>
         <th>Temperature</th>
@@ -54,13 +54,13 @@ Hello World!!!
     </tr>
     <tr>
         <th>Wind</th>
-        <td>5 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>4 kph</td><td>3.2 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>4 kph</td><td>6.1 kph</td><td>8.3 kph</td><td>8.3 kph</td><td>7.2 kph</td><td>6.1 kph</td><td>6.8 kph</td><td>8.6 kph</td><td>9 kph</td><td>10.1 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>9 kph</td>
+        <td>5 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>4 kph</td><td>3.2 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>2.5 kph</td><td>2.5 kph</td><td>4 kph</td><td>6.1 kph</td><td>8.3 kph</td><td>8.3 kph</td><td>7.2 kph</td><td>6.1 kph</td><td>6.8 kph</td><td>8.6 kph</td><td>9 kph</td><td>10.1 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>9 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-    Updated at: 2024-11-13T00:46:17Z - by <a target="_blank"
+    Updated at: 2024-11-13T02:07:02Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
