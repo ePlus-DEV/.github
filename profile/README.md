@@ -4,21 +4,21 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [The Arcade Lessons &lpar;2024&rpar;](https://eplus.dev/the-arcade-lessons-2024) - 2024-11-21 
-- 😺 [[SQL] 570. Managers with at Least 5 Direct Reports](https://eplus.dev/sql-570-managers-with-at-least-5-direct-reports) - 2024-11-21 
-- 🗽 [[SQL] 1280. Students and Examinations](https://eplus.dev/sql-1280-students-and-examinations) - 2024-11-21 
-- 🌜 [[SQL] 197. Rising Temperature](https://eplus.dev/sql-197-rising-temperature) - 2024-11-21 
-- 📝 [Graded Quiz: The Software Development Lifecycle](https://eplus.dev/graded-quiz-the-software-development-lifecycle) - 2024-11-20 
-- 🚀 [Back-End Developer Capstone - Final Graded Assessment](https://eplus.dev/back-end-developer-capstone-final-graded-assessment) - 2024-11-19 
-- 💼 [Back-End Developer Capstone - Security and Testing](https://eplus.dev/back-end-developer-capstone-security-and-testing) - 2024-11-18 
-- 🦣 [Back-End Developer Capstone - Project Functionality](https://eplus.dev/back-end-developer-capstone-project-functionality) - 2024-11-18 
-- 👨‍🏫 [Back-End Developer Capstone - Starting the Project](https://eplus.dev/back-end-developer-capstone-starting-the-project) - 2024-11-18 
-- 🔭 [Final Graded Quiz: The Full Stack](https://eplus.dev/final-graded-quiz-the-full-stack) - 2024-11-13 
-- 🤡 [Module Quiz: Production Environments](https://eplus.dev/module-quiz-production-environments) - 2024-11-13 
-- 💡 [Module Quiz: The Full Stack Using Django](https://eplus.dev/module-quiz-the-full-stack-using-django) - 2024-11-13 
-- 🦣 [Module Quiz: Front-End Technologies](https://eplus.dev/module-quiz-front-end-technologies) - 2024-11-13 
-- 💪 [Module Quiz: Introduction to the Full Stack](https://eplus.dev/module-quiz-introduction-to-the-full-stack) - 2024-11-13 
-- 🤡 [Django Web Framework - Final graded quiz: APIs](https://eplus.dev/django-web-framework-final-graded-quiz-apis) - 2024-11-12 
+- 🧰 [[SQL] 1251. Average Selling Price](https://eplus.dev/sql-1251-average-selling-price) - 2024-11-21 
+- 😺 [[SQL] 620. Not Boring Movies](https://eplus.dev/sql-620-not-boring-movies) - 2024-11-21 
+- 🗽 [The Arcade Lessons &lpar;2024&rpar;](https://eplus.dev/the-arcade-lessons-2024) - 2024-11-21 
+- 🌜 [[SQL] 570. Managers with at Least 5 Direct Reports](https://eplus.dev/sql-570-managers-with-at-least-5-direct-reports) - 2024-11-21 
+- 📝 [[SQL] 1280. Students and Examinations](https://eplus.dev/sql-1280-students-and-examinations) - 2024-11-21 
+- 🚀 [[SQL] 197. Rising Temperature](https://eplus.dev/sql-197-rising-temperature) - 2024-11-21 
+- 💼 [Graded Quiz: The Software Development Lifecycle](https://eplus.dev/graded-quiz-the-software-development-lifecycle) - 2024-11-20 
+- 🦣 [Back-End Developer Capstone - Final Graded Assessment](https://eplus.dev/back-end-developer-capstone-final-graded-assessment) - 2024-11-19 
+- 👨‍🏫 [Back-End Developer Capstone - Security and Testing](https://eplus.dev/back-end-developer-capstone-security-and-testing) - 2024-11-18 
+- 🔭 [Back-End Developer Capstone - Project Functionality](https://eplus.dev/back-end-developer-capstone-project-functionality) - 2024-11-18 
+- 🤡 [Back-End Developer Capstone - Starting the Project](https://eplus.dev/back-end-developer-capstone-starting-the-project) - 2024-11-18 
+- 💡 [Final Graded Quiz: The Full Stack](https://eplus.dev/final-graded-quiz-the-full-stack) - 2024-11-13 
+- 🦣 [Module Quiz: Production Environments](https://eplus.dev/module-quiz-production-environments) - 2024-11-13 
+- 💪 [Module Quiz: The Full Stack Using Django](https://eplus.dev/module-quiz-the-full-stack-using-django) - 2024-11-13 
+- 🤡 [Module Quiz: Front-End Technologies](https://eplus.dev/module-quiz-front-end-technologies) - 2024-11-13 
 
 
 <div align="right">
@@ -50,7 +50,7 @@ Hello World!!!
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.4 °C</td><td>25.3 °C</td><td>25 °C</td><td>24.6 °C</td><td>24.4 °C</td><td>24.3 °C</td><td>24.1 °C</td><td>24.9 °C</td><td>25.6 °C</td><td>26 °C</td><td>26.7 °C</td><td>27.1 °C</td><td>27.7 °C</td><td>28.9 °C</td><td>30.1 °C</td><td>30.5 °C</td><td>33.1 °C</td><td>29 °C</td><td>26.9 °C</td><td>25.8 °C</td><td>25.7 °C</td><td>25.7 °C</td><td>25.6 °C</td><td>25.3 °C</td>
+        <td>25.4 °C</td><td>25.3 °C</td><td>25 °C</td><td>24.6 °C</td><td>24.4 °C</td><td>24.3 °C</td><td>24.1 °C</td><td>24.9 °C</td><td>25.6 °C</td><td>26 °C</td><td>26.7 °C</td><td>27.1 °C</td><td>27.7 °C</td><td>28.9 °C</td><td>30.1 °C</td><td>30.5 °C</td><td>33.2 °C</td><td>29 °C</td><td>26.9 °C</td><td>25.8 °C</td><td>25.7 °C</td><td>25.7 °C</td><td>25.6 °C</td><td>25.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2024-11-21T09:30:23Z - by <a target="_blank"
+    Updated at: 2024-11-21T09:42:45Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
