@@ -4,21 +4,21 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [The Arcade Base Camp December 2024](https://eplus.dev/the-arcade-base-camp-december-2024) - 2024-12-06 
-- 😺 [Why Big Data and Where Did it Come From?](https://eplus.dev/why-big-data-and-where-did-it-come-from) - 2024-12-03 
-- 🗽 [[SQL] 1633. Percentage of Users Attended a Contest](https://eplus.dev/sql-1633-percentage-of-users-attended-a-contest) - 2024-11-24 
-- 🌜 [[SQL] 1075. Project Employees I](https://eplus.dev/sql-1075-project-employees-i) - 2024-11-21 
-- 📝 [[SQL] 1251. Average Selling Price](https://eplus.dev/sql-1251-average-selling-price) - 2024-11-21 
-- 🚀 [[SQL] 620. Not Boring Movies](https://eplus.dev/sql-620-not-boring-movies) - 2024-11-21 
-- 💼 [The Arcade Lessons &lpar;2024&rpar;](https://eplus.dev/the-arcade-lessons-2024) - 2024-11-21 
-- 🦣 [[SQL] 570. Managers with at Least 5 Direct Reports](https://eplus.dev/sql-570-managers-with-at-least-5-direct-reports) - 2024-11-21 
-- 👨‍🏫 [[SQL] 1280. Students and Examinations](https://eplus.dev/sql-1280-students-and-examinations) - 2024-11-21 
-- 🔭 [[SQL] 197. Rising Temperature](https://eplus.dev/sql-197-rising-temperature) - 2024-11-21 
-- 🤡 [Graded Quiz: The Software Development Lifecycle](https://eplus.dev/graded-quiz-the-software-development-lifecycle) - 2024-11-20 
-- 💡 [Back-End Developer Capstone - Final Graded Assessment](https://eplus.dev/back-end-developer-capstone-final-graded-assessment) - 2024-11-19 
-- 🦣 [Back-End Developer Capstone - Security and Testing](https://eplus.dev/back-end-developer-capstone-security-and-testing) - 2024-11-18 
-- 💪 [Back-End Developer Capstone - Project Functionality](https://eplus.dev/back-end-developer-capstone-project-functionality) - 2024-11-18 
-- 🤡 [Back-End Developer Capstone - Starting the Project](https://eplus.dev/back-end-developer-capstone-starting-the-project) - 2024-11-18 
+- 🧰 [APIs Explorer: App Engine - GSP422](https://eplus.dev/apis-explorer-app-engine-gsp422) - 2024-12-06 
+- 😺 [The Arcade Base Camp December 2024](https://eplus.dev/the-arcade-base-camp-december-2024) - 2024-12-06 
+- 🗽 [Why Big Data and Where Did it Come From?](https://eplus.dev/why-big-data-and-where-did-it-come-from) - 2024-12-03 
+- 🌜 [[SQL] 1633. Percentage of Users Attended a Contest](https://eplus.dev/sql-1633-percentage-of-users-attended-a-contest) - 2024-11-24 
+- 📝 [[SQL] 1075. Project Employees I](https://eplus.dev/sql-1075-project-employees-i) - 2024-11-21 
+- 🚀 [[SQL] 1251. Average Selling Price](https://eplus.dev/sql-1251-average-selling-price) - 2024-11-21 
+- 💼 [[SQL] 620. Not Boring Movies](https://eplus.dev/sql-620-not-boring-movies) - 2024-11-21 
+- 🦣 [The Arcade Lessons &lpar;2024&rpar;](https://eplus.dev/the-arcade-lessons-2024) - 2024-11-21 
+- 👨‍🏫 [[SQL] 570. Managers with at Least 5 Direct Reports](https://eplus.dev/sql-570-managers-with-at-least-5-direct-reports) - 2024-11-21 
+- 🔭 [[SQL] 1280. Students and Examinations](https://eplus.dev/sql-1280-students-and-examinations) - 2024-11-21 
+- 🤡 [[SQL] 197. Rising Temperature](https://eplus.dev/sql-197-rising-temperature) - 2024-11-21 
+- 💡 [Graded Quiz: The Software Development Lifecycle](https://eplus.dev/graded-quiz-the-software-development-lifecycle) - 2024-11-20 
+- 🦣 [Back-End Developer Capstone - Final Graded Assessment](https://eplus.dev/back-end-developer-capstone-final-graded-assessment) - 2024-11-19 
+- 💪 [Back-End Developer Capstone - Security and Testing](https://eplus.dev/back-end-developer-capstone-security-and-testing) - 2024-11-18 
+- 🤡 [Back-End Developer Capstone - Project Functionality](https://eplus.dev/back-end-developer-capstone-project-functionality) - 2024-11-18 
 
 
 <div align="right">
@@ -50,7 +50,7 @@ Hello World!!!
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.1 °C</td><td>25 °C</td><td>24.9 °C</td><td>24.8 °C</td><td>24.7 °C</td><td>24.5 °C</td><td>24.3 °C</td><td>25.2 °C</td><td>26.3 °C</td><td>27.3 °C</td><td>29 °C</td><td>30 °C</td><td>31.4 °C</td><td>31.9 °C</td><td>31.8 °C</td><td>31.4 °C</td><td>29.7 °C</td><td>27.3 °C</td><td>25.8 °C</td><td>25.6 °C</td><td>24.9 °C</td><td>25.1 °C</td><td>25.1 °C</td><td>25 °C</td>
+        <td>25.1 °C</td><td>25 °C</td><td>24.9 °C</td><td>24.8 °C</td><td>24.7 °C</td><td>24.5 °C</td><td>24.3 °C</td><td>25.2 °C</td><td>26.3 °C</td><td>27.3 °C</td><td>30 °C</td><td>30 °C</td><td>31.4 °C</td><td>31.9 °C</td><td>31.8 °C</td><td>31.4 °C</td><td>29.7 °C</td><td>27.3 °C</td><td>25.8 °C</td><td>25.6 °C</td><td>24.9 °C</td><td>25.1 °C</td><td>25.1 °C</td><td>25 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2024-12-06T03:41:34Z - by <a target="_blank"
+    Updated at: 2024-12-06T03:54:09Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
