@@ -4,7 +4,7 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [Graded Assignment: Understand by Doing: MapReduce - Big Data](https://eplus.dev/graded-assignment-understand-by-doing-mapreduce-big-data) - 2024-12-13 
+- 🧰 [Graded Assignment: Understand by Doing: MapReduce](https://eplus.dev/graded-assignment-understand-by-doing-mapreduce) - 2024-12-13 
 - 😺 [Intro to Hadoop - Big Data](https://eplus.dev/intro-to-hadoop-big-data) - 2024-12-13 
 - 🗽 [Foundations for Big Data](https://eplus.dev/foundations-for-big-data) - 2024-12-13 
 - 🌜 [Data Science 101 - Big Data](https://eplus.dev/data-science-101-big-data) - 2024-12-13 
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2024-12-13T07:37:25Z - by <a target="_blank"
+    Updated at: 2024-12-13T07:44:05Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
