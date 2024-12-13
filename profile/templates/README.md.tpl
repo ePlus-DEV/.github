@@ -4,7 +4,7 @@ Hello World!!!
 
 ### #Blog posts
 
-<!-- BLOG-POST-LIST:START -->- 🧰 [Graded Assignment: Understand by Doing: MapReduce - Big Data](https://eplus.dev/graded-assignment-understand-by-doing-mapreduce-big-data) - 2024-12-13 
+<!-- BLOG-POST-LIST:START -->- 🧰 [Graded Assignment: Understand by Doing: MapReduce](https://eplus.dev/graded-assignment-understand-by-doing-mapreduce) - 2024-12-13 
 - 😺 [Intro to Hadoop - Big Data](https://eplus.dev/intro-to-hadoop-big-data) - 2024-12-13 
 - 🗽 [Foundations for Big Data](https://eplus.dev/foundations-for-big-data) - 2024-12-13 
 - 🌜 [Data Science 101 - Big Data](https://eplus.dev/data-science-101-big-data) - 2024-12-13 
