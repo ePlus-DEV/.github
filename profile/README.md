@@ -31,7 +31,7 @@ Hello World!!!
 
 
 <details>
-    <summary><b>Ho Chi Minh City, Vietnam - 25/12/2024 (<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" width="25" /> Patchy rain nearby)</b>
+    <summary><b>Ho Chi Minh City, Vietnam - 25/12/2024 (<img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" width="25" /> Overcast )</b>
     </summary>
 
     
@@ -50,17 +50,17 @@ Hello World!!!
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>23.5 °C</td><td>23.1 °C</td><td>23 °C</td><td>22.7 °C</td><td>22.6 °C</td><td>22.4 °C</td><td>22.8 °C</td><td>23.1 °C</td><td>23.7 °C</td><td>24.9 °C</td><td>27.7 °C</td><td>29.4 °C</td><td>29.2 °C</td><td>27.9 °C</td><td>25.8 °C</td><td>24.5 °C</td><td>24.5 °C</td><td>24.7 °C</td><td>24.8 °C</td><td>24.7 °C</td><td>24.6 °C</td><td>24.6 °C</td><td>24.3 °C</td><td>23.9 °C</td>
+        <td>23.5 °C</td><td>23.1 °C</td><td>23 °C</td><td>22.7 °C</td><td>22.6 °C</td><td>22.4 °C</td><td>23 °C</td><td>23.1 °C</td><td>23.7 °C</td><td>24.9 °C</td><td>27.7 °C</td><td>29.4 °C</td><td>29.2 °C</td><td>27.9 °C</td><td>25.8 °C</td><td>24.5 °C</td><td>24.5 °C</td><td>24.7 °C</td><td>24.8 °C</td><td>24.7 °C</td><td>24.6 °C</td><td>24.6 °C</td><td>24.3 °C</td><td>23.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.5 kph</td><td>6.8 kph</td><td>8.6 kph</td><td>9 kph</td><td>9.7 kph</td><td>10.8 kph</td><td>11.2 kph</td><td>11.2 kph</td><td>12.2 kph</td><td>14 kph</td><td>15.1 kph</td><td>13.3 kph</td><td>9.7 kph</td><td>7.9 kph</td><td>8.6 kph</td><td>5.8 kph</td><td>3.6 kph</td><td>7.2 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>7.6 kph</td><td>7.9 kph</td><td>7.6 kph</td><td>7.2 kph</td>
+        <td>6.5 kph</td><td>6.8 kph</td><td>8.6 kph</td><td>9 kph</td><td>9.7 kph</td><td>10.8 kph</td><td>14.8 kph</td><td>11.2 kph</td><td>12.2 kph</td><td>14 kph</td><td>15.1 kph</td><td>13.3 kph</td><td>9.7 kph</td><td>7.9 kph</td><td>8.6 kph</td><td>5.8 kph</td><td>3.6 kph</td><td>7.2 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>7.6 kph</td><td>7.9 kph</td><td>7.6 kph</td><td>7.2 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-    Updated at: 2024-12-24T22:55:40Z - by <a target="_blank"
+    Updated at: 2024-12-24T23:08:30Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
