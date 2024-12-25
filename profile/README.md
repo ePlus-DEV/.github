@@ -31,7 +31,7 @@ Hello World!!!
 
 
 <details>
-    <summary><b>Ho Chi Minh City, Vietnam - 25/12/2024 (<img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" width="25" /> Cloudy )</b>
+    <summary><b>Ho Chi Minh City, Vietnam - 25/12/2024 (<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" width="25" /> Patchy rain nearby)</b>
     </summary>
 
     
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2024-12-25T11:36:52Z - by <a target="_blank"
+    Updated at: 2024-12-25T11:42:51Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
