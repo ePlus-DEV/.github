@@ -31,7 +31,7 @@ Hello World!!!
 
 
 <details>
-    <summary><b>Ho Chi Minh City, Vietnam - 01/01/2025 (<img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" width="25" /> Overcast )</b>
+    <summary><b>Ho Chi Minh City, Vietnam - 01/01/2025 (<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" width="25" /> Patchy rain nearby)</b>
     </summary>
 
     
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2025-01-01T11:34:34Z - by <a target="_blank"
+    Updated at: 2025-01-01T11:40:32Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
