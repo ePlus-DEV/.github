@@ -4,21 +4,21 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [Ask Questions to Make Data-Driven Decisions - Module 4 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-4-challenge) - 2025-01-04 
-- 😺 [Ask Questions to Make Data-Driven Decisions - Module 3 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-3-challenge) - 2025-01-04 
-- 🗽 [Ask Questions to Make Data-Driven Decisions - Module 2 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-2-challenge) - 2025-01-04 
-- 🌜 [Ask Questions to Make Data-Driven Decisions - Module 1 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-1-challenge) - 2025-01-04 
-- 📝 [Optimizing Factory Data Creation with Laravel&#39;s recycle Method](https://eplus.dev/optimizing-factory-data-creation-with-laravels-recycle-method) - 2025-01-04 
-- 🚀 [[Nóng] VNEID đã hiển thị điểm giấy phép lái xe](https://eplus.dev/nong-vneid-da-hien-thi-diem-giay-phep-lai-xe) - 2025-01-01 
-- 💼 [Báo Cáo Lương IT 2024-2025 &lpar;IT Salary Report For 2024-2025&rpar;](https://eplus.dev/bao-cao-luong-it-2024-2025-it-salary-report-for-2024-2025) - 2024-12-28 
-- 🦣 [Tổng hợp địa điểm Countdown 2025 tại Sài Gòn](https://eplus.dev/tong-hop-dia-diem-countdown-2025-tai-sai-gon) - 2024-12-28 
-- 👨‍🏫 [“🎉 Prize Counter Opening Soon: Google Arcade Updates 🏆✨”](https://eplus.dev/prize-counter-opening-soon-google-arcade-updates) - 2024-12-27 
-- 🔭 [Log Analytics on Google Cloud &lpar;Solution&rpar;](https://eplus.dev/log-analytics-on-google-cloud-solution) - 2024-12-23 
-- 🤡 [Service Monitoring &lpar;Solution&rpar;](https://eplus.dev/service-monitoring-solution) - 2024-12-23 
-- 💡 [Alerting in Google Cloud &lpar;Solution&rpar;](https://eplus.dev/alerting-in-google-cloud-solution) - 2024-12-23 
-- 🦣 [Monitoring and Dashboarding Multiple Projects](https://eplus.dev/monitoring-and-dashboarding-multiple-projects) - 2024-12-23 
-- 💪 [Configuring and Viewing Cloud Audit Logs](https://eplus.dev/configuring-and-viewing-cloud-audit-logs) - 2024-12-23 
-- 🤡 [Configuring and Using Cloud Logging and Cloud Monitoring](https://eplus.dev/configuring-and-using-cloud-logging-and-cloud-monitoring) - 2024-12-23 
+- 🧰 [Quiz 1 - Practical Quiz for Week 2 Hands-On Lectures](https://eplus.dev/quiz-1-practical-quiz-for-week-2-hands-on-lectures) - 2025-01-07 
+- 😺 [Ask Questions to Make Data-Driven Decisions - Module 4 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-4-challenge) - 2025-01-04 
+- 🗽 [Ask Questions to Make Data-Driven Decisions - Module 3 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-3-challenge) - 2025-01-04 
+- 🌜 [Ask Questions to Make Data-Driven Decisions - Module 2 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-2-challenge) - 2025-01-04 
+- 📝 [Ask Questions to Make Data-Driven Decisions - Module 1 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-1-challenge) - 2025-01-04 
+- 🚀 [Optimizing Factory Data Creation with Laravel&#39;s recycle Method](https://eplus.dev/optimizing-factory-data-creation-with-laravels-recycle-method) - 2025-01-04 
+- 💼 [[Nóng] VNEID đã hiển thị điểm giấy phép lái xe](https://eplus.dev/nong-vneid-da-hien-thi-diem-giay-phep-lai-xe) - 2025-01-01 
+- 🦣 [Báo Cáo Lương IT 2024-2025 &lpar;IT Salary Report For 2024-2025&rpar;](https://eplus.dev/bao-cao-luong-it-2024-2025-it-salary-report-for-2024-2025) - 2024-12-28 
+- 👨‍🏫 [Tổng hợp địa điểm Countdown 2025 tại Sài Gòn](https://eplus.dev/tong-hop-dia-diem-countdown-2025-tai-sai-gon) - 2024-12-28 
+- 🔭 [“🎉 Prize Counter Opening Soon: Google Arcade Updates 🏆✨”](https://eplus.dev/prize-counter-opening-soon-google-arcade-updates) - 2024-12-27 
+- 🤡 [Log Analytics on Google Cloud &lpar;Solution&rpar;](https://eplus.dev/log-analytics-on-google-cloud-solution) - 2024-12-23 
+- 💡 [Service Monitoring &lpar;Solution&rpar;](https://eplus.dev/service-monitoring-solution) - 2024-12-23 
+- 🦣 [Alerting in Google Cloud &lpar;Solution&rpar;](https://eplus.dev/alerting-in-google-cloud-solution) - 2024-12-23 
+- 💪 [Monitoring and Dashboarding Multiple Projects](https://eplus.dev/monitoring-and-dashboarding-multiple-projects) - 2024-12-23 
+- 🤡 [Configuring and Viewing Cloud Audit Logs](https://eplus.dev/configuring-and-viewing-cloud-audit-logs) - 2024-12-23 
 
 
 <div align="right">
@@ -50,7 +50,7 @@ Hello World!!!
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>23.3 °C</td><td>23.2 °C</td><td>23 °C</td><td>22.8 °C</td><td>22.7 °C</td><td>22.4 °C</td><td>22.1 °C</td><td>22.7 °C</td><td>24.4 °C</td><td>26.2 °C</td><td>27.8 °C</td><td>29.2 °C</td><td>30.5 °C</td><td>31.5 °C</td><td>31.8 °C</td><td>31.8 °C</td><td>30 °C</td><td>29.6 °C</td><td>26.5 °C</td><td>24.9 °C</td><td>24.6 °C</td><td>24.2 °C</td><td>23.9 °C</td><td>23.7 °C</td>
+        <td>23.3 °C</td><td>23.2 °C</td><td>23 °C</td><td>22.8 °C</td><td>22.7 °C</td><td>22.4 °C</td><td>22.1 °C</td><td>22.7 °C</td><td>24.4 °C</td><td>26.2 °C</td><td>27.8 °C</td><td>29.2 °C</td><td>30.5 °C</td><td>31.5 °C</td><td>31.8 °C</td><td>31.8 °C</td><td>30.3 °C</td><td>29.6 °C</td><td>26.5 °C</td><td>24.9 °C</td><td>24.6 °C</td><td>24.2 °C</td><td>23.9 °C</td><td>23.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2025-01-07T09:28:56Z - by <a target="_blank"
+    Updated at: 2025-01-07T09:37:47Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
