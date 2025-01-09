@@ -4,21 +4,21 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [The Arcade Base Camp January 2025](https://eplus.dev/the-arcade-base-camp-january-2025) - 2025-01-09 
-- 😺 [[Arcade Prize Counter] Success has its rewards—grab yours now!](https://eplus.dev/arcade-prize-counter-success-has-its-rewardsgrab-yours-now) - 2025-01-08 
-- 🗽 [Quiz 4 - BDMS Quiz](https://eplus.dev/quiz-4-bdms-quiz) - 2025-01-07 
-- 🌜 [Quiz 3 - Data Formats and Streaming Data Quiz](https://eplus.dev/quiz-3-data-formats-and-streaming-data-quiz) - 2025-01-07 
-- 📝 [Quiz 2 - Data Models Quiz](https://eplus.dev/quiz-2-data-models-quiz) - 2025-01-07 
-- 🚀 [Quiz 1 - Practical Quiz for Week 2 Hands-On Lectures](https://eplus.dev/quiz-1-practical-quiz-for-week-2-hands-on-lectures) - 2025-01-07 
-- 💼 [Ask Questions to Make Data-Driven Decisions - Module 4 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-4-challenge) - 2025-01-04 
-- 🦣 [Ask Questions to Make Data-Driven Decisions - Module 3 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-3-challenge) - 2025-01-04 
-- 👨‍🏫 [Ask Questions to Make Data-Driven Decisions - Module 2 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-2-challenge) - 2025-01-04 
-- 🔭 [Ask Questions to Make Data-Driven Decisions - Module 1 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-1-challenge) - 2025-01-04 
-- 🤡 [Optimizing Factory Data Creation with Laravel&#39;s recycle Method](https://eplus.dev/optimizing-factory-data-creation-with-laravels-recycle-method) - 2025-01-04 
-- 💡 [[Nóng] VNEID đã hiển thị điểm giấy phép lái xe](https://eplus.dev/nong-vneid-da-hien-thi-diem-giay-phep-lai-xe) - 2025-01-01 
-- 🦣 [Báo Cáo Lương IT 2024-2025 &lpar;IT Salary Report For 2024-2025&rpar;](https://eplus.dev/bao-cao-luong-it-2024-2025-it-salary-report-for-2024-2025) - 2024-12-28 
-- 💪 [Tổng hợp địa điểm Countdown 2025 tại Sài Gòn](https://eplus.dev/tong-hop-dia-diem-countdown-2025-tai-sai-gon) - 2024-12-28 
-- 🤡 [“🎉 Prize Counter Opening Soon: Google Arcade Updates 🏆✨”](https://eplus.dev/prize-counter-opening-soon-google-arcade-updates) - 2024-12-27 
+- 🧰 [Monitoring Multiple Projects with Cloud Monitoring - GSP090](https://eplus.dev/monitoring-multiple-projects-with-cloud-monitoring-gsp090) - 2025-01-09 
+- 😺 [The Arcade Base Camp January 2025](https://eplus.dev/the-arcade-base-camp-january-2025) - 2025-01-09 
+- 🗽 [[Arcade Prize Counter] Success has its rewards—grab yours now!](https://eplus.dev/arcade-prize-counter-success-has-its-rewardsgrab-yours-now) - 2025-01-08 
+- 🌜 [Quiz 4 - BDMS Quiz](https://eplus.dev/quiz-4-bdms-quiz) - 2025-01-07 
+- 📝 [Quiz 3 - Data Formats and Streaming Data Quiz](https://eplus.dev/quiz-3-data-formats-and-streaming-data-quiz) - 2025-01-07 
+- 🚀 [Quiz 2 - Data Models Quiz](https://eplus.dev/quiz-2-data-models-quiz) - 2025-01-07 
+- 💼 [Quiz 1 - Practical Quiz for Week 2 Hands-On Lectures](https://eplus.dev/quiz-1-practical-quiz-for-week-2-hands-on-lectures) - 2025-01-07 
+- 🦣 [Ask Questions to Make Data-Driven Decisions - Module 4 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-4-challenge) - 2025-01-04 
+- 👨‍🏫 [Ask Questions to Make Data-Driven Decisions - Module 3 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-3-challenge) - 2025-01-04 
+- 🔭 [Ask Questions to Make Data-Driven Decisions - Module 2 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-2-challenge) - 2025-01-04 
+- 🤡 [Ask Questions to Make Data-Driven Decisions - Module 1 challenge](https://eplus.dev/ask-questions-to-make-data-driven-decisions-module-1-challenge) - 2025-01-04 
+- 💡 [Optimizing Factory Data Creation with Laravel&#39;s recycle Method](https://eplus.dev/optimizing-factory-data-creation-with-laravels-recycle-method) - 2025-01-04 
+- 🦣 [[Nóng] VNEID đã hiển thị điểm giấy phép lái xe](https://eplus.dev/nong-vneid-da-hien-thi-diem-giay-phep-lai-xe) - 2025-01-01 
+- 💪 [Báo Cáo Lương IT 2024-2025 &lpar;IT Salary Report For 2024-2025&rpar;](https://eplus.dev/bao-cao-luong-it-2024-2025-it-salary-report-for-2024-2025) - 2024-12-28 
+- 🤡 [Tổng hợp địa điểm Countdown 2025 tại Sài Gòn](https://eplus.dev/tong-hop-dia-diem-countdown-2025-tai-sai-gon) - 2024-12-28 
 
 
 <div align="right">
@@ -50,17 +50,17 @@ Hello World!!!
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>23.6 °C</td><td>23.5 °C</td><td>23.3 °C</td><td>23.2 °C</td><td>23.2 °C</td><td>23 °C</td><td>22.8 °C</td><td>23.2 °C</td><td>24.7 °C</td><td>26.4 °C</td><td>27.9 °C</td><td>29.2 °C</td><td>30.3 °C</td><td>31.2 °C</td><td>32 °C</td><td>32 °C</td><td>31.3 °C</td><td>30.1 °C</td><td>26.3 °C</td><td>25.2 °C</td><td>24.8 °C</td><td>24.7 °C</td><td>24.7 °C</td><td>24.5 °C</td>
+        <td>23.6 °C</td><td>23.5 °C</td><td>23.3 °C</td><td>23.2 °C</td><td>23.2 °C</td><td>23 °C</td><td>22.8 °C</td><td>23.2 °C</td><td>24.7 °C</td><td>26.4 °C</td><td>27.9 °C</td><td>29.2 °C</td><td>30.3 °C</td><td>31.2 °C</td><td>32 °C</td><td>32 °C</td><td>29 °C</td><td>29.4 °C</td><td>26.3 °C</td><td>25.2 °C</td><td>24.8 °C</td><td>24.7 °C</td><td>24.7 °C</td><td>24.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>5.8 kph</td><td>5.8 kph</td><td>2.9 kph</td><td>2.2 kph</td><td>2.9 kph</td><td>5 kph</td><td>6.5 kph</td><td>8.3 kph</td><td>10.8 kph</td><td>11.5 kph</td><td>10.4 kph</td><td>10.1 kph</td><td>7.9 kph</td><td>6.1 kph</td><td>3.2 kph</td><td>0.4 kph</td><td>3.2 kph</td><td>10.1 kph</td><td>12.2 kph</td><td>13.3 kph</td><td>10.8 kph</td><td>8.3 kph</td><td>7.2 kph</td><td>5.4 kph</td>
+        <td>5.8 kph</td><td>5.8 kph</td><td>2.9 kph</td><td>2.2 kph</td><td>2.9 kph</td><td>5 kph</td><td>6.5 kph</td><td>8.3 kph</td><td>10.8 kph</td><td>11.5 kph</td><td>10.4 kph</td><td>10.1 kph</td><td>7.9 kph</td><td>6.1 kph</td><td>3.2 kph</td><td>0.4 kph</td><td>3.6 kph</td><td>10.1 kph</td><td>12.2 kph</td><td>13.3 kph</td><td>10.8 kph</td><td>8.3 kph</td><td>7.2 kph</td><td>5.4 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-    Updated at: 2025-01-09T10:10:23Z - by <a target="_blank"
+    Updated at: 2025-01-09T10:33:06Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
