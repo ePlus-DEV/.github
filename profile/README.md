@@ -4,21 +4,21 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [The Arcade Trivia January 2025 Week 1  &lpar;Solution&rpar;](https://eplus.dev/the-arcade-trivia-january-2025-week-1-solution) - 2025-01-16 
-- 😺 [Đổi 20.000 điểm Viettel++ lấy Wifi 6](https://eplus.dev/doi-20000-diem-viettel-lay-wifi-6) - 2025-01-14 
-- 🗽 [The Arcade Trivia January 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/the-arcade-trivia-january-2025-week-2-solution) - 2025-01-14 
-- 🌜 [App Engine: Qwik Start - Go - GSP070](https://eplus.dev/app-engine-qwik-start-go-gsp070) - 2025-01-14 
-- 📝 [Arcade Hero: Enter the Artifact Registry Go - ARC156](https://eplus.dev/arcade-hero-enter-the-artifact-registry-go-arc156) - 2025-01-14 
-- 🚀 [Arcade Hero: Enter the Artifact Registry Python - ARC153](https://eplus.dev/arcade-hero-enter-the-artifact-registry-python-arc153) - 2025-01-14 
-- 💼 [Arcade Hero: Enter the PubSub Subscription - ARC124](https://eplus.dev/arcade-hero-enter-the-pubsub-subscription-arc124) - 2025-01-14 
-- 🦣 [Arcade Hero: Enter the Source Repository - ARC136](https://eplus.dev/arcade-hero-enter-the-source-repository-arc136) - 2025-01-14 
-- 👨‍🏫 [Arcade Hero: Enter the PubSub - ARC123-PUBSUB](https://eplus.dev/arcade-hero-enter-the-pubsub-arc123-pubsub) - 2025-01-14 
-- 🔭 [Social login with google/facebook via Laravel API](https://eplus.dev/social-login-with-googlefacebook-via-laravel-api) - 2025-01-13 
-- 🤡 [Arcade Hero: Enter the VPC - ARC122-VPC](https://eplus.dev/arcade-hero-enter-the-vpc-arc122-vpc) - 2025-01-12 
-- 💡 [Arcade Hero: Enter the BigQuery - ARC121-BIGQUERY](https://eplus.dev/arcade-hero-enter-the-bigquery-arc121-bigquery) - 2025-01-12 
-- 🦣 [Arcade Hero: Enter the Storage - ARC120-STORAGE](https://eplus.dev/arcade-hero-enter-the-storage-arc120-storage) - 2025-01-12 
-- 💪 [Monitoring Multiple Projects with Cloud Monitoring - GSP090](https://eplus.dev/monitoring-multiple-projects-with-cloud-monitoring-gsp090) - 2025-01-09 
-- 🤡 [The Arcade Base Camp January 2025](https://eplus.dev/the-arcade-base-camp-january-2025) - 2025-01-09 
+- 🧰 [Redacting Confidential Data within your Pipelines in Cloud Data Fusion - GSP811](https://eplus.dev/redacting-confidential-data-within-your-pipelines-in-cloud-data-fusion-gsp811) - 2025-01-19 
+- 😺 [The Arcade Trivia January 2025 Week 1  &lpar;Solution&rpar;](https://eplus.dev/the-arcade-trivia-january-2025-week-1-solution) - 2025-01-16 
+- 🗽 [Đổi 20.000 điểm Viettel++ lấy Wifi 6](https://eplus.dev/doi-20000-diem-viettel-lay-wifi-6) - 2025-01-14 
+- 🌜 [The Arcade Trivia January 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/the-arcade-trivia-january-2025-week-2-solution) - 2025-01-14 
+- 📝 [App Engine: Qwik Start - Go - GSP070](https://eplus.dev/app-engine-qwik-start-go-gsp070) - 2025-01-14 
+- 🚀 [Arcade Hero: Enter the Artifact Registry Go - ARC156](https://eplus.dev/arcade-hero-enter-the-artifact-registry-go-arc156) - 2025-01-14 
+- 💼 [Arcade Hero: Enter the Artifact Registry Python - ARC153](https://eplus.dev/arcade-hero-enter-the-artifact-registry-python-arc153) - 2025-01-14 
+- 🦣 [Arcade Hero: Enter the PubSub Subscription - ARC124](https://eplus.dev/arcade-hero-enter-the-pubsub-subscription-arc124) - 2025-01-14 
+- 👨‍🏫 [Arcade Hero: Enter the Source Repository - ARC136](https://eplus.dev/arcade-hero-enter-the-source-repository-arc136) - 2025-01-14 
+- 🔭 [Arcade Hero: Enter the PubSub - ARC123-PUBSUB](https://eplus.dev/arcade-hero-enter-the-pubsub-arc123-pubsub) - 2025-01-14 
+- 🤡 [Social login with google/facebook via Laravel API](https://eplus.dev/social-login-with-googlefacebook-via-laravel-api) - 2025-01-13 
+- 💡 [Arcade Hero: Enter the VPC - ARC122-VPC](https://eplus.dev/arcade-hero-enter-the-vpc-arc122-vpc) - 2025-01-12 
+- 🦣 [Arcade Hero: Enter the BigQuery - ARC121-BIGQUERY](https://eplus.dev/arcade-hero-enter-the-bigquery-arc121-bigquery) - 2025-01-12 
+- 💪 [Arcade Hero: Enter the Storage - ARC120-STORAGE](https://eplus.dev/arcade-hero-enter-the-storage-arc120-storage) - 2025-01-12 
+- 🤡 [Monitoring Multiple Projects with Cloud Monitoring - GSP090](https://eplus.dev/monitoring-multiple-projects-with-cloud-monitoring-gsp090) - 2025-01-09 
 
 
 <div align="right">
@@ -46,11 +46,11 @@ Hello World!!!
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
+        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly cloudy</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.5 °C</td><td>24.3 °C</td><td>24.1 °C</td><td>23.9 °C</td><td>23.5 °C</td><td>23.2 °C</td><td>23 °C</td><td>23.7 °C</td><td>25.7 °C</td><td>28 °C</td><td>29.9 °C</td><td>31.7 °C</td><td>33 °C</td><td>33.8 °C</td><td>34.3 °C</td><td>34.7 °C</td><td>33.7 °C</td><td>29.9 °C</td><td>27 °C</td><td>26.5 °C</td><td>25.4 °C</td><td>24.9 °C</td><td>24.6 °C</td><td>24.4 °C</td>
+        <td>24.5 °C</td><td>24.3 °C</td><td>24.1 °C</td><td>23.9 °C</td><td>23.5 °C</td><td>23.2 °C</td><td>23 °C</td><td>23.7 °C</td><td>25.7 °C</td><td>28 °C</td><td>29.9 °C</td><td>31.7 °C</td><td>33 °C</td><td>33.8 °C</td><td>34.3 °C</td><td>34.7 °C</td><td>32.3 °C</td><td>29.9 °C</td><td>27 °C</td><td>26.5 °C</td><td>25.4 °C</td><td>24.9 °C</td><td>24.6 °C</td><td>24.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2025-01-19T09:12:36Z - by <a target="_blank"
+    Updated at: 2025-01-19T09:24:41Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
