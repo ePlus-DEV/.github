@@ -31,7 +31,7 @@ Hello World!!!
 
 
 <details>
-    <summary><b>Ho Chi Minh City, Vietnam - 13/02/2025 (<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" width="25" /> Patchy rain nearby)</b>
+    <summary><b>Ho Chi Minh City, Vietnam - 13/02/2025 (<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" width="25" /> Partly Cloudy )</b>
     </summary>
 
     
@@ -50,7 +50,7 @@ Hello World!!!
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.2 °C</td><td>27.2 °C</td><td>24.5 °C</td><td>24.3 °C</td><td>24.1 °C</td><td>23.9 °C</td><td>23.7 °C</td><td>24.5 °C</td><td>26.6 °C</td><td>28.9 °C</td><td>31.2 °C</td><td>33 °C</td><td>34 °C</td><td>34.9 °C</td><td>35.6 °C</td><td>36.1 °C</td><td>34.7 °C</td><td>31.4 °C</td><td>29.8 °C</td><td>28 °C</td><td>27.2 °C</td><td>26.6 °C</td><td>26.2 °C</td><td>25.9 °C</td>
+        <td>25.2 °C</td><td>27.4 °C</td><td>24.5 °C</td><td>24.3 °C</td><td>24.1 °C</td><td>23.9 °C</td><td>23.7 °C</td><td>24.5 °C</td><td>26.6 °C</td><td>28.9 °C</td><td>31.2 °C</td><td>33 °C</td><td>34 °C</td><td>34.9 °C</td><td>35.6 °C</td><td>36.1 °C</td><td>34.7 °C</td><td>31.4 °C</td><td>29.8 °C</td><td>28 °C</td><td>27.2 °C</td><td>26.6 °C</td><td>26.2 °C</td><td>25.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2025-02-12T17:00:07Z - by <a target="_blank"
+    Updated at: 2025-02-12T17:15:58Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
