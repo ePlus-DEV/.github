@@ -4,21 +4,21 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [Filtering and Sorting Data in Looker - GSP855](https://eplus.dev/filtering-and-sorting-data-in-looker-gsp855) - 2025-02-18 
-- 😺 [Explore and Create Reports with Looker Studio - GSP409](https://eplus.dev/explore-and-create-reports-with-looker-studio-gsp409) - 2025-02-18 
-- 🗽 [Looker Studio: Qwik Start - GSP136](https://eplus.dev/looker-studio-qwik-start-gsp136) - 2025-02-18 
-- 🌜 [Skills Boost Arcade Trivia February 2025 Week 1](https://eplus.dev/skills-boost-arcade-trivia-february-2025-week-1) - 2025-02-14 
-- 📝 [Redacting Critical Data with Sensitive Data Protection - GSP864](https://eplus.dev/redacting-critical-data-with-sensitive-data-protection-gsp864) - 2025-02-14 
-- 🚀 [Internal Load Balancer - GSP041](https://eplus.dev/internal-load-balancer-gsp041) - 2025-02-14 
-- 💼 [Cloud Data Loss Prevention API: Qwik Start - GSP107](https://eplus.dev/cloud-data-loss-prevention-api-qwik-start-gsp107) - 2025-02-14 
-- 🦣 [Prepare Data for Exploration - Module 1 challenge](https://eplus.dev/prepare-data-for-exploration-module-1-challenge) - 2025-02-14 
-- 👨‍🏫 [Arcade Hero: Building Blocks Artifact Registry I - ARC1207](https://eplus.dev/arcade-hero-building-blocks-artifact-registry-i-arc1207) - 2025-02-14 
-- 🔭 [Arcade Hero: Building Blocks Firestore I - ARC1206](https://eplus.dev/arcade-hero-building-blocks-firestore-i-arc1206) - 2025-02-14 
-- 🤡 [Arcade Hero: Building Blocks Cloud Run I - ARC1205](https://eplus.dev/arcade-hero-building-blocks-cloud-run-i-arc1205) - 2025-02-14 
-- 💡 [Arcade Hero: Building Blocks PubSub I - ARC1204](https://eplus.dev/arcade-hero-building-blocks-pubsub-i-arc1204) - 2025-02-14 
-- 🦣 [Arcade Hero: Building Blocks IAM I - ARC1203](https://eplus.dev/arcade-hero-building-blocks-iam-i-arc1203) - 2025-02-14 
-- 💪 [Arcade Hero: Building Blocks VPC I - ARC1202](https://eplus.dev/arcade-hero-building-blocks-vpc-i-arc1202) - 2025-02-14 
-- 🤡 [Arcade Hero: Building Blocks BigQuery I - ARC1201](https://eplus.dev/arcade-hero-building-blocks-bigquery-i-arc1201) - 2025-02-14 
+- 🧰 [Sending and Scheduling Dashboards in Looker - GSP1162](https://eplus.dev/sending-and-scheduling-dashboards-in-looker-gsp1162) - 2025-02-19 
+- 😺 [Filtering and Sorting Data in Looker - GSP855](https://eplus.dev/filtering-and-sorting-data-in-looker-gsp855) - 2025-02-18 
+- 🗽 [Explore and Create Reports with Looker Studio - GSP409](https://eplus.dev/explore-and-create-reports-with-looker-studio-gsp409) - 2025-02-18 
+- 🌜 [Looker Studio: Qwik Start - GSP136](https://eplus.dev/looker-studio-qwik-start-gsp136) - 2025-02-18 
+- 📝 [Skills Boost Arcade Trivia February 2025 Week 1](https://eplus.dev/skills-boost-arcade-trivia-february-2025-week-1) - 2025-02-14 
+- 🚀 [Redacting Critical Data with Sensitive Data Protection - GSP864](https://eplus.dev/redacting-critical-data-with-sensitive-data-protection-gsp864) - 2025-02-14 
+- 💼 [Internal Load Balancer - GSP041](https://eplus.dev/internal-load-balancer-gsp041) - 2025-02-14 
+- 🦣 [Cloud Data Loss Prevention API: Qwik Start - GSP107](https://eplus.dev/cloud-data-loss-prevention-api-qwik-start-gsp107) - 2025-02-14 
+- 👨‍🏫 [Prepare Data for Exploration - Module 1 challenge](https://eplus.dev/prepare-data-for-exploration-module-1-challenge) - 2025-02-14 
+- 🔭 [Arcade Hero: Building Blocks Artifact Registry I - ARC1207](https://eplus.dev/arcade-hero-building-blocks-artifact-registry-i-arc1207) - 2025-02-14 
+- 🤡 [Arcade Hero: Building Blocks Firestore I - ARC1206](https://eplus.dev/arcade-hero-building-blocks-firestore-i-arc1206) - 2025-02-14 
+- 💡 [Arcade Hero: Building Blocks Cloud Run I - ARC1205](https://eplus.dev/arcade-hero-building-blocks-cloud-run-i-arc1205) - 2025-02-14 
+- 🦣 [Arcade Hero: Building Blocks PubSub I - ARC1204](https://eplus.dev/arcade-hero-building-blocks-pubsub-i-arc1204) - 2025-02-14 
+- 💪 [Arcade Hero: Building Blocks IAM I - ARC1203](https://eplus.dev/arcade-hero-building-blocks-iam-i-arc1203) - 2025-02-14 
+- 🤡 [Arcade Hero: Building Blocks VPC I - ARC1202](https://eplus.dev/arcade-hero-building-blocks-vpc-i-arc1202) - 2025-02-14 
 
 
 <div align="right">
@@ -46,11 +46,11 @@ Hello World!!!
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Overcast </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Overcast </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Partly cloudy</td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.1 °C</td><td>25 °C</td><td>25 °C</td><td>25.1 °C</td><td>25 °C</td><td>25.2 °C</td><td>25.1 °C</td><td>25.3 °C</td><td>26.7 °C</td><td>28.9 °C</td><td>29.1 °C</td><td>32.7 °C</td><td>34.2 °C</td><td>35.4 °C</td><td>35.6 °C</td><td>33.8 °C</td><td>31.5 °C</td><td>31 °C</td><td>29.9 °C</td><td>27.8 °C</td><td>27.4 °C</td><td>27 °C</td><td>25.9 °C</td><td>25.2 °C</td>
+        <td>25.1 °C</td><td>25 °C</td><td>25 °C</td><td>25.1 °C</td><td>25 °C</td><td>25.2 °C</td><td>25.1 °C</td><td>25.3 °C</td><td>26.7 °C</td><td>28.9 °C</td><td>30.7 °C</td><td>30.4 °C</td><td>34.2 °C</td><td>35.4 °C</td><td>35.6 °C</td><td>33.8 °C</td><td>31.5 °C</td><td>31 °C</td><td>29.9 °C</td><td>27.8 °C</td><td>27.4 °C</td><td>27 °C</td><td>25.9 °C</td><td>25.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2025-02-19T03:58:41Z - by <a target="_blank"
+    Updated at: 2025-02-19T04:18:35Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
