@@ -4,21 +4,21 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [Reduce Costs for the Managed Service for Prometheus - GSP1027](https://eplus.dev/reduce-costs-for-the-managed-service-for-prometheus-gsp1027) - 2025-02-23 
-- 😺 [Deploy and query Google Agentspace &lpar;Solution&rpar;](https://eplus.dev/deploy-and-query-google-agentspace-solution) - 2025-02-23 
-- 🗽 [Securing Container Builds - GSP1185](https://eplus.dev/securing-container-builds-gsp1185) - 2025-02-22 
-- 🌜 [Load Balancing and Auto scaling - Challenge Lab &lpar;Solution&rpar;](https://eplus.dev/load-balancing-and-auto-scaling-challenge-lab-solution) - 2025-02-22 
-- 📝 [Gating Deployments with Binary Authorization - GSP1183](https://eplus.dev/gating-deployments-with-binary-authorization-gsp1183) - 2025-02-22 
-- 🚀 [Running Databases in GKE &lpar;Solution&rpar;](https://eplus.dev/running-databases-in-gke-solution) - 2025-02-22 
-- 💼 [Deploying GKE Autopilot Clusters from Cloud Shell &lpar;Solution&rpar;](https://eplus.dev/deploying-gke-autopilot-clusters-from-cloud-shell-solution) - 2025-02-22 
-- 🦣 [Deploying GKE Autopilot Clusters &lpar;Solution&rpar;](https://eplus.dev/deploying-gke-autopilot-clusters-solution) - 2025-02-22 
-- 👨‍🏫 [Secure Builds with Cloud Build - GSP1184](https://eplus.dev/secure-builds-with-cloud-build-gsp1184) - 2025-02-22 
-- 🔭 [Working with Cloud Build &lpar;Solution&rpar;](https://eplus.dev/working-with-cloud-build-solution) - 2025-02-22 
-- 🤡 [Skills Boost Arcade Trivia February 2025 Week 3](https://eplus.dev/skills-boost-arcade-trivia-february-2025-week-3) - 2025-02-19 
-- 💡 [Service Directory: Qwik Start - GSP732](https://eplus.dev/service-directory-qwik-start-gsp732) - 2025-02-19 
-- 🦣 [Dataplex: Qwik Start - Console - GSP1143](https://eplus.dev/dataplex-qwik-start-console-gsp1143) - 2025-02-19 
-- 💪 [Implementing Cloud SQL &lpar;Solution&rpar;](https://eplus.dev/implementing-cloud-sql-solution) - 2025-02-19 
-- 🤡 [Creating Tile-based Dashboard Alerts in Looker - GSP1160](https://eplus.dev/creating-tile-based-dashboard-alerts-in-looker-gsp1160) - 2025-02-19 
+- 🧰 [Build Apps with Gemini Code Assist &lpar;Solution&rpar;](https://eplus.dev/build-apps-with-gemini-code-assist-solution) - 2025-02-23 
+- 😺 [Reduce Costs for the Managed Service for Prometheus - GSP1027](https://eplus.dev/reduce-costs-for-the-managed-service-for-prometheus-gsp1027) - 2025-02-23 
+- 🗽 [Deploy and query Google Agentspace &lpar;Solution&rpar;](https://eplus.dev/deploy-and-query-google-agentspace-solution) - 2025-02-23 
+- 🌜 [Securing Container Builds - GSP1185](https://eplus.dev/securing-container-builds-gsp1185) - 2025-02-22 
+- 📝 [Load Balancing and Auto scaling - Challenge Lab &lpar;Solution&rpar;](https://eplus.dev/load-balancing-and-auto-scaling-challenge-lab-solution) - 2025-02-22 
+- 🚀 [Gating Deployments with Binary Authorization - GSP1183](https://eplus.dev/gating-deployments-with-binary-authorization-gsp1183) - 2025-02-22 
+- 💼 [Running Databases in GKE &lpar;Solution&rpar;](https://eplus.dev/running-databases-in-gke-solution) - 2025-02-22 
+- 🦣 [Deploying GKE Autopilot Clusters from Cloud Shell &lpar;Solution&rpar;](https://eplus.dev/deploying-gke-autopilot-clusters-from-cloud-shell-solution) - 2025-02-22 
+- 👨‍🏫 [Deploying GKE Autopilot Clusters &lpar;Solution&rpar;](https://eplus.dev/deploying-gke-autopilot-clusters-solution) - 2025-02-22 
+- 🔭 [Secure Builds with Cloud Build - GSP1184](https://eplus.dev/secure-builds-with-cloud-build-gsp1184) - 2025-02-22 
+- 🤡 [Working with Cloud Build &lpar;Solution&rpar;](https://eplus.dev/working-with-cloud-build-solution) - 2025-02-22 
+- 💡 [Skills Boost Arcade Trivia February 2025 Week 3](https://eplus.dev/skills-boost-arcade-trivia-february-2025-week-3) - 2025-02-19 
+- 🦣 [Service Directory: Qwik Start - GSP732](https://eplus.dev/service-directory-qwik-start-gsp732) - 2025-02-19 
+- 💪 [Dataplex: Qwik Start - Console - GSP1143](https://eplus.dev/dataplex-qwik-start-console-gsp1143) - 2025-02-19 
+- 🤡 [Implementing Cloud SQL &lpar;Solution&rpar;](https://eplus.dev/implementing-cloud-sql-solution) - 2025-02-19 
 
 
 <div align="right">
@@ -50,7 +50,7 @@ Hello World!!!
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.6 °C</td><td>26.3 °C</td><td>26 °C</td><td>25.9 °C</td><td>25.4 °C</td><td>25.1 °C</td><td>25 °C</td><td>25.6 °C</td><td>26.9 °C</td><td>28.9 °C</td><td>30.5 °C</td><td>31.5 °C</td><td>31.3 °C</td><td>30.1 °C</td><td>29.9 °C</td><td>30.5 °C</td><td>31.2 °C</td><td>28.7 °C</td><td>27.6 °C</td><td>27.3 °C</td><td>27.2 °C</td><td>27 °C</td><td>26.8 °C</td><td>26.4 °C</td>
+        <td>26.6 °C</td><td>26.3 °C</td><td>26 °C</td><td>25.9 °C</td><td>25.4 °C</td><td>25.1 °C</td><td>25 °C</td><td>25.6 °C</td><td>26.9 °C</td><td>28.9 °C</td><td>30.5 °C</td><td>31.5 °C</td><td>31.3 °C</td><td>30.1 °C</td><td>29.9 °C</td><td>30.5 °C</td><td>30.4 °C</td><td>28.7 °C</td><td>27.6 °C</td><td>27.3 °C</td><td>27.2 °C</td><td>27 °C</td><td>26.8 °C</td><td>26.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2025-02-23T09:09:37Z - by <a target="_blank"
+    Updated at: 2025-02-23T09:26:17Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
