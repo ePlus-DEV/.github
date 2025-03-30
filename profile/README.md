@@ -4,21 +4,21 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [Using gsutil to Perform Operations on Buckets and Objects - GSP130](https://eplus.dev/using-gsutil-to-perform-operations-on-buckets-and-objects-gsp130) - 2025-03-30 
-- 😺 [Skills Boost Arcade Trivia March 2025 Week 3 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-march-2025-week-3-solution) - 2025-03-29 
-- 🗽 [Looker Developer: Qwik Start - GSP891](https://eplus.dev/looker-developer-qwik-start-gsp891) - 2025-03-29 
-- 🌜 [Introduction to Long Context Window with Gemini on Vertex AI - GSP1276](https://eplus.dev/introduction-to-long-context-window-with-gemini-on-vertex-ai-gsp1276) - 2025-03-28 
-- 📝 [Build an AI Image Generator app using Imagen on Vertex AI - bb-ide-genai-002](https://eplus.dev/build-an-ai-image-generator-app-using-imagen-on-vertex-ai-bb-ide-genai-002) - 2025-03-28 
-- 🚀 [Generate Personalized Email Content with BigQuery Continuous Queries and Gemini - GSP1284](https://eplus.dev/generate-personalized-email-content-with-bigquery-continuous-queries-and-gemini-gsp1284) - 2025-03-28 
-- 💼 [Supervised Fine Tuning with Gemini for Question &amp; Answering - GSP1269](https://eplus.dev/supervised-fine-tuning-with-gemini-for-question-and-answering-gsp1269) - 2025-03-28 
-- 🦣 [Synthetic Data Generation using Gemini APIs - GSP1272](https://eplus.dev/synthetic-data-generation-using-gemini-apis-gsp1272) - 2025-03-28 
-- 👨‍🏫 [Monitor Environments with Google Cloud Managed Service for Prometheus: Challenge Lab - GSP364](https://eplus.dev/monitor-environments-with-google-cloud-managed-service-for-prometheus-challenge-lab-gsp364) - 2025-03-21 
-- 🔭 [Secure BigLake Data: Challenge Lab - ARC129](https://eplus.dev/secure-biglake-data-challenge-lab-arc129) - 2025-03-21 
-- 🤡 [[2025] Identify Application Vulnerabilities with Security Command Center - GSP1262](https://eplus.dev/2025-identify-application-vulnerabilities-with-security-command-center-gsp1262) - 2025-03-21 
-- 💡 [Analyzing and Visualizing Data in Looker &lpar;Solution&rpar;](https://eplus.dev/analyzing-and-visualizing-data-in-looker-solution) - 2025-03-19 
-- 🦣 [Visualizing Billing Data with Looker Studio - GSP622](https://eplus.dev/visualizing-billing-data-with-looker-studio-gsp622) - 2025-03-19 
-- 💪 [Getting Started with BigQuery GIS for Data Analysts - GSP866](https://eplus.dev/getting-started-with-bigquery-gis-for-data-analysts-gsp866) - 2025-03-19 
-- 🤡 [Getting Started with Analyzing and Visualizing Data in Looker &lpar;Solution&rpar;](https://eplus.dev/getting-started-with-analyzing-and-visualizing-data-in-looker-solution) - 2025-03-19 
+- 🧰 [Skills Boost Arcade Trivia March 2025 Week 4 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-march-2025-week-4-solution) - 2025-03-30 
+- 😺 [mini lab : BigQuery : 5 &lpar;Solution&rpar;](https://eplus.dev/mini-lab-bigquery-5-solution) - 2025-03-30 
+- 🗽 [mini lab : BigQuery : 6 &lpar;Solution&rpar;](https://eplus.dev/mini-lab-bigquery-6-solution) - 2025-03-30 
+- 🌜 [Using gsutil to Perform Operations on Buckets and Objects - GSP130](https://eplus.dev/using-gsutil-to-perform-operations-on-buckets-and-objects-gsp130) - 2025-03-30 
+- 📝 [Skills Boost Arcade Trivia March 2025 Week 3 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-march-2025-week-3-solution) - 2025-03-29 
+- 🚀 [Looker Developer: Qwik Start - GSP891](https://eplus.dev/looker-developer-qwik-start-gsp891) - 2025-03-29 
+- 💼 [Introduction to Long Context Window with Gemini on Vertex AI - GSP1276](https://eplus.dev/introduction-to-long-context-window-with-gemini-on-vertex-ai-gsp1276) - 2025-03-28 
+- 🦣 [Build an AI Image Generator app using Imagen on Vertex AI - bb-ide-genai-002](https://eplus.dev/build-an-ai-image-generator-app-using-imagen-on-vertex-ai-bb-ide-genai-002) - 2025-03-28 
+- 👨‍🏫 [Generate Personalized Email Content with BigQuery Continuous Queries and Gemini - GSP1284](https://eplus.dev/generate-personalized-email-content-with-bigquery-continuous-queries-and-gemini-gsp1284) - 2025-03-28 
+- 🔭 [Supervised Fine Tuning with Gemini for Question &amp; Answering - GSP1269](https://eplus.dev/supervised-fine-tuning-with-gemini-for-question-and-answering-gsp1269) - 2025-03-28 
+- 🤡 [Synthetic Data Generation using Gemini APIs - GSP1272](https://eplus.dev/synthetic-data-generation-using-gemini-apis-gsp1272) - 2025-03-28 
+- 💡 [Monitor Environments with Google Cloud Managed Service for Prometheus: Challenge Lab - GSP364](https://eplus.dev/monitor-environments-with-google-cloud-managed-service-for-prometheus-challenge-lab-gsp364) - 2025-03-21 
+- 🦣 [Secure BigLake Data: Challenge Lab - ARC129](https://eplus.dev/secure-biglake-data-challenge-lab-arc129) - 2025-03-21 
+- 💪 [[2025] Identify Application Vulnerabilities with Security Command Center - GSP1262](https://eplus.dev/2025-identify-application-vulnerabilities-with-security-command-center-gsp1262) - 2025-03-21 
+- 🤡 [Analyzing and Visualizing Data in Looker &lpar;Solution&rpar;](https://eplus.dev/analyzing-and-visualizing-data-in-looker-solution) - 2025-03-19 
 
 
 <div align="right">
@@ -50,7 +50,7 @@ Hello World!!!
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27 °C</td><td>26.8 °C</td><td>26.7 °C</td><td>26.6 °C</td><td>26.7 °C</td><td>26.3 °C</td><td>26.1 °C</td><td>27 °C</td><td>29 °C</td><td>31.4 °C</td><td>33.7 °C</td><td>35.7 °C</td><td>36.6 °C</td><td>35.3 °C</td><td>31.6 °C</td><td>31.3 °C</td><td>31.3 °C</td><td>29.7 °C</td><td>28.4 °C</td><td>27.6 °C</td><td>27.4 °C</td><td>26.5 °C</td><td>26.3 °C</td><td>26.9 °C</td>
+        <td>27 °C</td><td>26.8 °C</td><td>26.7 °C</td><td>26.6 °C</td><td>26.7 °C</td><td>26.3 °C</td><td>26.1 °C</td><td>27 °C</td><td>29 °C</td><td>31.4 °C</td><td>33.7 °C</td><td>35.7 °C</td><td>36.6 °C</td><td>35 °C</td><td>31.6 °C</td><td>31.3 °C</td><td>31.3 °C</td><td>29.7 °C</td><td>28.4 °C</td><td>27.6 °C</td><td>27.4 °C</td><td>26.5 °C</td><td>26.3 °C</td><td>26.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2025-03-30T06:20:05Z - by <a target="_blank"
+    Updated at: 2025-03-30T06:41:46Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
