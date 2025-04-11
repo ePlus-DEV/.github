@@ -4,21 +4,21 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [[2025] Cloud Monitoring: Qwik Start - GSP089](https://eplus.dev/2025-cloud-monitoring-qwik-start-gsp089) - 2025-04-10 
-- 😺 [Optimizing Cost with Google Cloud Storage - GSP649](https://eplus.dev/optimizing-cost-with-google-cloud-storage-gsp649) - 2025-04-10 
-- 🗽 [Ingesting HL7v2 Data with the Healthcare API - GSP628](https://eplus.dev/ingesting-hl7v2-data-with-the-healthcare-api-gsp628) - 2025-04-10 
-- 🌜 [Ingesting FHIR Data with the Healthcare API - GSP457](https://eplus.dev/ingesting-fhir-data-with-the-healthcare-api-gsp457) - 2025-04-10 
-- 📝 [Skills Boost Arcade Trivia April 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-april-2025-week-2-solution) - 2025-04-09 
-- 🚀 [Cloud Spanner - Database Fundamentals - GSP1048](https://eplus.dev/cloud-spanner-database-fundamentals-gsp1048) - 2025-04-09 
-- 💼 [Weather Data in BigQuery - GSP009](https://eplus.dev/weather-data-in-bigquery-gsp009) - 2025-04-04 
-- 🦣 [Managing Google Classroom - GSP981](https://eplus.dev/managing-google-classroom-gsp981) - 2025-04-04 
-- 👨‍🏫 [Measuring and Improving Speech Accuracy - GSP758](https://eplus.dev/measuring-and-improving-speech-accuracy-gsp758) - 2025-04-04 
-- 🔭 [[2025] Create a Virtual Machine - GSP001](https://eplus.dev/2025-create-a-virtual-machine-gsp001) - 2025-04-04 
-- 🤡 [Use APIs to Work with Cloud Storage: Challenge Lab - ARC125](https://eplus.dev/use-apis-to-work-with-cloud-storage-challenge-lab-arc125) - 2025-04-03 
-- 💡 [Cloud Speech API 3 Ways: Challenge Lab - ARC132](https://eplus.dev/cloud-speech-api-3-ways-challenge-lab-arc132) - 2025-04-03 
-- 🦣 [A Tour of Google Cloud Hands-on Labs - GSP282](https://eplus.dev/a-tour-of-google-cloud-hands-on-labs-gsp282) - 2025-04-03 
-- 💪 [Congratulations, you&#39;re now enrolled in the Google Cloud Arcade Facilitator Program 2025](https://eplus.dev/congratulations-youre-now-enrolled-in-the-google-cloud-arcade-facilitator-program-2025) - 2025-04-03 
-- 🤡 [Hướng dẫn khai hải quan hàng quà tặng từ Google Cloud Arcade](https://eplus.dev/huong-dan-khai-hai-quan-hang-qua-tang-tu-google-cloud-arcade) - 2025-04-02 
+- 🧰 [Skills Boost Arcade Trivia April 2025 Week 1 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-april-2025-week-1-solution) - 2025-04-11 
+- 😺 [[2025] Cloud Monitoring: Qwik Start - GSP089](https://eplus.dev/2025-cloud-monitoring-qwik-start-gsp089) - 2025-04-10 
+- 🗽 [Optimizing Cost with Google Cloud Storage - GSP649](https://eplus.dev/optimizing-cost-with-google-cloud-storage-gsp649) - 2025-04-10 
+- 🌜 [Ingesting HL7v2 Data with the Healthcare API - GSP628](https://eplus.dev/ingesting-hl7v2-data-with-the-healthcare-api-gsp628) - 2025-04-10 
+- 📝 [Ingesting FHIR Data with the Healthcare API - GSP457](https://eplus.dev/ingesting-fhir-data-with-the-healthcare-api-gsp457) - 2025-04-10 
+- 🚀 [Skills Boost Arcade Trivia April 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-april-2025-week-2-solution) - 2025-04-09 
+- 💼 [Cloud Spanner - Database Fundamentals - GSP1048](https://eplus.dev/cloud-spanner-database-fundamentals-gsp1048) - 2025-04-09 
+- 🦣 [Weather Data in BigQuery - GSP009](https://eplus.dev/weather-data-in-bigquery-gsp009) - 2025-04-04 
+- 👨‍🏫 [Managing Google Classroom - GSP981](https://eplus.dev/managing-google-classroom-gsp981) - 2025-04-04 
+- 🔭 [Measuring and Improving Speech Accuracy - GSP758](https://eplus.dev/measuring-and-improving-speech-accuracy-gsp758) - 2025-04-04 
+- 🤡 [[2025] Create a Virtual Machine - GSP001](https://eplus.dev/2025-create-a-virtual-machine-gsp001) - 2025-04-04 
+- 💡 [Use APIs to Work with Cloud Storage: Challenge Lab - ARC125](https://eplus.dev/use-apis-to-work-with-cloud-storage-challenge-lab-arc125) - 2025-04-03 
+- 🦣 [Cloud Speech API 3 Ways: Challenge Lab - ARC132](https://eplus.dev/cloud-speech-api-3-ways-challenge-lab-arc132) - 2025-04-03 
+- 💪 [A Tour of Google Cloud Hands-on Labs - GSP282](https://eplus.dev/a-tour-of-google-cloud-hands-on-labs-gsp282) - 2025-04-03 
+- 🤡 [Congratulations, you&#39;re now enrolled in the Google Cloud Arcade Facilitator Program 2025](https://eplus.dev/congratulations-youre-now-enrolled-in-the-google-cloud-arcade-facilitator-program-2025) - 2025-04-03 
 
 
 <div align="right">
@@ -46,11 +46,11 @@ Hello World!!!
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly cloudy</td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly cloudy</td><td width="200px">Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>28 °C</td><td>27.7 °C</td><td>27.4 °C</td><td>27.2 °C</td><td>26.9 °C</td><td>26.8 °C</td><td>26.7 °C</td><td>27.1 °C</td><td>27.8 °C</td><td>29.2 °C</td><td>32.1 °C</td><td>32.8 °C</td><td>34 °C</td><td>34 °C</td><td>33.4 °C</td><td>33.6 °C</td><td>33.7 °C</td><td>32.3 °C</td><td>30.3 °C</td><td>28.6 °C</td><td>28.1 °C</td><td>27.9 °C</td><td>27.6 °C</td><td>27.3 °C</td>
+        <td>28 °C</td><td>27.7 °C</td><td>27.4 °C</td><td>27.2 °C</td><td>26.9 °C</td><td>26.8 °C</td><td>26.7 °C</td><td>27.1 °C</td><td>27.8 °C</td><td>29.2 °C</td><td>31.4 °C</td><td>32.1 °C</td><td>34 °C</td><td>34 °C</td><td>33.4 °C</td><td>33.6 °C</td><td>33.7 °C</td><td>32.3 °C</td><td>30.3 °C</td><td>28.6 °C</td><td>28.1 °C</td><td>27.9 °C</td><td>27.6 °C</td><td>27.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2025-04-11T03:59:57Z - by <a target="_blank"
+    Updated at: 2025-04-11T04:21:30Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
