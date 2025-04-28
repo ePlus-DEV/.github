@@ -31,7 +31,7 @@ Hello World!!!
 
 
 <details>
-    <summary><b>Ho Chi Minh City, Vietnam - 28/04/2025 (<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" width="25" /> Patchy rain nearby)</b>
+    <summary><b>Ho Chi Minh City, Vietnam - 28/04/2025 (<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" width="25" /> Partly Cloudy )</b>
     </summary>
 
     
@@ -50,7 +50,7 @@ Hello World!!!
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.8 °C</td><td>27.7 °C</td><td>27.6 °C</td><td>27.5 °C</td><td>27.4 °C</td><td>27.2 °C</td><td>28.4 °C</td><td>28.2 °C</td><td>30.1 °C</td><td>32 °C</td><td>34 °C</td><td>35.7 °C</td><td>37 °C</td><td>38.4 °C</td><td>38.3 °C</td><td>36.6 °C</td><td>34.3 °C</td><td>32.1 °C</td><td>30.2 °C</td><td>29.4 °C</td><td>29 °C</td><td>28.8 °C</td><td>28.7 °C</td><td>28.6 °C</td>
+        <td>27.8 °C</td><td>27.7 °C</td><td>27.6 °C</td><td>27.5 °C</td><td>27.4 °C</td><td>27.2 °C</td><td>27.1 °C</td><td>28.2 °C</td><td>30.1 °C</td><td>32 °C</td><td>34 °C</td><td>35.7 °C</td><td>37 °C</td><td>38.4 °C</td><td>38.3 °C</td><td>36.6 °C</td><td>34.3 °C</td><td>32.1 °C</td><td>30.2 °C</td><td>29.4 °C</td><td>29 °C</td><td>28.8 °C</td><td>28.7 °C</td><td>28.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2025-04-27T23:58:02Z - by <a target="_blank"
+    Updated at: 2025-04-28T01:14:39Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
