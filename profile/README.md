@@ -50,17 +50,17 @@ Hello World!!!
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>28.1 °C</td><td>28 °C</td><td>27.8 °C</td><td>27.6 °C</td><td>27.6 °C</td><td>27.5 °C</td><td>27.6 °C</td><td>26.2 °C</td><td>30.9 °C</td><td>32.7 °C</td><td>34.4 °C</td><td>36 °C</td><td>37 °C</td><td>36.8 °C</td><td>35.2 °C</td><td>34 °C</td><td>34.6 °C</td><td>34.8 °C</td><td>33.6 °C</td><td>32 °C</td><td>31 °C</td><td>30.6 °C</td><td>29.7 °C</td><td>28.9 °C</td>
+        <td>28.1 °C</td><td>28 °C</td><td>27.8 °C</td><td>27.6 °C</td><td>27.6 °C</td><td>27.5 °C</td><td>27.6 °C</td><td>29.1 °C</td><td>30.9 °C</td><td>30.2 °C</td><td>34.4 °C</td><td>36 °C</td><td>37 °C</td><td>36.8 °C</td><td>35.2 °C</td><td>34 °C</td><td>34.6 °C</td><td>34.8 °C</td><td>33.6 °C</td><td>32 °C</td><td>31 °C</td><td>30.6 °C</td><td>29.7 °C</td><td>28.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>5.8 kph</td><td>5.4 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>0.4 kph</td><td>1.8 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>5.4 kph</td><td>7.2 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>4.7 kph</td><td>16.9 kph</td><td>20.2 kph</td><td>16.6 kph</td><td>14 kph</td><td>14.8 kph</td><td>17.3 kph</td><td>15.8 kph</td><td>14.8 kph</td><td>14 kph</td><td>11.5 kph</td>
+        <td>5.8 kph</td><td>5.4 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>0.4 kph</td><td>1.8 kph</td><td>2.2 kph</td><td>3.2 kph</td><td>5.4 kph</td><td>7.2 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>4.7 kph</td><td>16.9 kph</td><td>20.2 kph</td><td>16.6 kph</td><td>14 kph</td><td>14.8 kph</td><td>17.3 kph</td><td>15.8 kph</td><td>14.8 kph</td><td>14 kph</td><td>11.5 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-    Updated at: 2025-05-11T00:44:53Z - by <a target="_blank"
+    Updated at: 2025-05-11T02:28:39Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
