@@ -4,21 +4,21 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [Deploy Your Website on Cloud Run - GSP659](https://eplus.dev/deploy-your-website-on-cloud-run-gsp659) - 2025-05-17 
-- 😺 [Configuring Networks via gcloud - GSP630](https://eplus.dev/configuring-networks-via-gcloud-gsp630) - 2025-05-17 
-- 🗽 [Skills Boost Arcade Trivia May 2025 Week 4 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-4-solution) - 2025-05-17 
-- 🌜 [Skills Boost Arcade Trivia May 2025 Week 3 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-3-solution) - 2025-05-17 
-- 📝 [Fundamentals of Cloud Logging - GSP610](https://eplus.dev/fundamentals-of-cloud-logging-gsp610) - 2025-05-17 
-- 🚀 [Implementing Security in Dataplex - GSP1157](https://eplus.dev/implementing-security-in-dataplex-gsp1157) - 2025-05-17 
-- 💼 [Skills Boost Arcade Trivia May 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-2-solution) - 2025-05-15 
-- 🦣 [Monitoring and Logging for Cloud Run Functions - GSP092](https://eplus.dev/monitoring-and-logging-for-cloud-run-functions-gsp092) - 2025-05-10 
-- 👨‍🏫 [Connect to Cloud SQL from an Application in Google Kubernetes Engine - GSP449](https://eplus.dev/connect-to-cloud-sql-from-an-application-in-google-kubernetes-engine-gsp449) - 2025-05-10 
-- 🔭 [Skills Boost Arcade Trivia May 2025 Week 1 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-1-solution) - 2025-05-07 
-- 🤡 [The Arcade Base Camp May 2025](https://eplus.dev/the-arcade-base-camp-may-2025) - 2025-05-07 
-- 💡 [Open Source UI-TOOLS for Designer/Developer](https://eplus.dev/open-source-ui-tools-for-designer-developer) - 2025-04-28 
-- 🦣 [Analyze Data to Answer Questions - Module 4 challenge](https://eplus.dev/analyze-data-to-answer-questions-module-4-challenge) - 2025-04-26 
-- 💪 [Analyze Data to Answer Questions - Module 3 challenge](https://eplus.dev/analyze-data-to-answer-questions-module-3-challenge) - 2025-04-26 
-- 🤡 [Analyze Data to Answer Questions - Module 2 challenge](https://eplus.dev/analyze-data-to-answer-questions-module-2-challenge) - 2025-04-26 
+- 🧰 [Cloud Run Functions: Qwik Start - Command Line - GSP080](https://eplus.dev/cloud-run-functions-qwik-start-command-line-gsp080) - 2025-05-18 
+- 😺 [Deploy Your Website on Cloud Run - GSP659](https://eplus.dev/deploy-your-website-on-cloud-run-gsp659) - 2025-05-17 
+- 🗽 [Configuring Networks via gcloud - GSP630](https://eplus.dev/configuring-networks-via-gcloud-gsp630) - 2025-05-17 
+- 🌜 [Skills Boost Arcade Trivia May 2025 Week 4 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-4-solution) - 2025-05-17 
+- 📝 [Skills Boost Arcade Trivia May 2025 Week 3 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-3-solution) - 2025-05-17 
+- 🚀 [Fundamentals of Cloud Logging - GSP610](https://eplus.dev/fundamentals-of-cloud-logging-gsp610) - 2025-05-17 
+- 💼 [Implementing Security in Dataplex - GSP1157](https://eplus.dev/implementing-security-in-dataplex-gsp1157) - 2025-05-17 
+- 🦣 [Skills Boost Arcade Trivia May 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-2-solution) - 2025-05-15 
+- 👨‍🏫 [Monitoring and Logging for Cloud Run Functions - GSP092](https://eplus.dev/monitoring-and-logging-for-cloud-run-functions-gsp092) - 2025-05-10 
+- 🔭 [Connect to Cloud SQL from an Application in Google Kubernetes Engine - GSP449](https://eplus.dev/connect-to-cloud-sql-from-an-application-in-google-kubernetes-engine-gsp449) - 2025-05-10 
+- 🤡 [Skills Boost Arcade Trivia May 2025 Week 1 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-1-solution) - 2025-05-07 
+- 💡 [The Arcade Base Camp May 2025](https://eplus.dev/the-arcade-base-camp-may-2025) - 2025-05-07 
+- 🦣 [Open Source UI-TOOLS for Designer/Developer](https://eplus.dev/open-source-ui-tools-for-designer-developer) - 2025-04-28 
+- 💪 [Analyze Data to Answer Questions - Module 4 challenge](https://eplus.dev/analyze-data-to-answer-questions-module-4-challenge) - 2025-04-26 
+- 🤡 [Analyze Data to Answer Questions - Module 3 challenge](https://eplus.dev/analyze-data-to-answer-questions-module-3-challenge) - 2025-04-26 
 
 
 <div align="right">
@@ -42,15 +42,15 @@ Hello World!!!
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/263.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Partly cloudy</td><td width="200px">Patchy rain nearby</td><td width="200px">Overcast </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Patchy rain nearby</td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy light drizzle</td><td width="200px">Partly cloudy</td><td width="200px">Overcast </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Patchy rain nearby</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>28.9 °C</td><td>28.8 °C</td><td>28.5 °C</td><td>28.4 °C</td><td>28.2 °C</td><td>28 °C</td><td>28.1 °C</td><td>29.3 °C</td><td>31.2 °C</td><td>33 °C</td><td>34.6 °C</td><td>36.1 °C</td><td>35.8 °C</td><td>36.2 °C</td><td>34.3 °C</td><td>33.8 °C</td><td>33 °C</td><td>31.9 °C</td><td>30.8 °C</td><td>29.8 °C</td><td>29.3 °C</td><td>29.1 °C</td><td>29 °C</td><td>28.7 °C</td>
+        <td>28.9 °C</td><td>28.8 °C</td><td>28.5 °C</td><td>28.4 °C</td><td>28.2 °C</td><td>28 °C</td><td>28.1 °C</td><td>29.3 °C</td><td>31.2 °C</td><td>33 °C</td><td>34.6 °C</td><td>36.1 °C</td><td>35.8 °C</td><td>34.8 °C</td><td>36.2 °C</td><td>33.8 °C</td><td>33 °C</td><td>31.9 °C</td><td>30.8 °C</td><td>29.8 °C</td><td>29.3 °C</td><td>29.1 °C</td><td>29 °C</td><td>28.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2025-05-18T06:58:58Z - by <a target="_blank"
+    Updated at: 2025-05-18T07:15:32Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
