@@ -4,21 +4,21 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [Dataplex: Qwik Start - Command Line - GSP1144](https://eplus.dev/dataplex-qwik-start-command-line-gsp1144) - 2025-05-20 
-- 😺 [Streamlining Data Management: Exploring Laravel Cascade Soft Deletes](https://eplus.dev/streamlining-data-management-exploring-laravel-cascade-soft-deletes) - 2025-05-20 
-- 🗽 [Troubleshooting Common SQL Errors with BigQuery - GSP408](https://eplus.dev/troubleshooting-common-sql-errors-with-bigquery-gsp408) - 2025-05-18 
-- 🌜 [Explore an Ecommerce Dataset with SQL in BigQuery - GSP407](https://eplus.dev/explore-an-ecommerce-dataset-with-sql-in-bigquery-gsp407) - 2025-05-18 
-- 📝 [BigQuery: Qwik Start - Command Line - GSP071](https://eplus.dev/bigquery-qwik-start-command-line-gsp071) - 2025-05-18 
-- 🚀 [Cloud Run Functions: Qwik Start - Command Line - GSP080](https://eplus.dev/cloud-run-functions-qwik-start-command-line-gsp080) - 2025-05-18 
-- 💼 [Deploy Your Website on Cloud Run - GSP659](https://eplus.dev/deploy-your-website-on-cloud-run-gsp659) - 2025-05-17 
-- 🦣 [Configuring Networks via gcloud - GSP630](https://eplus.dev/configuring-networks-via-gcloud-gsp630) - 2025-05-17 
-- 👨‍🏫 [Skills Boost Arcade Trivia May 2025 Week 4 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-4-solution) - 2025-05-17 
-- 🔭 [Skills Boost Arcade Trivia May 2025 Week 3 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-3-solution) - 2025-05-17 
-- 🤡 [Fundamentals of Cloud Logging - GSP610](https://eplus.dev/fundamentals-of-cloud-logging-gsp610) - 2025-05-17 
-- 💡 [Implementing Security in Dataplex - GSP1157](https://eplus.dev/implementing-security-in-dataplex-gsp1157) - 2025-05-17 
-- 🦣 [Skills Boost Arcade Trivia May 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-2-solution) - 2025-05-15 
-- 💪 [Monitoring and Logging for Cloud Run Functions - GSP092](https://eplus.dev/monitoring-and-logging-for-cloud-run-functions-gsp092) - 2025-05-10 
-- 🤡 [Connect to Cloud SQL from an Application in Google Kubernetes Engine - GSP449](https://eplus.dev/connect-to-cloud-sql-from-an-application-in-google-kubernetes-engine-gsp449) - 2025-05-10 
+- 🧰 [Using the Natural Language API from Google Docs - GSP126](https://eplus.dev/using-the-natural-language-api-from-google-docs-gsp126-1) - 2025-05-20 
+- 😺 [Dataplex: Qwik Start - Command Line - GSP1144](https://eplus.dev/dataplex-qwik-start-command-line-gsp1144) - 2025-05-20 
+- 🗽 [Streamlining Data Management: Exploring Laravel Cascade Soft Deletes](https://eplus.dev/streamlining-data-management-exploring-laravel-cascade-soft-deletes) - 2025-05-20 
+- 🌜 [Troubleshooting Common SQL Errors with BigQuery - GSP408](https://eplus.dev/troubleshooting-common-sql-errors-with-bigquery-gsp408) - 2025-05-18 
+- 📝 [Explore an Ecommerce Dataset with SQL in BigQuery - GSP407](https://eplus.dev/explore-an-ecommerce-dataset-with-sql-in-bigquery-gsp407) - 2025-05-18 
+- 🚀 [BigQuery: Qwik Start - Command Line - GSP071](https://eplus.dev/bigquery-qwik-start-command-line-gsp071) - 2025-05-18 
+- 💼 [Cloud Run Functions: Qwik Start - Command Line - GSP080](https://eplus.dev/cloud-run-functions-qwik-start-command-line-gsp080) - 2025-05-18 
+- 🦣 [Deploy Your Website on Cloud Run - GSP659](https://eplus.dev/deploy-your-website-on-cloud-run-gsp659) - 2025-05-17 
+- 👨‍🏫 [Configuring Networks via gcloud - GSP630](https://eplus.dev/configuring-networks-via-gcloud-gsp630) - 2025-05-17 
+- 🔭 [Skills Boost Arcade Trivia May 2025 Week 4 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-4-solution) - 2025-05-17 
+- 🤡 [Skills Boost Arcade Trivia May 2025 Week 3 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-3-solution) - 2025-05-17 
+- 💡 [Fundamentals of Cloud Logging - GSP610](https://eplus.dev/fundamentals-of-cloud-logging-gsp610) - 2025-05-17 
+- 🦣 [Implementing Security in Dataplex - GSP1157](https://eplus.dev/implementing-security-in-dataplex-gsp1157) - 2025-05-17 
+- 💪 [Skills Boost Arcade Trivia May 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-may-2025-week-2-solution) - 2025-05-15 
+- 🤡 [Monitoring and Logging for Cloud Run Functions - GSP092](https://eplus.dev/monitoring-and-logging-for-cloud-run-functions-gsp092) - 2025-05-10 
 
 
 <div align="right">
@@ -42,7 +42,7 @@ Hello World!!!
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
@@ -50,7 +50,7 @@ Hello World!!!
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.8 °C</td><td>27.7 °C</td><td>27.5 °C</td><td>27.3 °C</td><td>27.3 °C</td><td>27.2 °C</td><td>27.3 °C</td><td>28.7 °C</td><td>30.2 °C</td><td>31.9 °C</td><td>33.1 °C</td><td>33.2 °C</td><td>33.3 °C</td><td>33.8 °C</td><td>34.3 °C</td><td>34.1 °C</td><td>33.5 °C</td><td>32.4 °C</td><td>30.2 °C</td><td>29.5 °C</td><td>29.1 °C</td><td>28.4 °C</td><td>28.4 °C</td><td>28.2 °C</td>
+        <td>27.8 °C</td><td>27.7 °C</td><td>27.5 °C</td><td>27.3 °C</td><td>27.3 °C</td><td>27.2 °C</td><td>27.3 °C</td><td>28.7 °C</td><td>30.2 °C</td><td>31.9 °C</td><td>33.1 °C</td><td>33.2 °C</td><td>33.3 °C</td><td>33.8 °C</td><td>34.3 °C</td><td>34.1 °C</td><td>33.5 °C</td><td>32.4 °C</td><td>30.3 °C</td><td>29.5 °C</td><td>29.1 °C</td><td>28.4 °C</td><td>28.4 °C</td><td>28.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2025-05-20T11:09:29Z - by <a target="_blank"
+    Updated at: 2025-05-20T11:25:12Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
