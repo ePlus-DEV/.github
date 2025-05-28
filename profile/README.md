@@ -4,21 +4,21 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [Cloud Armor Preconfigured WAF Rules - GSP879](https://eplus.dev/cloud-armor-preconfigured-waf-rules-gsp879) - 2025-05-27 
-- 😺 [Cloud Spanner - Loading Data and Performing Backups - GSP1049](https://eplus.dev/cloud-spanner-loading-data-and-performing-backups-gsp1049) - 2025-05-26 
-- 🗽 [Arcade Hero: Building Blocks Cloud Run functions IV - ARC1223](https://eplus.dev/arcade-hero-building-blocks-cloud-run-functions-iv-arc1223) - 2025-05-24 
-- 🌜 [Arcade Hero: Building Blocks Cloud Run functions III - ARC1222](https://eplus.dev/arcade-hero-building-blocks-cloud-run-functions-iii-arc1222) - 2025-05-24 
-- 📝 [Arcade Hero: Building Blocks Cloud Run functions II - ARC1221](https://eplus.dev/arcade-hero-building-blocks-cloud-run-functions-ii-arc1221) - 2025-05-23 
-- 🚀 [Arcade Hero: Building Blocks Cloud Run functions I - ARC1220](https://eplus.dev/arcade-hero-building-blocks-cloud-run-functions-i-arc1220) - 2025-05-23 
-- 💼 [Arcade Hero: Building Blocks Artifact Registry V - arc1211](https://eplus.dev/arcade-hero-building-blocks-artifact-registry-v-arc1211) - 2025-05-23 
-- 🦣 [Arcade Hero: Building Blocks Artifact Registry IV - arc1210](https://eplus.dev/arcade-hero-building-blocks-artifact-registry-iv-arc1210) - 2025-05-22 
-- 👨‍🏫 [Arcade Hero: Building Blocks Artifact Registry III - arc1209](https://eplus.dev/arcade-hero-building-blocks-artifact-registry-iii-arc1209) - 2025-05-22 
-- 🔭 [Arcade Hero: Building Blocks Artifact Registry II - arc1208](https://eplus.dev/arcade-hero-building-blocks-artifact-registry-ii-arc1208) - 2025-05-22 
-- 🤡 [Managing Deployments Using Kubernetes Engine - GSP053](https://eplus.dev/managing-deployments-using-kubernetes-engine-gsp053) - 2025-05-22 
-- 💡 [Deploy a Modern Web App connected to a Cloud Spanner Instance - GSP1051](https://eplus.dev/deploy-a-modern-web-app-connected-to-a-cloud-spanner-instance-gsp1051) - 2025-05-21 
-- 🦣 [Rate Limiting with Cloud Armor - GSP975](https://eplus.dev/rate-limiting-with-cloud-armor-gsp975) - 2025-05-21 
-- 💪 [Using the Natural Language API from Google Docs - GSP126](https://eplus.dev/using-the-natural-language-api-from-google-docs-gsp126-1) - 2025-05-20 
-- 🤡 [Dataplex: Qwik Start - Command Line - GSP1144](https://eplus.dev/dataplex-qwik-start-command-line-gsp1144) - 2025-05-20 
+- 🧰 [Prism – Seamlessly Integrate LLMs into Your Laravel Applications](https://eplus.dev/prism-seamlessly-integrate-llms-into-your-laravel-applications) - 2025-05-28 
+- 😺 [Cloud Armor Preconfigured WAF Rules - GSP879](https://eplus.dev/cloud-armor-preconfigured-waf-rules-gsp879) - 2025-05-27 
+- 🗽 [Cloud Spanner - Loading Data and Performing Backups - GSP1049](https://eplus.dev/cloud-spanner-loading-data-and-performing-backups-gsp1049) - 2025-05-26 
+- 🌜 [Arcade Hero: Building Blocks Cloud Run functions IV - ARC1223](https://eplus.dev/arcade-hero-building-blocks-cloud-run-functions-iv-arc1223) - 2025-05-24 
+- 📝 [Arcade Hero: Building Blocks Cloud Run functions III - ARC1222](https://eplus.dev/arcade-hero-building-blocks-cloud-run-functions-iii-arc1222) - 2025-05-24 
+- 🚀 [Arcade Hero: Building Blocks Cloud Run functions II - ARC1221](https://eplus.dev/arcade-hero-building-blocks-cloud-run-functions-ii-arc1221) - 2025-05-23 
+- 💼 [Arcade Hero: Building Blocks Cloud Run functions I - ARC1220](https://eplus.dev/arcade-hero-building-blocks-cloud-run-functions-i-arc1220) - 2025-05-23 
+- 🦣 [Arcade Hero: Building Blocks Artifact Registry V - arc1211](https://eplus.dev/arcade-hero-building-blocks-artifact-registry-v-arc1211) - 2025-05-23 
+- 👨‍🏫 [Arcade Hero: Building Blocks Artifact Registry IV - arc1210](https://eplus.dev/arcade-hero-building-blocks-artifact-registry-iv-arc1210) - 2025-05-22 
+- 🔭 [Arcade Hero: Building Blocks Artifact Registry III - arc1209](https://eplus.dev/arcade-hero-building-blocks-artifact-registry-iii-arc1209) - 2025-05-22 
+- 🤡 [Arcade Hero: Building Blocks Artifact Registry II - arc1208](https://eplus.dev/arcade-hero-building-blocks-artifact-registry-ii-arc1208) - 2025-05-22 
+- 💡 [Managing Deployments Using Kubernetes Engine - GSP053](https://eplus.dev/managing-deployments-using-kubernetes-engine-gsp053) - 2025-05-22 
+- 🦣 [Deploy a Modern Web App connected to a Cloud Spanner Instance - GSP1051](https://eplus.dev/deploy-a-modern-web-app-connected-to-a-cloud-spanner-instance-gsp1051) - 2025-05-21 
+- 💪 [Rate Limiting with Cloud Armor - GSP975](https://eplus.dev/rate-limiting-with-cloud-armor-gsp975) - 2025-05-21 
+- 🤡 [Using the Natural Language API from Google Docs - GSP126](https://eplus.dev/using-the-natural-language-api-from-google-docs-gsp126-1) - 2025-05-20 
 
 
 <div align="right">
@@ -50,17 +50,17 @@ Hello World!!!
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.6 °C</td><td>27.5 °C</td><td>27.4 °C</td><td>27.3 °C</td><td>27.3 °C</td><td>27.1 °C</td><td>27 °C</td><td>27.3 °C</td><td>28.5 °C</td><td>29.6 °C</td><td>30.3 °C</td><td>31.7 °C</td><td>32.9 °C</td><td>33.3 °C</td><td>32.7 °C</td><td>32 °C</td><td>30.8 °C</td><td>29.3 °C</td><td>28.2 °C</td><td>26.9 °C</td><td>26.6 °C</td><td>26 °C</td><td>25.7 °C</td><td>25.7 °C</td>
+        <td>27.6 °C</td><td>27.5 °C</td><td>27.4 °C</td><td>27.3 °C</td><td>27.3 °C</td><td>27.1 °C</td><td>27 °C</td><td>27.3 °C</td><td>28.5 °C</td><td>30.1 °C</td><td>30.3 °C</td><td>31.7 °C</td><td>32.9 °C</td><td>33.3 °C</td><td>32.7 °C</td><td>32 °C</td><td>30.8 °C</td><td>29.3 °C</td><td>28.2 °C</td><td>26.9 °C</td><td>26.6 °C</td><td>26 °C</td><td>25.7 °C</td><td>25.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.9 kph</td><td>6.1 kph</td><td>5 kph</td><td>4 kph</td><td>4.3 kph</td><td>3.2 kph</td><td>3.2 kph</td><td>5 kph</td><td>4 kph</td><td>1.8 kph</td><td>5.4 kph</td><td>9.7 kph</td><td>11.5 kph</td><td>11.2 kph</td><td>10.8 kph</td><td>9.7 kph</td><td>5.8 kph</td><td>11.5 kph</td><td>15.1 kph</td><td>17.3 kph</td><td>17.3 kph</td><td>18.7 kph</td><td>17.3 kph</td><td>17.3 kph</td>
+        <td>7.9 kph</td><td>6.1 kph</td><td>5 kph</td><td>4 kph</td><td>4.3 kph</td><td>3.2 kph</td><td>3.2 kph</td><td>5 kph</td><td>4 kph</td><td>3.6 kph</td><td>5.4 kph</td><td>9.7 kph</td><td>11.5 kph</td><td>11.2 kph</td><td>10.8 kph</td><td>9.7 kph</td><td>5.8 kph</td><td>11.5 kph</td><td>15.1 kph</td><td>17.3 kph</td><td>17.3 kph</td><td>18.7 kph</td><td>17.3 kph</td><td>17.3 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-    Updated at: 2025-05-28T00:59:48Z - by <a target="_blank"
+    Updated at: 2025-05-28T02:43:07Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
