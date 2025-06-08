@@ -4,21 +4,21 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [Answering Complex Questions Using Native Derived Tables with LookML - GSP935](https://eplus.dev/answering-complex-questions-using-native-derived-tables-with-lookml-gsp935) - 2025-06-07 
-- 😺 [Using Role-based Access Control in Kubernetes Engine - GSP493](https://eplus.dev/using-role-based-access-control-in-kubernetes-engine-gsp493) - 2025-06-07 
-- 🗽 [Google Calendar: Getting Started - GSP466](https://eplus.dev/google-calendar-getting-started-gsp466) - 2025-06-07 
-- 🌜 [Skills Boost Arcade Trivia June 2025 Week 4 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-june-2025-week-4-solution) - 2025-06-07 
-- 📝 [It Speaks! Create Synthetic Speech Using Text-to-Speech - GSP222](https://eplus.dev/it-speaks-create-synthetic-speech-using-text-to-speech-gsp222) - 2025-06-07 
-- 🚀 [Skills Boost Arcade Trivia June 2025 Week 3 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-june-2025-week-3-solution) - 2025-06-07 
-- 💼 [Conversational Agents: Managing Environments - GSP929](https://eplus.dev/conversational-agents-managing-environments-gsp929) - 2025-06-06 
-- 🦣 [Gmail: Getting Started - GSP465](https://eplus.dev/gmail-getting-started-gsp465) - 2025-06-06 
-- 👨‍🏫 [Skills Boost Arcade Trivia June 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-june-2025-week-2-solution) - 2025-06-05 
-- 🔭 [Getting Started with Liquid to Customize the Looker User Experience - GSP933](https://eplus.dev/getting-started-with-liquid-to-customize-the-looker-user-experience-gsp933) - 2025-06-05 
-- 🤡 [Creating dynamic SQL derived tables with LookML and Liquid - GSP932](https://eplus.dev/creating-dynamic-sql-derived-tables-with-lookml-and-liquid-gsp932) - 2025-06-05 
-- 💡 [🕵️‍♂️ Fake My History – Tạo lịch sử duyệt web &quot;đẹp đẽ&quot; chỉ trong một nốt nhạc](https://eplus.dev/fake-my-history-tao-lich-su-duyet-web-dep-de-chi-trong-mot-not-nhac) - 2025-06-04 
-- 🦣 [Google Workspace Admin: Managing Applications - GSP417](https://eplus.dev/google-workspace-admin-managing-applications-gsp417) - 2025-06-04 
-- 💪 [Skills Boost Arcade Trivia June 2025 Week 1 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-june-2025-week-1-solution) - 2025-06-04 
-- 🤡 [The Arcade Base Camp June 2025](https://eplus.dev/the-arcade-base-camp-june-2025) - 2025-06-04 
+- 🧰 [Exploring Dataset Metadata Between Projects with Data Catalog - GSP789](https://eplus.dev/exploring-dataset-metadata-between-projects-with-data-catalog-gsp789) - 2025-06-08 
+- 😺 [Answering Complex Questions Using Native Derived Tables with LookML - GSP935](https://eplus.dev/answering-complex-questions-using-native-derived-tables-with-lookml-gsp935) - 2025-06-07 
+- 🗽 [Using Role-based Access Control in Kubernetes Engine - GSP493](https://eplus.dev/using-role-based-access-control-in-kubernetes-engine-gsp493) - 2025-06-07 
+- 🌜 [Google Calendar: Getting Started - GSP466](https://eplus.dev/google-calendar-getting-started-gsp466) - 2025-06-07 
+- 📝 [Skills Boost Arcade Trivia June 2025 Week 4 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-june-2025-week-4-solution) - 2025-06-07 
+- 🚀 [It Speaks! Create Synthetic Speech Using Text-to-Speech - GSP222](https://eplus.dev/it-speaks-create-synthetic-speech-using-text-to-speech-gsp222) - 2025-06-07 
+- 💼 [Skills Boost Arcade Trivia June 2025 Week 3 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-june-2025-week-3-solution) - 2025-06-07 
+- 🦣 [Conversational Agents: Managing Environments - GSP929](https://eplus.dev/conversational-agents-managing-environments-gsp929) - 2025-06-06 
+- 👨‍🏫 [Gmail: Getting Started - GSP465](https://eplus.dev/gmail-getting-started-gsp465) - 2025-06-06 
+- 🔭 [Skills Boost Arcade Trivia June 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-june-2025-week-2-solution) - 2025-06-05 
+- 🤡 [Getting Started with Liquid to Customize the Looker User Experience - GSP933](https://eplus.dev/getting-started-with-liquid-to-customize-the-looker-user-experience-gsp933) - 2025-06-05 
+- 💡 [Creating dynamic SQL derived tables with LookML and Liquid - GSP932](https://eplus.dev/creating-dynamic-sql-derived-tables-with-lookml-and-liquid-gsp932) - 2025-06-05 
+- 🦣 [🕵️‍♂️ Fake My History – Tạo lịch sử duyệt web &quot;đẹp đẽ&quot; chỉ trong một nốt nhạc](https://eplus.dev/fake-my-history-tao-lich-su-duyet-web-dep-de-chi-trong-mot-not-nhac) - 2025-06-04 
+- 💪 [Google Workspace Admin: Managing Applications - GSP417](https://eplus.dev/google-workspace-admin-managing-applications-gsp417) - 2025-06-04 
+- 🤡 [Skills Boost Arcade Trivia June 2025 Week 1 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-june-2025-week-1-solution) - 2025-06-04 
 
 
 <div align="right">
@@ -42,15 +42,15 @@ Hello World!!!
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/263.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/296.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/356.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/299.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/386.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/263.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/296.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/356.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/299.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy light drizzle</td><td width="200px">Light rain</td><td width="200px">Moderate or heavy rain shower</td><td width="200px">Moderate rain at times</td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Patchy light rain with thunder</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy light drizzle</td><td width="200px">Light rain</td><td width="200px">Moderate or heavy rain shower</td><td width="200px">Moderate rain at times</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.9 °C</td><td>26.6 °C</td><td>26.1 °C</td><td>25.7 °C</td><td>25.4 °C</td><td>25.3 °C</td><td>25.6 °C</td><td>27.1 °C</td><td>28.6 °C</td><td>29.9 °C</td><td>31 °C</td><td>31.2 °C</td><td>31.8 °C</td><td>31.8 °C</td><td>30.4 °C</td><td>28.5 °C</td><td>27.9 °C</td><td>27.6 °C</td><td>27.3 °C</td><td>27.1 °C</td><td>26.7 °C</td><td>26.5 °C</td><td>26.2 °C</td><td>25.6 °C</td>
+        <td>26.9 °C</td><td>26.6 °C</td><td>26.1 °C</td><td>25.7 °C</td><td>25.4 °C</td><td>25.3 °C</td><td>25.6 °C</td><td>27.1 °C</td><td>28.6 °C</td><td>29.9 °C</td><td>31 °C</td><td>32.1 °C</td><td>31.8 °C</td><td>31.8 °C</td><td>30.4 °C</td><td>28.5 °C</td><td>27.9 °C</td><td>27.6 °C</td><td>27.3 °C</td><td>27.1 °C</td><td>26.7 °C</td><td>26.5 °C</td><td>26.2 °C</td><td>25.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2025-06-08T04:19:33Z - by <a target="_blank"
+    Updated at: 2025-06-08T04:48:08Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
