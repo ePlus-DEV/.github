@@ -46,11 +46,11 @@ Hello World!!!
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Overcast </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly cloudy</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Overcast </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly cloudy</td><td width="200px">Partly Cloudy </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.9 °C</td><td>25.6 °C</td><td>25.5 °C</td><td>25.2 °C</td><td>25 °C</td><td>25 °C</td><td>25.2 °C</td><td>26.4 °C</td><td>27.8 °C</td><td>29.4 °C</td><td>31.1 °C</td><td>31.9 °C</td><td>32.4 °C</td><td>31.9 °C</td><td>31.8 °C</td><td>31.4 °C</td><td>30.7 °C</td><td>29.8 °C</td><td>28.6 °C</td><td>27.7 °C</td><td>27.3 °C</td><td>26.3 °C</td><td>26.9 °C</td><td>26.7 °C</td>
+        <td>25.9 °C</td><td>25.6 °C</td><td>25.5 °C</td><td>25.2 °C</td><td>25 °C</td><td>25 °C</td><td>25.2 °C</td><td>26.4 °C</td><td>27.8 °C</td><td>29.4 °C</td><td>31.1 °C</td><td>31.9 °C</td><td>32.4 °C</td><td>31.9 °C</td><td>31.8 °C</td><td>31.4 °C</td><td>30.7 °C</td><td>29.8 °C</td><td>28.6 °C</td><td>27.7 °C</td><td>27.3 °C</td><td>27 °C</td><td>26.1 °C</td><td>26.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2025-06-26T14:54:54Z - by <a target="_blank"
+    Updated at: 2025-06-26T15:09:27Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
