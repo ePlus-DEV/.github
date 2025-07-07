@@ -4,21 +4,21 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [Cloud Logging on Kubernetes Engine - GSP483](https://eplus.dev/cloud-logging-on-kubernetes-engine-gsp483) - 2025-06-20 
-- 😺 [Hardening Default GKE Cluster Configurations - GSP496](https://eplus.dev/hardening-default-gke-cluster-configurations-gsp496) - 2025-06-19 
-- 🗽 [Getting Started with Cloud Shell and gcloud - GSP002](https://eplus.dev/getting-started-with-cloud-shell-and-gcloud-gsp002) - 2025-06-19 
-- 🌜 [Visualizing Data with Looker Studio - GSP197](https://eplus.dev/visualizing-data-with-looker-studio-gsp197) - 2025-06-17 
-- 📝 [VPC Flow Logs - Analyzing Network Traffic - GSP212](https://eplus.dev/vpc-flow-logs-analyzing-network-traffic-gsp212) - 2025-06-17 
-- 🚀 [Cloud CDN - GSP217](https://eplus.dev/cloud-cdn-gsp217) - 2025-06-13 
-- 💼 [APIs Explorer: Qwik Start - GSP277](https://eplus.dev/apis-explorer-qwik-start-gsp277) - 2025-06-13 
-- 🦣 [Autoscaling TensorFlow Model Deployments with TF Serving and Kubernetes - GSP777](https://eplus.dev/autoscaling-tensorflow-model-deployments-with-tf-serving-and-kubernetes-gsp777) - 2025-06-13 
-- 👨‍🏫 [Setting up Jenkins on Kubernetes Engine - GSP117](https://eplus.dev/setting-up-jenkins-on-kubernetes-engine-gsp117) - 2025-06-13 
-- 🔭 [Block.one: Getting Started with The EOSIO Blockchain - GSP873](https://eplus.dev/blockone-getting-started-with-the-eosio-blockchain-gsp873) - 2025-06-11 
-- 🤡 [Entity and Sentiment Analysis with the Natural Language API - GSP038](https://eplus.dev/entity-and-sentiment-analysis-with-the-natural-language-api-gsp038) - 2025-06-11 
-- 💡 [Arcade Quiz: Generative AI Leader Challenge - osl-arc-0013](https://eplus.dev/arcade-quiz-generative-ai-leader-challenge-osl-arc-0013) - 2025-06-08 
-- 🦣 [Arcade Quiz: Data Practitioner Challenge - osl-arc-0013](https://eplus.dev/arcade-quiz-data-practitioner-challenge-osl-arc-0013) - 2025-06-08 
-- 💪 [Arcade Quiz: DevOps Engineer Challenge - osl-arc-0012](https://eplus.dev/arcade-quiz-devops-engineer-challenge-osl-arc-0012) - 2025-06-08 
-- 🤡 [Arcade Quiz: Database Engineer Challenge - osl-arc-0011](https://eplus.dev/arcade-quiz-database-engineer-challenge-osl-arc-0011) - 2025-06-08 
+- 🧰 [Google Cloud Arcade Facilitator &#39;25 &lpar;Cohort 2&rpar;](https://eplus.dev/google-cloud-arcade-facilitator-25-cohort-2) - 2025-07-07 
+- 😺 [Boost Your Workflow: Generate Laravel 12 CRUD in Seconds](https://eplus.dev/boost-your-workflow-generate-laravel-12-crud-in-seconds) - 2025-07-04 
+- 🗽 [Google Cloud Arcade Prize Counter: Get Ready for Redemption!](https://eplus.dev/google-cloud-arcade-prize-counter-get-ready-for-redemption) - 2025-07-02 
+- 🌜 [Cloud Logging on Kubernetes Engine - GSP483](https://eplus.dev/cloud-logging-on-kubernetes-engine-gsp483) - 2025-06-20 
+- 📝 [Hardening Default GKE Cluster Configurations - GSP496](https://eplus.dev/hardening-default-gke-cluster-configurations-gsp496) - 2025-06-19 
+- 🚀 [Getting Started with Cloud Shell and gcloud - GSP002](https://eplus.dev/getting-started-with-cloud-shell-and-gcloud-gsp002) - 2025-06-19 
+- 💼 [Visualizing Data with Looker Studio - GSP197](https://eplus.dev/visualizing-data-with-looker-studio-gsp197) - 2025-06-17 
+- 🦣 [VPC Flow Logs - Analyzing Network Traffic - GSP212](https://eplus.dev/vpc-flow-logs-analyzing-network-traffic-gsp212) - 2025-06-17 
+- 👨‍🏫 [Cloud CDN - GSP217](https://eplus.dev/cloud-cdn-gsp217) - 2025-06-13 
+- 🔭 [APIs Explorer: Qwik Start - GSP277](https://eplus.dev/apis-explorer-qwik-start-gsp277) - 2025-06-13 
+- 🤡 [Autoscaling TensorFlow Model Deployments with TF Serving and Kubernetes - GSP777](https://eplus.dev/autoscaling-tensorflow-model-deployments-with-tf-serving-and-kubernetes-gsp777) - 2025-06-13 
+- 💡 [Setting up Jenkins on Kubernetes Engine - GSP117](https://eplus.dev/setting-up-jenkins-on-kubernetes-engine-gsp117) - 2025-06-13 
+- 🦣 [Block.one: Getting Started with The EOSIO Blockchain - GSP873](https://eplus.dev/blockone-getting-started-with-the-eosio-blockchain-gsp873) - 2025-06-11 
+- 💪 [Entity and Sentiment Analysis with the Natural Language API - GSP038](https://eplus.dev/entity-and-sentiment-analysis-with-the-natural-language-api-gsp038) - 2025-06-11 
+- 🤡 [Arcade Quiz: Generative AI Leader Challenge - osl-arc-0013](https://eplus.dev/arcade-quiz-generative-ai-leader-challenge-osl-arc-0013) - 2025-06-08 
 
 
 <div align="right">
@@ -50,7 +50,7 @@ Hello World!!!
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.4 °C</td><td>26.1 °C</td><td>25.9 °C</td><td>25.8 °C</td><td>25.5 °C</td><td>25.4 °C</td><td>25.4 °C</td><td>26.8 °C</td><td>28.8 °C</td><td>30.7 °C</td><td>32.4 °C</td><td>33.2 °C</td><td>32.8 °C</td><td>31 °C</td><td>30.1 °C</td><td>29.9 °C</td><td>29.6 °C</td><td>29.5 °C</td><td>29 °C</td><td>28.5 °C</td><td>27.8 °C</td><td>27.3 °C</td><td>26.8 °C</td><td>26.4 °C</td>
+        <td>26.4 °C</td><td>26.1 °C</td><td>25.9 °C</td><td>25.8 °C</td><td>25.5 °C</td><td>25.4 °C</td><td>25.4 °C</td><td>26.8 °C</td><td>28.8 °C</td><td>30.7 °C</td><td>32.4 °C</td><td>33.2 °C</td><td>32.8 °C</td><td>31.2 °C</td><td>30.1 °C</td><td>29.9 °C</td><td>29.6 °C</td><td>29.5 °C</td><td>29 °C</td><td>28.5 °C</td><td>27.8 °C</td><td>27.3 °C</td><td>26.8 °C</td><td>26.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -60,7 +60,7 @@ Hello World!!!
 
 
 <div align="right">
-    Updated at: 2025-07-07T06:18:13Z - by <a target="_blank"
+    Updated at: 2025-07-07T06:41:46Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
