@@ -4,21 +4,21 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [Media CDN: Qwik Start - GSP1044](https://eplus.dev/media-cdn-qwik-start-gsp1044) - 2025-08-24 
-- 😺 [SAP Landing Zone: Plan and Deploy the SAP Network - GSP1068](https://eplus.dev/sap-landing-zone-plan-and-deploy-the-sap-network-gsp1068) - 2025-08-24 
-- 🗽 [Getting Started with Neo4J Enterprise on Google Cloud - GSP1104](https://eplus.dev/getting-started-with-neo4j-enterprise-on-google-cloud-gsp1104) - 2025-08-24 
-- 🌜 [Explore SAP Data Foundation using Looker Dashboards - GSP1046](https://eplus.dev/explore-sap-data-foundation-using-looker-dashboards-gsp1046) - 2025-08-24 
-- 📝 [Dataproc: Qwik Start - Command Line - GSP104](https://eplus.dev/dataproc-qwik-start-command-line-gsp104) - 2025-08-24 
-- 🚀 [Process Documents with Python Using the Document AI API - GSP925](https://eplus.dev/process-documents-with-python-using-the-document-ai-api-gsp925) - 2025-08-24 
-- 💼 [Implement the User Experience for your AppSheet App - GSP1029](https://eplus.dev/implement-the-user-experience-for-your-appsheet-app-gsp1029) - 2025-08-24 
-- 🦣 [Validating Policies for Terraform on Google Cloud - GSP1021](https://eplus.dev/validating-policies-for-terraform-on-google-cloud-gsp1021) - 2025-08-24 
-- 👨‍🏫 [Introduction to Dart - GSP1013](https://eplus.dev/introduction-to-dart-gsp1013) - 2025-08-24 
-- 🔭 [Implementing Page Navigation in a Flutter Application - GSP1012](https://eplus.dev/implementing-page-navigation-in-a-flutter-application-gsp1012) - 2025-08-24 
-- 🤡 [Working with Onscreen Data in a Flutter Application - GSP1011](https://eplus.dev/working-with-onscreen-data-in-a-flutter-application-gsp1011) - 2025-08-24 
-- 💡 [Build a Two Screen Flutter Application - GSP1010](https://eplus.dev/build-a-two-screen-flutter-application-gsp1010) - 2025-08-24 
-- 🦣 [Flutter Qwik Start - GSP1009](https://eplus.dev/flutter-qwik-start-gsp1009) - 2025-08-24 
-- 💪 [Get Started with Dataplex: Challenge Lab - ARC117](https://eplus.dev/get-started-with-dataplex-challenge-lab-arc117) - 2025-08-21 
-- 🤡 [Stream Processing with Cloud Pub/Sub and Dataflow: Qwik Start - GSP903](https://eplus.dev/stream-processing-with-cloud-pubsub-and-dataflow-qwik-start-gsp903) - 2025-08-21 
+- 🧰 [Developer Essentials: Creating Secrets with Secret Manager - gem-secret-manager-create-secrets](https://eplus.dev/developer-essentials-creating-secrets-with-secret-manager-gem-secret-manager-create-secrets) - 2025-08-25 
+- 😺 [Developer Essentials: Application Development with Secret Manager - gem-secret-manager-cloud-run](https://eplus.dev/developer-essentials-application-development-with-secret-manager-gem-secret-manager-cloud-run) - 2025-08-25 
+- 🗽 [Terraform Essentials: VPC and Subnet - gem-terraform-vpc-create](https://eplus.dev/terraform-essentials-vpc-and-subnet-gem-terraform-vpc-create) - 2025-08-25 
+- 🌜 [Terraform Essentials: Firewall Policy - gem-terraform-fw-rule-create](https://eplus.dev/terraform-essentials-firewall-policy-gem-terraform-fw-rule-create) - 2025-08-25 
+- 📝 [Terraform Essentials: Service Account - gem-terraform-sa-create](https://eplus.dev/terraform-essentials-service-account-gem-terraform-sa-create) - 2025-08-25 
+- 🚀 [Terraform Essentials: Google Cloud Storage Bucket - gem-terraform-gcs-create](https://eplus.dev/terraform-essentials-google-cloud-storage-bucket-gem-terraform-gcs-create) - 2025-08-25 
+- 💼 [Terraform Essentials: Google Compute Engine Instance - gem-terraform-gce-create](https://eplus.dev/terraform-essentials-google-compute-engine-instance-gem-terraform-gce-create) - 2025-08-25 
+- 🦣 [Media CDN: Qwik Start - GSP1044](https://eplus.dev/media-cdn-qwik-start-gsp1044) - 2025-08-24 
+- 👨‍🏫 [SAP Landing Zone: Plan and Deploy the SAP Network - GSP1068](https://eplus.dev/sap-landing-zone-plan-and-deploy-the-sap-network-gsp1068) - 2025-08-24 
+- 🔭 [Getting Started with Neo4J Enterprise on Google Cloud - GSP1104](https://eplus.dev/getting-started-with-neo4j-enterprise-on-google-cloud-gsp1104) - 2025-08-24 
+- 🤡 [Explore SAP Data Foundation using Looker Dashboards - GSP1046](https://eplus.dev/explore-sap-data-foundation-using-looker-dashboards-gsp1046) - 2025-08-24 
+- 💡 [Dataproc: Qwik Start - Command Line - GSP104](https://eplus.dev/dataproc-qwik-start-command-line-gsp104) - 2025-08-24 
+- 🦣 [Process Documents with Python Using the Document AI API - GSP925](https://eplus.dev/process-documents-with-python-using-the-document-ai-api-gsp925) - 2025-08-24 
+- 💪 [Implement the User Experience for your AppSheet App - GSP1029](https://eplus.dev/implement-the-user-experience-for-your-appsheet-app-gsp1029) - 2025-08-24 
+- 🤡 [Validating Policies for Terraform on Google Cloud - GSP1021](https://eplus.dev/validating-policies-for-terraform-on-google-cloud-gsp1021) - 2025-08-24 
 
 
 <div align="right">
@@ -42,25 +42,25 @@ Hello World!!!
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/263.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/356.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/293.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/293.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/263.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/263.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/293.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy light drizzle</td><td width="200px">Moderate or heavy rain shower</td><td width="200px">Mist</td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain</td><td width="200px">Light rain shower</td><td width="200px">Patchy light rain</td><td width="200px">Light rain shower</td><td width="200px">Patchy light rain</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy light drizzle</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy light drizzle</td><td width="200px">Light rain shower</td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy light rain</td><td width="200px">Cloudy </td><td width="200px">Light rain</td><td width="200px">Light rain shower</td><td width="200px">Light rain</td><td width="200px">Light rain shower</td><td width="200px">Light rain</td><td width="200px">Light rain shower</td><td width="200px">Partly cloudy</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Patchy rain nearby</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.1 °C</td><td>25 °C</td><td>24.6 °C</td><td>24.3 °C</td><td>26.1 °C</td><td>24.2 °C</td><td>24.8 °C</td><td>25.7 °C</td><td>26.5 °C</td><td>27.6 °C</td><td>29.6 °C</td><td>30 °C</td><td>30 °C</td><td>29.8 °C</td><td>29.9 °C</td><td>29.4 °C</td><td>28.7 °C</td><td>27.7 °C</td><td>26.8 °C</td><td>26.1 °C</td><td>25.7 °C</td><td>25.5 °C</td><td>25 °C</td><td>24.9 °C</td>
+        <td>25 °C</td><td>24.7 °C</td><td>24.8 °C</td><td>24.6 °C</td><td>23.8 °C</td><td>23.8 °C</td><td>24.2 °C</td><td>25.3 °C</td><td>26.7 °C</td><td>28.1 °C</td><td>28.9 °C</td><td>29.5 °C</td><td>30.6 °C</td><td>30.5 °C</td><td>30.2 °C</td><td>29.1 °C</td><td>29.1 °C</td><td>28.5 °C</td><td>27.4 °C</td><td>26.7 °C</td><td>26 °C</td><td>25.8 °C</td><td>25.5 °C</td><td>25.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>11.2 kph</td><td>9.7 kph</td><td>9 kph</td><td>9 kph</td><td>8.6 kph</td><td>9.7 kph</td><td>14.4 kph</td><td>15.1 kph</td><td>15.1 kph</td><td>18 kph</td><td>23.4 kph</td><td>24.5 kph</td><td>26.3 kph</td><td>26.6 kph</td><td>25.6 kph</td><td>25.2 kph</td><td>22.7 kph</td><td>20.9 kph</td><td>18.7 kph</td><td>15.5 kph</td><td>13.3 kph</td><td>11.9 kph</td><td>11.5 kph</td><td>12.6 kph</td>
+        <td>10.8 kph</td><td>7.6 kph</td><td>9.4 kph</td><td>9 kph</td><td>6.8 kph</td><td>6.5 kph</td><td>8.6 kph</td><td>11.5 kph</td><td>14.8 kph</td><td>19.4 kph</td><td>23 kph</td><td>23.4 kph</td><td>24.8 kph</td><td>25.6 kph</td><td>23.8 kph</td><td>23.8 kph</td><td>21.6 kph</td><td>19.8 kph</td><td>17.6 kph</td><td>15.5 kph</td><td>13 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>10.8 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-    Updated at: 2025-08-24T21:20:45Z - by <a target="_blank"
+    Updated at: 2025-08-25T08:34:27Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
