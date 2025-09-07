@@ -4,21 +4,21 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [Skills Boost Arcade Trivia September 2025 Week 1 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-september-2025-week-1-solution) - 2025-09-06 
-- 😺 [Introduction to SQL for BigQuery and Cloud SQL - GSP281](https://eplus.dev/introduction-to-sql-for-bigquery-and-cloud-sql-gsp281) - 2025-09-06 
-- 🗽 [Develop your Google Cloud Network: Challenge Lab - GSP321](https://eplus.dev/develop-your-google-cloud-network-challenge-lab-gsp321) - 2025-09-06 
-- 🌜 [Set Up Application Load Balancers - GSP155](https://eplus.dev/set-up-application-load-balancers-gsp155) - 2025-09-06 
-- 📝 [Use an Internal Application Load Balancer - GSP041](https://eplus.dev/use-an-internal-application-load-balancer-gsp041) - 2025-09-04 
-- 🚀 [Set Up Network Load Balancers - GSP007](https://eplus.dev/set-up-network-load-balancers-gsp007) - 2025-09-04 
-- 💼 [Export Data from BigQuery to Cloud Storage](https://eplus.dev/export-data-from-bigquery-to-cloud-storage) - 2025-09-04 
-- 🦣 [The Arcade Base Camp September 2025](https://eplus.dev/the-arcade-base-camp-september-2025) - 2025-09-03 
-- 👨‍🏫 [Analyze Speech &amp; Language with Google APIs: Challenge Lab - ARC114](https://eplus.dev/analyze-speech-and-language-with-google-apis-challenge-lab-arc114) - 2025-08-30 
-- 🔭 [Cloud Run Functions: 3 Ways: Challenge Lab - ARC104](https://eplus.dev/cloud-run-functions-3-ways-challenge-lab-arc104) - 2025-08-30 
-- 🤡 [Cloud Run Functions: Qwik Start - GSP1089](https://eplus.dev/cloud-run-functions-qwik-start-gsp1089) - 2025-08-30 
-- 💡 [Build a Multi-Modal GenAI Application: Challenge Lab](https://eplus.dev/build-a-multi-modal-genai-application-challenge-lab) - 2025-08-29 
-- 🦣 [Build an application to send Chat Prompts using the Gemini model -](https://eplus.dev/build-an-application-to-send-chat-prompts-using-the-gemini-model) - 2025-08-29 
-- 💪 [Build an AI Image Generator app using Imagen on Vertex AI - bb-ide-genai-002](https://eplus.dev/build-an-ai-image-generator-app-using-imagen-on-vertex-ai-bb-ide-genai-002-1) - 2025-08-29 
-- 🤡 [Developer Essentials: Creating Secrets with Secret Manager - gem-secret-manager-create-secrets](https://eplus.dev/developer-essentials-creating-secrets-with-secret-manager-gem-secret-manager-create-secrets) - 2025-08-25 
+- 🧰 [Securing Virtual Machines using Chrome Enterprise Premium - GSP1036](https://eplus.dev/securing-virtual-machines-using-chrome-enterprise-premium-gsp1036) - 2025-09-07 
+- 😺 [Build a Secure Google Cloud Network: Challenge Lab - GSP322](https://eplus.dev/build-a-secure-google-cloud-network-challenge-lab-gsp322) - 2025-09-07 
+- 🗽 [Skills Boost Arcade Trivia September 2025 Week 4 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-september-2025-week-4-solution) - 2025-09-07 
+- 🌜 [Create a Machine Image for Instance Replication](https://eplus.dev/create-a-machine-image-for-instance-replication) - 2025-09-07 
+- 📝 [Enhance Scalability Using Managed Instance Groups](https://eplus.dev/enhance-scalability-using-managed-instance-groups) - 2025-09-07 
+- 🚀 [Skills Boost Arcade Trivia September 2025 Week 3 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-september-2025-week-3-solution) - 2025-09-07 
+- 💼 [Skills Boost Arcade Trivia September 2025 Week 2 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-september-2025-week-2-solution) - 2025-09-07 
+- 🦣 [Skills Boost Arcade Trivia September 2025 Week 1 &lpar;Solution&rpar;](https://eplus.dev/skills-boost-arcade-trivia-september-2025-week-1-solution) - 2025-09-06 
+- 👨‍🏫 [Introduction to SQL for BigQuery and Cloud SQL - GSP281](https://eplus.dev/introduction-to-sql-for-bigquery-and-cloud-sql-gsp281) - 2025-09-06 
+- 🔭 [Develop your Google Cloud Network: Challenge Lab - GSP321](https://eplus.dev/develop-your-google-cloud-network-challenge-lab-gsp321) - 2025-09-06 
+- 🤡 [Set Up Application Load Balancers - GSP155](https://eplus.dev/set-up-application-load-balancers-gsp155) - 2025-09-06 
+- 💡 [Use an Internal Application Load Balancer - GSP041](https://eplus.dev/use-an-internal-application-load-balancer-gsp041) - 2025-09-04 
+- 🦣 [Set Up Network Load Balancers - GSP007](https://eplus.dev/set-up-network-load-balancers-gsp007) - 2025-09-04 
+- 💪 [Export Data from BigQuery to Cloud Storage](https://eplus.dev/export-data-from-bigquery-to-cloud-storage) - 2025-09-04 
+- 🤡 [The Arcade Base Camp September 2025](https://eplus.dev/the-arcade-base-camp-september-2025) - 2025-09-03 
 
 
 <div align="right">
@@ -31,7 +31,7 @@ Hello World!!!
 
 
 <details>
-    <summary><b>Ho Chi Minh City, Vietnam - 07/09/2025 (<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png" width="25" /> Moderate rain)</b>
+    <summary><b>Ho Chi Minh City, Vietnam - 07/09/2025 (<img src="https://cdn.weatherapi.com/weather/64x64/day/308.png" width="25" /> Heavy rain)</b>
     </summary>
 
     
@@ -42,25 +42,25 @@ Hello World!!!
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/293.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/356.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/356.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/356.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/356.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/356.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy light rain</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Overcast </td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain</td><td width="200px">Light rain shower</td><td width="200px">Light rain</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Moderate or heavy rain shower</td><td width="200px">Moderate or heavy rain shower</td><td width="200px">Moderate or heavy rain shower</td><td width="200px">Moderate or heavy rain shower</td><td width="200px">Moderate or heavy rain shower</td><td width="200px">Light rain shower</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.1 °C</td><td>25.9 °C</td><td>25.7 °C</td><td>25.6 °C</td><td>27.3 °C</td><td>25.4 °C</td><td>25.4 °C</td><td>26.4 °C</td><td>28.2 °C</td><td>29.7 °C</td><td>31.2 °C</td><td>32.1 °C</td><td>32.2 °C</td><td>32.6 °C</td><td>31.6 °C</td><td>29.4 °C</td><td>28.6 °C</td><td>28 °C</td><td>27.4 °C</td><td>27.1 °C</td><td>26.8 °C</td><td>26.3 °C</td><td>26 °C</td><td>25.6 °C</td>
+        <td>26.1 °C</td><td>25.8 °C</td><td>25.6 °C</td><td>25.4 °C</td><td>25.3 °C</td><td>25.3 °C</td><td>25.3 °C</td><td>26.2 °C</td><td>27.7 °C</td><td>29.6 °C</td><td>31.3 °C</td><td>32.5 °C</td><td>33.6 °C</td><td>32.5 °C</td><td>29.1 °C</td><td>26.2 °C</td><td>28.7 °C</td><td>28.1 °C</td><td>26.7 °C</td><td>25.8 °C</td><td>25.5 °C</td><td>25.4 °C</td><td>24.7 °C</td><td>24.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>9.4 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>7.9 kph</td><td>7.9 kph</td><td>7.6 kph</td><td>9 kph</td><td>13.3 kph</td><td>14.4 kph</td><td>15.8 kph</td><td>16.2 kph</td><td>15.5 kph</td><td>14.8 kph</td><td>13 kph</td><td>6.8 kph</td><td>7.2 kph</td><td>8.6 kph</td><td>10.8 kph</td><td>12.2 kph</td><td>13.7 kph</td><td>15.1 kph</td><td>14 kph</td><td>11.9 kph</td>
+        <td>9 kph</td><td>8.3 kph</td><td>7.9 kph</td><td>7.9 kph</td><td>7.2 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>7.2 kph</td><td>10.8 kph</td><td>14 kph</td><td>14.4 kph</td><td>14.8 kph</td><td>14.8 kph</td><td>14 kph</td><td>11.9 kph</td><td>6.1 kph</td><td>2.5 kph</td><td>1.4 kph</td><td>5 kph</td><td>7.2 kph</td><td>10.8 kph</td><td>7.9 kph</td><td>3.6 kph</td><td>5.8 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-    Updated at: 2025-09-06T21:18:55Z - by <a target="_blank"
+    Updated at: 2025-09-07T08:26:11Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
