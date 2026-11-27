@@ -4,21 +4,21 @@ Hello World!!!
 
 ### #Blog posts
 
-- 🧰 [Daily Tech Brief — 25/11/2026](https://eplus.dev/daily-tech-brief-25-11-2026) - 2026-11-25 
-- 😺 [Daily Tech Brief — 23/11/2026](https://eplus.dev/daily-tech-brief-23-11-2026) - 2026-11-23 
-- 🗽 [Daily Tech Brief — 20/11/2026](https://eplus.dev/daily-tech-brief-20-11-2026) - 2026-11-20 
-- 🌜 [Daily Tech Brief — 19/11/2026](https://eplus.dev/daily-tech-brief-19-11-2026) - 2026-11-19 
-- 📝 [Daily Tech Brief — 18/11/2026](https://eplus.dev/daily-tech-brief-18-11-2026) - 2026-11-18 
-- 🚀 [Daily Tech Brief — 17/11/2026](https://eplus.dev/daily-tech-brief-17-11-2026) - 2026-11-17 
-- 💼 [Daily Tech Brief — 15/11/2026](https://eplus.dev/daily-tech-brief-15-11-2026) - 2026-11-16 
-- 🦣 [Xiaomi tặng 3 tháng Google AI Pro miễn phí: Thiết bị hỗ trợ và cách kích hoạt](https://eplus.dev/xiaomi-google-ai-pro-free-3-months) - 2026-11-14 
-- 👨‍🏫 [Daily Tech Brief — 14/11/2026](https://eplus.dev/daily-tech-brief-14-11-2026) - 2026-11-14 
-- 🔭 [Daily Tech Brief — 12/11/2026](https://eplus.dev/daily-tech-brief-12-11-2026-mweesd17) - 2026-11-13 
-- 🤡 [ASUS Tặng 3 Tháng Google AI Pro Miễn Phí Kèm 5TB: Hướng Dẫn Nhận Qua MyASUS](https://eplus.dev/asus-google-ai-pro-5tb-free-3-months-2026) - 2026-11-12 
-- 💡 [Anthropic Tightens Claude Access Restrictions for China and Russia](https://eplus.dev/anthropic-tightens-claude-access-restrictions-for-china-and-russia) - 2026-11-12 
-- 🦣 [I Built Muse Invite Hub: An Open-Source Community for Sharing Muse AI Invite Codes](https://eplus.dev/i-built-muse-invite-hub-an-open-source-community-for-sharing-muse-ai-invite-codes) - 2026-11-12 
-- 💪 [Daily Tech Brief — 12/11/2026](https://eplus.dev/daily-tech-brief-12-11-2026) - 2026-11-12 
-- 🤡 [Daily Tech Brief — 11/11/2026](https://eplus.dev/daily-tech-brief-11-11-2026) - 2026-11-11 
+- 🧰 [Daily Tech Brief — 27/11/2026](https://eplus.dev/daily-tech-brief-27-11-2026) - 2026-11-27 
+- 😺 [Daily Tech Brief — 25/11/2026](https://eplus.dev/daily-tech-brief-25-11-2026) - 2026-11-25 
+- 🗽 [Daily Tech Brief — 23/11/2026](https://eplus.dev/daily-tech-brief-23-11-2026) - 2026-11-23 
+- 🌜 [Daily Tech Brief — 20/11/2026](https://eplus.dev/daily-tech-brief-20-11-2026) - 2026-11-20 
+- 📝 [Daily Tech Brief — 19/11/2026](https://eplus.dev/daily-tech-brief-19-11-2026) - 2026-11-19 
+- 🚀 [Daily Tech Brief — 18/11/2026](https://eplus.dev/daily-tech-brief-18-11-2026) - 2026-11-18 
+- 💼 [Daily Tech Brief — 17/11/2026](https://eplus.dev/daily-tech-brief-17-11-2026) - 2026-11-17 
+- 🦣 [Daily Tech Brief — 15/11/2026](https://eplus.dev/daily-tech-brief-15-11-2026) - 2026-11-16 
+- 👨‍🏫 [Xiaomi tặng 3 tháng Google AI Pro miễn phí: Thiết bị hỗ trợ và cách kích hoạt](https://eplus.dev/xiaomi-google-ai-pro-free-3-months) - 2026-11-14 
+- 🔭 [Daily Tech Brief — 14/11/2026](https://eplus.dev/daily-tech-brief-14-11-2026) - 2026-11-14 
+- 🤡 [Daily Tech Brief — 12/11/2026](https://eplus.dev/daily-tech-brief-12-11-2026-mweesd17) - 2026-11-13 
+- 💡 [ASUS Tặng 3 Tháng Google AI Pro Miễn Phí Kèm 5TB: Hướng Dẫn Nhận Qua MyASUS](https://eplus.dev/asus-google-ai-pro-5tb-free-3-months-2026) - 2026-11-12 
+- 🦣 [Anthropic Tightens Claude Access Restrictions for China and Russia](https://eplus.dev/anthropic-tightens-claude-access-restrictions-for-china-and-russia) - 2026-11-12 
+- 💪 [I Built Muse Invite Hub: An Open-Source Community for Sharing Muse AI Invite Codes](https://eplus.dev/i-built-muse-invite-hub-an-open-source-community-for-sharing-muse-ai-invite-codes) - 2026-11-12 
+- 🤡 [Daily Tech Brief — 12/11/2026](https://eplus.dev/daily-tech-brief-12-11-2026) - 2026-11-12 
 
 
 <div align="right">
@@ -42,25 +42,25 @@ Hello World!!!
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/152.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/152.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/152.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/152.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/152.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/266.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/266.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/293.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Cloudy</td><td width="200px">Mist</td><td width="200px">Smog</td><td width="200px">Smog</td><td width="200px">Smog</td><td width="200px">Smog</td><td width="200px">Smog</td><td width="200px">Mist</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light drizzle</td><td width="200px">Light rain</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light drizzle</td>
+        <td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Patchy light rain</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Cloudy</td><td width="200px">Cloudy</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.3 °C</td><td>26 °C</td><td>25.9 °C</td><td>25.6 °C</td><td>25.4 °C</td><td>25.5 °C</td><td>25.5 °C</td><td>26.1 °C</td><td>27.6 °C</td><td>29.2 °C</td><td>30.8 °C</td><td>31.8 °C</td><td>32.6 °C</td><td>33 °C</td><td>31.8 °C</td><td>30.3 °C</td><td>29.1 °C</td><td>28.3 °C</td><td>27.4 °C</td><td>27 °C</td><td>26.9 °C</td><td>26.5 °C</td><td>26.3 °C</td><td>26.1 °C</td>
+        <td>26.3 °C</td><td>26.1 °C</td><td>25.9 °C</td><td>25.7 °C</td><td>25.5 °C</td><td>25.6 °C</td><td>25.7 °C</td><td>26.2 °C</td><td>27.6 °C</td><td>29.1 °C</td><td>30.6 °C</td><td>31.7 °C</td><td>32.5 °C</td><td>32.6 °C</td><td>31.2 °C</td><td>29.9 °C</td><td>28.1 °C</td><td>27.3 °C</td><td>26.7 °C</td><td>26.3 °C</td><td>26 °C</td><td>25.9 °C</td><td>25.8 °C</td><td>25.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>4.7 kph</td><td>3.6 kph</td><td>1.4 kph</td><td>1.8 kph</td><td>2.9 kph</td><td>3.2 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>2.5 kph</td><td>0.7 kph</td><td>1.1 kph</td><td>1.8 kph</td><td>3.2 kph</td><td>5.4 kph</td><td>7.9 kph</td><td>6.8 kph</td><td>6.8 kph</td><td>6.1 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>3.2 kph</td>
+        <td>5 kph</td><td>4 kph</td><td>3.2 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>2.9 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>1.8 kph</td><td>3.6 kph</td><td>1.4 kph</td><td>1.4 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>5.8 kph</td><td>9.7 kph</td><td>7.9 kph</td><td>5.4 kph</td><td>2.9 kph</td><td>2.2 kph</td><td>2.2 kph</td><td>2.2 kph</td><td>2.2 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
-    Updated at: 2026-11-26T18:16:55Z - by <a target="_blank"
+    Updated at: 2026-11-27T03:33:03Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
 </details>
